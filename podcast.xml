@@ -8,10 +8,10 @@
     <atom:link href="http://blog.binaergewitter.de/"/>
     <atom:id>http://blog.binaergewitter.de/</atom:id>
 
-    <description>Ein Podcast, der sich mit dem Web, Technologie und OpenSource Software auseinander setzt</description>
+    <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Wed, 25 Jan 2012 17:11:45 +0100</lastBuildDate>
+    <lastBuildDate>Wed, 25 Jan 2012 19:06:11 +0100</lastBuildDate>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -21,9 +21,9 @@
     <itunes:category text="Technology" />
     <itunes:owner>
       <itunes:name>Binärgewitter Crew</itunes:name>
-      <itunes:email>feedback@retinacast.de</itunes:email>
+      <itunes:email>info@binaergewitter.de</itunes:email>
     </itunes:owner>
-    <managingEditor>feedback@retinacast.de (Binärgewitter Crew)</managingEditor>
+    <managingEditor>info@binaergewitter.de (Binärgewitter Crew)</managingEditor>
     <copyright>Creative Commons BY-NC-SA 3.0 DE</copyright>
     <itunes:subtitle>Web, Technologie und OpenSource Software</itunes:subtitle>
     <itunes:keywords>podcast, technology, gadgets, web, opensource</itunes:keywords>
@@ -39,7 +39,7 @@
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd"></media:category>
     <media:credit role="author">Binärgewitter Crew</media:credit>
     <media:rating>nonadult</media:rating>
-    <media:description type="plain">Ein Podcast, der sich mit dem Web, Technologie und OpenSource Software auseinander setzt</media:description>
+    <media:description type="plain">Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</media:description>
     
     <item>
       <title>Erste Binaergewitter-Talk Sendung am Mittwoch</title>
