@@ -11,7 +11,7 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Wed, 25 Jan 2012 19:06:11 +0100</lastBuildDate>
+    <lastBuildDate>Thu, 26 Jan 2012 17:43:00 +0100</lastBuildDate>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -32,7 +32,7 @@
       <url>http://blog.binaergewitter.de/images/binaergewitter_logo.png</url>
       <link>http://blog.binaergewitter.de</link>
     </image>
-    
+
     <media:copyright>Creative Commons BY-NC-SA 3.0 DE</media:copyright>
     <media:thumbnail url="http://blog.binaergewitter.de" />
     <media:keywords>podcast, technology, gadgets, web, opensource</media:keywords>
@@ -40,6 +40,352 @@
     <media:credit role="author">Binärgewitter Crew</media:credit>
     <media:rating>nonadult</media:rating>
     <media:description type="plain">Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</media:description>
+    
+    <item>
+      <title>Binärgewitter Talk #0 - schlechter Kaffee oder sexuelle Belästigung</title>
+      <link>http://blog.binaergewitter.de/blog/2012/01/26/binaergewitter-talk-number-0-schlechter-kaffee-oder-sexuelle-belaestigung/</link>
+      <comments>http://blog.binaergewitter.de/blog/2012/01/26/binaergewitter-talk-number-0-schlechter-kaffee-oder-sexuelle-belaestigung/#comments</comments>
+      <pubDate>Thu, 26 Jan 2012 10:15:00 +0100</pubDate>
+      
+      <category><![CDATA[talk]]></category>
+      
+      <media:credit role="author">Binärgewitter Crew</media:credit>
+      <media:rating>nonadult</media:rating>
+      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2012/01/26/binaergewitter-talk-number-0-schlechter-kaffee-oder-sexuelle-belaestigung/</guid>
+      <description>
+        <![CDATA[<h2>Einführung</h2>
+
+<ul>
+<li>Wer sind wir eigentlich und was machen wir hier?
+
+<ul>
+<li><a href="http://blog.binaergewitter.de/das-team/">Team Seite</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Unsere Infrastruktur</h2>
+
+<ul>
+<li>Wie hosten wir unsere Sachen nun?</li>
+<li>Was für Software setzen wir dafür ein?
+
+<ul>
+<li><a href="https://github.com/shopify/liquid">Liquid</a></li>
+<li><a href="http://jekyllrb.com/">Jekyll</a></li>
+<li><a href="http://octopress.org/">Octopress</a></li>
+<li>Ruby, Bundler, Rake, Piwik, audio.js &#8230;</li>
+</ul>
+</li>
+<li>Wie können die Hörer mitmachen?</li>
+<li><a href="https://github.com/binaergewitter">Auf Github</a>
+
+<ul>
+<li><a href="https://github.com/Binaergewitter/binaergewitter.github.com/commits/source">Commits</a></li>
+<li><a href="https://github.com/Binaergewitter/binaergewitter.github.com/issues?sort=created&amp;direction=desc&amp;state=open">Issue Tracker</a></li>
+</ul>
+</li>
+<li>Intro</li>
+</ul>
+
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://digitallife.today.msnbc.msn.com/_news/2012/01/14/10158059-programming-prodigy-passes-away-at-16-hear-her-philosophy-of-life">Arfa Karim Randhawa verstorben mit 16</a>
+
+<h2>In der Zwischenzeit</h2></li>
+<li>Weihnachten ;)</li>
+<li>28c3</li>
+<li>CES</li>
+<li>Megaupload ist tod</li>
+<li><a href="http://www.pro-linux.de/news/1/17946/desura-client-im-quellcode-freigegeben.html">Dezura Client unter GPL</a></li>
+<li><a href="http://www.numerama.com/magazine/21393-le-p2p-explose-apres-la-fermeture-de-megaupload.html">P2P Traffic explodiert zufaelliger weise am 19.Januar[fr]</a></li>
+<li>ACTA/SOPA/PiPA
+
+<ul>
+<li>You heard it here first! Sendung im letzten Jahr</li>
+<li>Facepalm <a href="http://www.golem.de/1201/89320.html">CDU will (mal wieder) Netzsperren</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://gigaom.com/mobile/webos-lives-hp-decides-to-open-source-the-platform/">HP gibt WebOS als OpenSource frei</a>
+
+<ul>
+<li>Gibt es den Sourcecode nun?</li>
+<li>Unter welcher Lizenz ist der Code freigegeben?</li>
+<li><a href="https://github.com/hpwebos">Es gibt einen leeren Github Account</a></li>
+<li><a href="http://www.golem.de/1201/89140.html">Microsoft Manager übernimmt WebOS</a></li>
+<li><a href="http://www.theverge.com/2012/1/25/2732672/open-webos-10-announced">HPWebOS Releaseplan</a></li>
+</ul>
+</li>
+<li><a href="http://www.golem.de/1112/88613.html">SPDY für Apache</a></li>
+<li><a href="https://github.com/jonasschneider/momentum">SPDY für Rack</a></li>
+<li><a href="http://www.golem.de/1201/89268.html">Google will TCP beschleunigen</a></li>
+<li><a href="http://www.ocert.org/advisories/ocert-2011-003.html">DoS Angriff mittels Hash Kollisonen</a>
+
+<ul>
+<li><a href="http://events.ccc.de/congress/2011/Fahrplan/events/4680.en.html">Vortrag vom 28c3</a></li>
+</ul>
+</li>
+<li><a href="http://www.adityaravishankar.com/projects/games/command-and-conquer/">C&amp;C original gibt es nun in HTML5</a></li>
+<li><a href="http://krebsonsecurity.com/2012/01/megasearch-aims-to-index-fraud-site-wares/">MegaSearch.cc - Die Kreditkartennummern Suchmaschine</a></li>
+<li><a href="http://www.allthingsdistributed.com/2012/01/The-AWS-Storage-Gateway.html">The AWS Storage Gateway</a>
+
+<h2>Themen</h2></li>
+</ul>
+
+
+<h3>Marc&#8217;s neuer HTPC/HomeServer</h3>
+
+<ul>
+<li><a href="http://flirc.tv/">Flirc</a> (marc)</li>
+<li><a href="https://www.amazon.de/dp/B005O43SI8/">AMD E-450 Mainboard: Asus-E45M1-M</a> (marc)</li>
+<li><a href="https://www.amazon.de/dp/B002A2U8KI/">LC-Power 1300MI Gehäuse Mini-ITX/M-ATX 75W</a> (marc)</li>
+<li>PCI Interrupt probleme unter Last ( irq 1[69]: nobody cared ) (felix)</li>
+<li><a href="http://www.t3.com.au/2012/01/13/wii-balance-board-enters-guinness-book-of-records/">Wii Balance Board ist im Guiness Buch der Rekorde</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li>Siehe AMD-E45M1-M (felix)</li>
+<li>iptables macht komische Sachen
+
+<ul>
+<li>iptables -t nat -A PREROUTING -p tcp &#8211;dport 30009 -j DNAT &#8211;to $IP:30009</li>
+<li>iptables -A POSTROUTING -t nat -j MASQUERADE</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://www.paperplanes.de/2011/12/9/the-magic-of-consistent-hashing.html">The magic of consistent hashing</a> (pfleidi)</li>
+<li><a href="https://www.destroyallsoftware.com/talks/wat">Wat</a> (Felix, pfleidi, Marc)
+
+<ul>
+<li><a href="http://knowyourmeme.com/memes/wat">Wat meme</a></li>
+</ul>
+</li>
+<li><a href="http://www.amazon.de/gp/product/B0058NV1IY/trektrip">Star Trek - Deep Space Nine 8.01: Offenbarung</a>
+
+<ul>
+<li><a href="http://www.amazon.de/gp/product/B005OUKLG4/trektrip">Star Trek - Next Generation auf Blu-ray</a></li>
+<li><a href="http://www.youtube.com/watch?v=fHUQ3aGLa5Q">Unterschied auf YouTube</a></li>
+</ul>
+</li>
+<li><a href="http://amzn.to/w9FQDJ">Eloquent Ruby</a></li>
+<li><a href="http://research.google.com/pubs/pub37200.html">Tenzing A SQL Implementation On The MapReduce Framework</a></li>
+<li><a href="http://codeascraft.etsy.com/2012/01/23/solr-bittorrent-index-replication/">Turbocharging Solr Index Replication with BitTorrent</a></li>
+<li><a href="http://www.amazon.de/gp/product/1933929669/retinacast-21">Ultra Fuckers</a></li>
+<li><a href="http://dougvitale.wordpress.com/2011/12/21/deprecated-linux-networking-commands-and-their-replacements/">deprecated linux networking commands and their replacements</a></li>
+<li><a href="http://code.google.com/p/reaver-wps/">Recover Wifi Protected Setup access</a></li>
+<li><a href="http://sviehb.files.wordpress.com/2011/12/viehboeck_wps.pdf">WPS Brute Force Paper</a></li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="https://buy.louisck.net">Louis CK at the Beacon Theatre</a> (pfleidi)
+
+<ul>
+<li><a href="https://buy.louisck.net/news">Stellungnahme nach 12 Tagen</a></li>
+</ul>
+</li>
+<li><a href="http://www.trybloc.com/courses">Trybloc</a> (pfleidi)</li>
+<li><a href="http://www.iozone.org/">iozone</a> (ingo)</li>
+<li><a href="http://ulissesaraujo.wordpress.com/2008/12/08/deploying-honeypots-with-honeyd/">honeyd</a> -> Software die einfach fertig ist</li>
+<li><a href="http://freelancing-gods.com/posts/backing_up_with_backup">Backup with Backup</a></li>
+<li><a href="http://travis-ci.org/">Travis CI</a></li>
+<li><a href="http://www.minipwner.com/">Minipwner (aka. Krebsplug)</a></li>
+<li><a href="http://python-for-humans.heroku.com">Python for Humans</a></li>
+</ul>
+
+]]>
+      </description>
+      
+      <enclosure url="http://download.binaergewitter.de/2012-01-25.Binaergewitter.Talk.0.mp3" length="113277056" type="audio/mpeg" />
+      <media:content url="http://download.binaergewitter.de/2012-01-25.Binaergewitter.Talk.0.mp3" fileSize="113277056" type="audio/mpeg" />
+      <itunes:keywords></itunes:keywords>
+      <itunes:subtitle>Binärgewitter Talk #0 - schlechter Kaffee oder sexuelle Belästigung</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Einführung
+
+
+Wer sind wir eigentlich und was machen wir hier?
+
+
+Team Seite
+
+
+
+
+
+Unsere Infrastruktur
+
+
+Wie hosten wir unsere Sachen nun?
+Was für Software setzen wir dafür ein?
+
+
+Liquid
+Jekyll
+Octopress
+Ruby, Bundler, Rake, Piwik, audio.js &#8230;
+
+
+Wie können die Hörer mitmachen?
+Auf Github
+
+
+Commits
+Issue Tracker
+
+
+Intro
+
+
+
+Toter der Woche
+
+
+Arfa Karim Randhawa verstorben mit 16
+
+In der Zwischenzeit
+Weihnachten ;)
+28c3
+CES
+Megaupload ist tod
+Dezura Client unter GPL
+P2P Traffic explodiert zufaelliger weise am 19.Januar[fr]
+ACTA/SOPA/PiPA
+
+
+You heard it here first! Sendung im letzten Jahr
+Facepalm CDU will (mal wieder) Netzsperren
+
+
+
+
+
+News
+
+
+HP gibt WebOS als OpenSource frei
+
+
+Gibt es den Sourcecode nun?
+Unter welcher Lizenz ist der Code freigegeben?
+Es gibt einen leeren Github Account
+Microsoft Manager übernimmt WebOS
+HPWebOS Releaseplan
+
+
+SPDY für Apache
+SPDY für Rack
+Google will TCP beschleunigen
+DoS Angriff mittels Hash Kollisonen
+
+
+Vortrag vom 28c3
+
+
+C&amp;C original gibt es nun in HTML5
+MegaSearch.cc - Die Kreditkartennummern Suchmaschine
+The AWS Storage Gateway
+
+Themen
+
+
+
+Marc&#8217;s neuer HTPC/HomeServer
+
+
+Flirc (marc)
+AMD E-450 Mainboard: Asus-E45M1-M (marc)
+LC-Power 1300MI Gehäuse Mini-ITX/M-ATX 75W (marc)
+PCI Interrupt probleme unter Last ( irq 1[69]: nobody cared ) (felix)
+Wii Balance Board ist im Guiness Buch der Rekorde
+
+
+
+Mimimi der Woche
+
+
+Siehe AMD-E45M1-M (felix)
+iptables macht komische Sachen
+
+
+iptables -t nat -A PREROUTING -p tcp &#8211;dport 30009 -j DNAT &#8211;to $IP:30009
+iptables -A POSTROUTING -t nat -j MASQUERADE
+
+
+
+
+
+Lesefoo
+
+
+The magic of consistent hashing (pfleidi)
+Wat (Felix, pfleidi, Marc)
+
+
+Wat meme
+
+
+Star Trek - Deep Space Nine 8.01: Offenbarung
+
+
+Star Trek - Next Generation auf Blu-ray
+Unterschied auf YouTube
+
+
+Eloquent Ruby
+Tenzing A SQL Implementation On The MapReduce Framework
+Turbocharging Solr Index Replication with BitTorrent
+Ultra Fuckers
+deprecated linux networking commands and their replacements
+Recover Wifi Protected Setup access
+WPS Brute Force Paper
+
+
+
+Picks
+
+
+Louis CK at the Beacon Theatre (pfleidi)
+
+
+Stellungnahme nach 12 Tagen
+
+
+Trybloc (pfleidi)
+iozone (ingo)
+honeyd -> Software die einfach fertig ist
+Backup with Backup
+Travis CI
+Minipwner (aka. Krebsplug)
+Python for Humans
+
+
+]]>
+      </itunes:summary>
+      <itunes:author>Binärgewitter Crew</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      <itunes:duration>1</itunes:duration>
+      
+    </item>
     
     <item>
       <title>Erste Binaergewitter-Talk Sendung am Mittwoch</title>
@@ -73,273 +419,243 @@
       <media:rating>nonadult</media:rating>
       <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2011/08/24/binargewitter-number-3-arbeiten-und-lernen-im-hackerspace/</guid>
       <description>
-        <![CDATA[<p>Diesmal ein gar nicht so technisches Thema, aber trotzdem f&#252;r uns Geeks interessant. Es geht um die 
-Hackerspaces, die Kultur<br />
-
-darum und warum das Lernen und Arbeiten in solchen Umgebungen einfacherer ist als in der Schule und im Studium. Mit 
-dabei sind<br />
-diesmal pfleidi, Felix, Jan und hadez. Moderation: Ingo</p>
+        <![CDATA[<p>Diesmal ein gar nicht so technisches Thema, aber trotzdem f&uuml;r uns Geeks interessant. Es geht um die Hackerspaces, die Kultur und warum das Lernen und Arbeiten in solchen Umgebungen einfacherer ist als in der Schule und im Studium. Mit dabei sind diesmal pfleidi, Felix, Jan und hadez. Moderation: Ingo</p>
 
 
-<div>
-<h2 id="internal-source-marker_0.9541014686692506" dir="ltr">Links</h2>
+
+
+<h2>Links</h2>
+
+
+
+
+<h3>Hackerspaces allgemein</h3>
+
+
+
+
 <ul>
-<li>Hackerspaces allgemein
-<ul>
-<li>
-                <a 
-href="http://en.wikipedia.org/wiki/Hackerspace">http://en.wikipedia.org/wiki/Hackerspace</a>
-            </li>
-<li>
-
-                <a 
-href="http://hackerspaces.org/wiki/Design_Patterns">http://hackerspaces.org/wiki/Design_Patterns</a>
-            </li>
+<li><a href="http://en.wikipedia.org/wiki/Hackerspace">http://en.wikipedia.org/wiki/Hackerspace</a></li>
+<li><a href="http://hackerspaces.org/wiki/Design_Patterns">http://hackerspaces.org/wiki/Design_Patterns</a></li>
 </ul>
-</li>
-<li>
-        Arbeitsdefinition “Hacker”
+
+
+
+
+<h3>Arbeitsdefinition &#8220;Hacker&#8221;</h3>
+
+
+
+
 <ul>
-<li>
-                <a 
-href="http://de.wikipedia.org/wiki/Tech_Model_Railroad_Club">http://de.wikipedia.org/wiki/Tech_Model_Railroad_Club</a>
-            </li>
-
-<li>
-                <a 
-href="http://de.wikipedia.org/wiki/Hacker#Die_Hackerkultur_der_Hobbyisten_aus_der_Homecomputerszene">http://de.wikipedia.org/wiki/Hacker#Die_Hackerkultur_der_Hobbyisten_aus_der_Homecomputerszene</a>
-            </li>
-<li>
-                Wau Holland “atypisches Benutzerverhalten”
-            </li>
-<li>
-                zentrale Anlaufstelle
-            </li>
-<li>
-                Unterschied zu Coworking
-            </li>
-
+<li><a href="http://de.wikipedia.org/wiki/Tech_Model_Railroad_Club">http://de.wikipedia.org/wiki/Tech_Model_Railroad_Club</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Hacker#Die_Hackerkultur_der_Hobbyisten_aus_der_Homecomputerszene">http://de.wikipedia.org/wiki/Hacker#Die_Hackerkultur_der_Hobbyisten_aus_der_Homecomputerszene</a></li>
+<li>Wau Holland &acirc;&euro;&oelig;atypisches Benutzerverhalten&acirc;&euro;</li>
+<li>zentrale Anlaufstelle</li>
+<li>Unterschied zu Coworking</li>
 </ul>
-</li>
-</ul>
-<ul>
-<li>
-        shackspace im speziellen
-<ul>
-<li>
-                <a href="http://vimeo.com/shackspace">http://vimeo.com/shackspace</a>
-            </li>
-<li>
-                <a href="http://shackspace.de/wiki/doku.php">http://shackspace.de/wiki/doku.php</a>
 
-            </li>
-<li>
-                @freenode #shackspace
-            </li>
-<li>
-        Arbeiten in Hackerspaces
-<ul>
-<li>
-                Andere Beipspiele
-            </li>
-<li>
-                <a 
-href="http://manifesto.softwarecraftsmanship.org/">http://manifesto.softwarecraftsmanship.org/</a>
 
-            </li>
-<li>
-                <a href="http://www.extremeprogramming.org/">http://www.extremeprogramming.org/</a>
-            </li>
-</ul>
-</li>
-<li>
-        Infrastrukturprojekte
-<ul>
-<li>
-                Stromverkabelung
-            </li>
 
-<li>
-                Protal
-            </li>
+
+<h3>shackspace im speziellen</h3>
+
+
+
+
+<ul>
+<li><a href="http://vimeo.com/shackspace">http://vimeo.com/shackspace</a></li>
+<li><a href="http://shackspace.de/wiki/doku.php">http://shackspace.de/wiki/doku.php</a></li>
+<li>@freenode #shackspace</li>
 </ul>
-</li>
-<li>“freie” Projekte
+
+
+
+
+<h3>Arbeiten in Hackerspaces</h3>
+
+
+
+
+<h4>Andere Beipspiele</h4>
+
+
+
+
+<ul>
+<li><a href="http://manifesto.softwarecraftsmanship.org/">http://manifesto.softwarecraftsmanship.org/</a></li>
+<li><a href="http://www.extremeprogramming.org/">http://www.extremeprogramming.org/</a></li>
+</ul>
+
+
+
+
+<h4>Infrastrukturprojekte</h4>
+
+
+
+
+<ul>
+<li>Stromverkabelung</li>
+<li>Portal</li>
+</ul>
+
+
+
+
+<h4>&#8220;freie&#8221; Projekte</h4>
+
+
+
+
 <ul>
 <li>Blinkende Dinge</li>
 <li>Spielbasteien</li>
 <li>Krebs
 <ul>
-<li>
-                        <a 
-href="https://github.com/krebscode/painload">https://github.com/krebscode/painload</a>
+<li><a href="https://github.com/krebscode/painload">https://github.com/krebscode/painload</a></li>
+<li><a href="http://shackspace.de/wiki/doku.php?id=project:krebs">http://shackspace.de/wiki/doku.php?id=project:krebs</a></li>
+</ul>
+</li>
+</ul>
 
-                    </li>
-<li>
-                        <a 
-href="http://shackspace.de/wiki/doku.php?id=project:krebs">http://shackspace.de/wiki/doku.php?id=project:krebs</a>
-                    </li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Veranstaltungen
+
+
+
+<h4>Veranstaltungen</h4>
+
+
+
+
 <ul>
-<li>
-            LHC
-        </li>
+<li>LHC</li>
+<li>NOT <a href="http://largehardoncollider.com/">http://largehardoncollider.com/</a></li>
+<li><a href="http://shackspace.de/wiki/doku.php?id=event:lhc-ii">http://shackspace.de/wiki/doku.php?id=event:lhc-ii</a></li>
+</ul>
 
-<li>
-            NOT <a href="http://largehardoncollider.com/">http://largehardoncollider.com/</a>
-        </li>
-<li>
-            <a 
-href="http://shackspace.de/wiki/doku.php?id=event:lhc-ii">http://shackspace.de/wiki/doku.php?id=event:lhc-ii</a>
-        </li>
-</ul>
-</li>
-</ul>
-</li>
 
-</ul>
-<h2 dir="ltr">Weiterf&#252;hrende Links</h2>
+
+
+<h2>Weiterf&uuml;hrende Links</h2>
+
+
+
+
 <ul>
-<li>
-        <a href="http://hackerspaces.org/">http://hackerspaces.org</a>
-    </li>
-<li>
-        <a href="http://hackerspaces.org/wiki/List_of_Hacker_Spaces">List of Hacker Spaces &#8211; 
-HackerspaceWiki &#8211; Hackerspaces</a>
-
-    </li>
-<li>
-        <a href="http://shackspace.de/">http://shackspace.de</a>
-    </li>
-<li>
-        <a href="http://shackspace.de/wiki">http://shackspace.de/wiki</a>
-    </li>
-<li>
-        <a href="http://chaosradio.ccc.de/cre134.html">http://chaosradio.ccc.de/cre134.html</a>
-
-    </li>
+<li><a href="http://hackerspaces.org/">http://hackerspaces.org</a></li>
+<li><a href="http://hackerspaces.org/wiki/List_of_Hacker_Spaces">List of Hacker Spaces &ndash; HackerspaceWiki &ndash; Hackerspaces</a></li>
+<li><a href="http://shackspace.de/">http://shackspace.de</a></li>
+<li><a href="http://shackspace.de/wiki">http://shackspace.de/wiki</a></li>
+<li><a href="http://chaosradio.ccc.de/cre134.html">http://chaosradio.ccc.de/cre134.html</a></li>
 </ul>
-</div>
-
-
 
 ]]>
       </description>
       
-      <enclosure url="http://archiv.radiotux.de/sendungen/binaergewitter/2011-08-18.RadioTux.Binaergewitter.3.mp3" length="0" type="audio/mpeg" />
-      <media:content url="http://archiv.radiotux.de/sendungen/binaergewitter/2011-08-18.RadioTux.Binaergewitter.3.mp3" fileSize="1" type="audio/mpeg" />
+      <enclosure url="http://archiv.radiotux.de/sendungen/binaergewitter/2011-08-18.RadioTux.Binaergewitter.3.mp3" length="85420625" type="audio/mpeg" />
+      <media:content url="http://archiv.radiotux.de/sendungen/binaergewitter/2011-08-18.RadioTux.Binaergewitter.3.mp3" fileSize="85420625" type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
-      <itunes:subtitle>Diesmal ein gar nicht so technisches Thema, aber trotzdem f&#252;r uns Geeks interessant. Es geht um die Hackerspaces, die Kulturdarum und warum das Lernen und Arbeiten in solchen Umgebungen einfacherer ist als in der Schule und im Studium. Mit dabei &#8230;</itunes:subtitle>
-      <itunes:summary>Diesmal ein gar nicht so technisches Thema, aber trotzdem f&#252;r uns Geeks interessant. Es geht um die 
-Hackerspaces, die Kultur
+      <itunes:subtitle>Binärgewitter #3: Arbeiten und Lernen im Hackerspace</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Diesmal ein gar nicht so technisches Thema, aber trotzdem f&uuml;r uns Geeks interessant. Es geht um die Hackerspaces, die Kultur und warum das Lernen und Arbeiten in solchen Umgebungen einfacherer ist als in der Schule und im Studium. Mit dabei sind diesmal pfleidi, Felix, Jan und hadez. Moderation: Ingo
 
-darum und warum das Lernen und Arbeiten in solchen Umgebungen einfacherer ist als in der Schule und im Studium. Mit 
-dabei sind
-diesmal pfleidi, Felix, Jan und hadez. Moderation: Ingo
 
 
 
 Links
 
+
+
+
 Hackerspaces allgemein
 
 
-                <a 
-href="http://en.wikipedia.org/wiki/Hackerspace">http://en.wikipedia.org/wiki/Hackerspace
-            
-
-
-                <a 
-href="http://hackerspaces.org/wiki/Design_Patterns">http://hackerspaces.org/wiki/Design_Patterns
-            
 
 
 
-        Arbeitsdefinition “Hacker”
-
-
-                <a 
-href="http://de.wikipedia.org/wiki/Tech_Model_Railroad_Club">http://de.wikipedia.org/wiki/Tech_Model_Railroad_Club
-            
-
-
-                <a 
-href="http://de.wikipedia.org/wiki/Hacker#Die_Hackerkultur_der_Hobbyisten_aus_der_Homecomputerszene">http://de.wikipedia.org/wiki/Hacker#Die_Hackerkultur_der_Hobbyisten_aus_der_Homecomputerszene
-            
-
-                Wau Holland “atypisches Benutzerverhalten”
-            
-
-                zentrale Anlaufstelle
-            
-
-                Unterschied zu Coworking
-            
+http://en.wikipedia.org/wiki/Hackerspace
+http://hackerspaces.org/wiki/Design_Patterns
 
 
 
 
 
-
-        shackspace im speziellen
-
-
-                http://vimeo.com/shackspace
-            
-
-                http://shackspace.de/wiki/doku.php
-
-            
-
-                @freenode #shackspace
-            
-
-        Arbeiten in Hackerspaces
-
-
-                Andere Beipspiele
-            
-
-                <a 
-href="http://manifesto.softwarecraftsmanship.org/">http://manifesto.softwarecraftsmanship.org/
-
-            
-
-                http://www.extremeprogramming.org/
-            
+Arbeitsdefinition &#8220;Hacker&#8221;
 
 
 
-        Infrastrukturprojekte
 
 
-                Stromverkabelung
-            
+http://de.wikipedia.org/wiki/Tech_Model_Railroad_Club
+http://de.wikipedia.org/wiki/Hacker#Die_Hackerkultur_der_Hobbyisten_aus_der_Homecomputerszene
+Wau Holland &acirc;&euro;&oelig;atypisches Benutzerverhalten&acirc;&euro;
+zentrale Anlaufstelle
+Unterschied zu Coworking
 
 
-                Protal
-            
 
 
-“freie” Projekte
+
+shackspace im speziellen
+
+
+
+
+
+http://vimeo.com/shackspace
+http://shackspace.de/wiki/doku.php
+@freenode #shackspace
+
+
+
+
+
+Arbeiten in Hackerspaces
+
+
+
+
+Andere Beipspiele
+
+
+
+
+
+http://manifesto.softwarecraftsmanship.org/
+http://www.extremeprogramming.org/
+
+
+
+
+
+Infrastrukturprojekte
+
+
+
+
+
+Stromverkabelung
+Portal
+
+
+
+
+
+&#8220;freie&#8221; Projekte
+
+
+
+
 
 Blinkende Dinge
 Spielbasteien
 Krebs
 
+https://github.com/krebscode/painload
+http://shackspace.de/wiki/doku.php?id=project:krebs
 
-                        <a 
-href="https://github.com/krebscode/painload">https://github.com/krebscode/painload
 
-                    
 
-                        <a 
-href="http://shackspace.de/wiki/doku.php?id=project:krebs">http://shackspace.de/wiki/doku.php?id=project:krebs
-                    
 
 
 
@@ -347,48 +663,32 @@ href="http://shackspace.de/wiki/doku.php?id=project:krebs">http://shackspace.de/
 Veranstaltungen
 
 
-            LHC
-        
 
 
-            NOT http://largehardoncollider.com/
-        
 
-            <a 
-href="http://shackspace.de/wiki/doku.php?id=event:lhc-ii">http://shackspace.de/wiki/doku.php?id=event:lhc-ii
-        
+LHC
+NOT http://largehardoncollider.com/
+http://shackspace.de/wiki/doku.php?id=event:lhc-ii
 
 
 
 
 
-
-Weiterf&#252;hrende Links
-
-
-        http://hackerspaces.org
-    
-
-        List of Hacker Spaces &#8211; 
-HackerspaceWiki &#8211; Hackerspaces
-
-    
-
-        http://shackspace.de
-    
-
-        http://shackspace.de/wiki
-    
-
-        http://chaosradio.ccc.de/cre134.html
-
-    
+Weiterf&uuml;hrende Links
 
 
 
 
 
-</itunes:summary>
+http://hackerspaces.org
+List of Hacker Spaces &ndash; HackerspaceWiki &ndash; Hackerspaces
+http://shackspace.de
+http://shackspace.de/wiki
+http://chaosradio.ccc.de/cre134.html
+
+
+]]>
+      </itunes:summary>
       <itunes:author>Binärgewitter Crew</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>1</itunes:duration>
@@ -534,11 +834,12 @@ HackerspaceWiki &#8211; Hackerspaces
 ]]>
       </description>
       
-      <enclosure url="http://download.binaergewitter.de/2011-04-13.RadioTux.Binaergewitter.2.mp3" length="0" type="audio/mpeg" />
-      <media:content url="http://download.binaergewitter.de/2011-04-13.RadioTux.Binaergewitter.2.mp3" fileSize="1" type="audio/mpeg" />
+      <enclosure url="http://download.binaergewitter.de/2011-04-13.RadioTux.Binaergewitter.2.mp3" length="121261142" type="audio/mpeg" />
+      <media:content url="http://download.binaergewitter.de/2011-04-13.RadioTux.Binaergewitter.2.mp3" fileSize="121261142" type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
-      <itunes:subtitle>Ausgabe 2 von Binärgewitter dreht sich rund um Sichere Systeme und grundlägende Begriffe von Sicherheit bzw. IT Security. Mit dabei sind Pfleidi, Felix und Prof. Walter Kriha, moderiert von Ingo Ebel. Die Sendung soll einen Einblick in Sicherheit und &#8230;</itunes:subtitle>
-      <itunes:summary>Ausgabe 2 von Binärgewitter dreht sich rund um Sichere Systeme und grundlägende Begriffe von Sicherheit bzw. IT Security. Mit dabei sind Pfleidi, Felix und Prof. Walter Kriha, moderiert von Ingo Ebel. Die Sendung soll einen Einblick in Sicherheit und Sichere Systeme geben. Eine weitere Binärgewitterfolge wird sich dann mit einzelnen Angriff- und Abwehrmaßnahmen beschäftigen.
+      <itunes:subtitle>Binärgewitter #2: Sichere Systeme</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Ausgabe 2 von Binärgewitter dreht sich rund um Sichere Systeme und grundlägende Begriffe von Sicherheit bzw. IT Security. Mit dabei sind Pfleidi, Felix und Prof. Walter Kriha, moderiert von Ingo Ebel. Die Sendung soll einen Einblick in Sicherheit und Sichere Systeme geben. Eine weitere Binärgewitterfolge wird sich dann mit einzelnen Angriff- und Abwehrmaßnahmen beschäftigen.
 
 
 
@@ -662,7 +963,8 @@ Privacy / Privatsphäre (vs. Security?)
   
   
 
-</itunes:summary>
+]]>
+      </itunes:summary>
       <itunes:author>Binärgewitter Crew</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>1</itunes:duration>
@@ -779,11 +1081,12 @@ Privacy / Privatsphäre (vs. Security?)
 ]]>
       </description>
       
-      <enclosure url="http://download.binaergewitter.de/2011-01-08.RadioTux.Binaergewitter.NoSQL.mp3" length="0" type="audio/mpeg" />
-      <media:content url="http://download.binaergewitter.de/2011-01-08.RadioTux.Binaergewitter.NoSQL.mp3" fileSize="1" type="audio/mpeg" />
+      <enclosure url="http://download.binaergewitter.de/2011-01-08.RadioTux.Binaergewitter.NoSQL.mp3" length="155536183" type="audio/mpeg" />
+      <media:content url="http://download.binaergewitter.de/2011-01-08.RadioTux.Binaergewitter.NoSQL.mp3" fileSize="155536183" type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
-      <itunes:subtitle>Die erste Ausgabe unseres neuen Formats beschäftigt sich mit Datenbanken und NoSQL. Diese neuen Datenbanken waren im Jahr 2010 schon Hype und werden uns sicher auch im Jahr 2011 stark begleiten. Warum soll man aber diese Datenbanken einsetzen? Welche &#8230;</itunes:subtitle>
-      <itunes:summary>Die erste Ausgabe unseres neuen Formats beschäftigt sich mit Datenbanken und NoSQL. Diese neuen Datenbanken waren im Jahr 2010 schon Hype und werden uns sicher auch im Jahr 2011 stark begleiten. Warum soll man aber diese Datenbanken einsetzen? Welche gibt es und welche Stärken und Schwächen haben diese? Das versuchen Dirk, Marc, Sven und Ingo in 2,75 Stunden zu klären.
+      <itunes:subtitle>Binaergewitter #1 - NoSQL</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Die erste Ausgabe unseres neuen Formats beschäftigt sich mit Datenbanken und NoSQL. Diese neuen Datenbanken waren im Jahr 2010 schon Hype und werden uns sicher auch im Jahr 2011 stark begleiten. Warum soll man aber diese Datenbanken einsetzen? Welche gibt es und welche Stärken und Schwächen haben diese? Das versuchen Dirk, Marc, Sven und Ingo in 2,75 Stunden zu klären.
 
 Shownotes / Timeline und Links
 
@@ -878,7 +1181,8 @@ Vor- und Nachteile (Datenschema, Zugriff)
   
   
 
-</itunes:summary>
+]]>
+      </itunes:summary>
       <itunes:author>Binärgewitter Crew</itunes:author>
       <itunes:explicit>no</itunes:explicit>
       <itunes:duration>1</itunes:duration>
