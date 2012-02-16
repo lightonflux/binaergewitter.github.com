@@ -2,13 +2,13 @@
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
         <loc>http://blog.binaergewitter.de/blog/2011/01/09/binaergewitter-number-1-nosql/</loc>
-        <lastmod>2012-01-25T15:48:00+01:00</lastmod>
+        <lastmod>2012-02-16T12:38:25+01:00</lastmod>
     </url>
     <url>
         <loc>
             http://blog.binaergewitter.de/blog/2011/04/16/binargewitter-number-2-sichere-systeme/
         </loc>
-        <lastmod>2012-01-25T15:48:00+01:00</lastmod>
+        <lastmod>2012-02-16T12:38:25+01:00</lastmod>
     </url>
     <url>
         <loc>
@@ -26,42 +26,60 @@
         <loc>
             http://blog.binaergewitter.de/blog/2012/01/26/binaergewitter-talk-number-0-schlechter-kaffee-oder-sexuelle-belaestigung/
         </loc>
-        <lastmod>2012-01-26T16:20:22+01:00</lastmod>
+        <lastmod>2012-02-16T12:38:25+01:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://blog.binaergewitter.de/blog/2012/02/02/binaergewitter-talk-number-1-klettphone/
+        </loc>
+        <lastmod>2012-02-16T12:38:25+01:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://blog.binaergewitter.de/blog/2012/02/09/binaergewitter-talk-number-2-syncender-podwal/
+        </loc>
+        <lastmod>2012-02-16T12:38:25+01:00</lastmod>
+    </url>
+    <url>
+        <loc>
+            http://blog.binaergewitter.de/blog/2012/02/16/binaergewitter-talk-number-3-retrospektive-kohaerenz-kann-durch-indirektion-geloest-werden/
+        </loc>
+        <lastmod>2012-02-16T13:10:49+01:00</lastmod>
     </url>
     <url>
         <loc>http://blog.binaergewitter.de/404.html</loc>
-        <lastmod>2012-01-26T17:34:04+01:00</lastmod>
+        <lastmod>2012-02-16T12:38:25+01:00</lastmod>
     </url>
     <url>
         <loc>http://blog.binaergewitter.de/live/</loc>
-        <lastmod>2012-01-25T15:48:00+01:00</lastmod>
+        <lastmod>2012-02-16T12:38:25+01:00</lastmod>
     </url>
     <url>
         <loc>http://blog.binaergewitter.de/ueber-uns/</loc>
-        <lastmod>2012-01-25T17:16:51+01:00</lastmod>
+        <lastmod>2012-02-16T12:38:25+01:00</lastmod>
     </url>
     <url>
         <loc>http://blog.binaergewitter.de/blog/archives/</loc>
-        <lastmod>2012-01-26T16:20:22+01:00</lastmod>
+        <lastmod>2012-02-16T13:10:49+01:00</lastmod>
     </url>
     <url>
         <loc>http://blog.binaergewitter.de/impressum/</loc>
-        <lastmod>2012-01-25T19:04:57+01:00</lastmod>
+        <lastmod>2012-02-16T12:38:25+01:00</lastmod>
     </url>
     <url>
         <loc>http://blog.binaergewitter.de/abonnieren/</loc>
-        <lastmod>2012-01-25T15:48:00+01:00</lastmod>
+        <lastmod>2012-02-16T12:38:25+01:00</lastmod>
     </url>
     <url>
         <loc>http://blog.binaergewitter.de/podcast.xml</loc>
-        <lastmod>2012-01-26T16:20:22+01:00</lastmod>
+        <lastmod>2012-02-16T12:38:25+01:00</lastmod>
     </url>
     <url>
         <loc>http://blog.binaergewitter.de/das-team/</loc>
-        <lastmod>2012-01-26T17:04:57+01:00</lastmod>
+        <lastmod>2012-02-16T12:38:25+01:00</lastmod>
     </url>
     <url>
         <loc>http://blog.binaergewitter.de/</loc>
-        <lastmod>2012-01-26T16:20:22+01:00</lastmod>
+        <lastmod>2012-02-16T13:10:49+01:00</lastmod>
     </url>
 </urlset>
