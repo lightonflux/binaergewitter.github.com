@@ -23,8 +23,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Sun, 15 Apr 2012 12:01:38 +0200</lastBuildDate>
-    <atom:updated>2012-04-15T12:01:38+02:00</atom:updated>
+    <lastBuildDate>Mon, 14 May 2012 09:56:41 +0200</lastBuildDate>
+    <atom:updated>2012-05-14T09:56:41+02:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -53,6 +53,1683 @@
     <media:credit role="author">Binärgewitter Crew</media:credit>
     <media:rating>nonadult</media:rating>
     <media:description type="plain">Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</media:description>
+    
+    
+    <item>
+      <title>Binärgewitter Talk #14 - Samsung ist scharf auf Tizen Piratephone</title>
+      <link>http://blog.binaergewitter.de/blog/2012/05/11/binaergewitter-talk-number-14-samsung-ist-scharf-auf-tizen-piratephone/</link>
+      <comments>http://blog.binaergewitter.de/blog/2012/05/11/binaergewitter-talk-number-14-samsung-ist-scharf-auf-tizen-piratephone/#comments</comments>
+      <pubDate>Fri, 11 May 2012 12:30:00 +0200</pubDate>
+      <atom:updated>2012-05-11T12:30:00+02:00</atom:updated>
+
+      
+      
+      <atom:link rel="payment"
+        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2012%2F05%2F11%2Fbinaergewitter-talk-number-14-samsung-ist-scharf-auf-tizen-piratephone%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2314%20-%20Samsung%20ist%20scharf%20auf%20Tizen%20Piratephone&amp;category=audio&amp;tags=podcast,tech,software"
+        type="text/html"
+      />
+
+      
+
+      
+      <category><![CDATA[talk]]></category>
+      
+
+      <media:credit role="author">Binärgewitter Crew</media:credit>
+      <media:rating>nonadult</media:rating>
+      
+      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2012/05/11/binaergewitter-talk-number-14-samsung-ist-scharf-auf-tizen-piratephone</guid>
+      
+      <description>
+        <![CDATA[<p>Wieder mal sehr albern sprechen pfleidi, felix, ingo und jan über die News der letzten Woche, über neue Rubriken, ob <a href="http://www.fsf.org/news/richard-stallman-speech-in-barcelona-canceled">RMS tot ist oder nicht</a> und Webzeugs.</p>
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://www.welt.de/vermischtes/weltgeschehen/article106272957/Dickster-Kater-der-Welt-in-Tierheim-gestorben.html">Dickster Kater der Welt gestorben</a>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=I25UeVXrEHQ">Richard Stallman isst sich selbst</a></li>
+</ul>
+</li>
+<li><a href="http://www.blick.ch/news/ausland/der-fliegende-baer-ist-tot-id1872570.html">Der fliegende Bär ist tod!</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Adam_Yauch">Adam Yauch (MCA) von den Beastie Boys</a></li>
+<li><a href="http://sandhaut.net/blog/index.php?/archives/276-Und-leise-sag-ich-Servus....html">Tyson aka python gestorben</a></li>
+</ul>
+
+
+<h2>Untoter der Woche</h2>
+
+<ul>
+<li><a href="http://www.affiliatetemple.com/google-penguin-creates-mass-unemployment-in-india/">SEO Unternehmen in Indien</a></li>
+<li><a href="http://www.focus.de/panorama/welt/schreck-im-wahllokal-angeblich-toter-franzose-will-stimmzettel-angeben_aid_748686.html">Franzose erfährt von eigenem Tod in Wahllokal</a></li>
+<li><a href="http://www.handelsblatt.com/panorama/aus-aller-welt/michael-jackson-ein-toter-macht-noch-einmal-cola-werbung/6590240.html">Michael Jackson wirbt fuer Coca-Cola</a></li>
+</ul>
+
+
+<h2>Rubrik der Woche</h2>
+
+<ul>
+<li>Verschwoerungstheorie der Woche: <a href="http://news.slashdot.org/story/12/05/07/1533225/methane-producing-dinosaurs-may-have-changed-climate">Dinosaurier haben den Klimawechsel eingeletet durch Flatulenz</a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li>Apropos letzte Woche - <a href="http://www.pro-linux.de/news/1/18352/samsung-praesentiert-tizen-smartphone.html">Samsung tizen phone</a></li>
+<li>Blast from the past week:<a href="http://www.metasploitminute.com/2012/05/cve-2012-1823-php-cgi-bug.html">PHP-CGI ist in Verwendung (z.B. von Facebook), Exploit ermoeglicht Remote Code execution</a></li>
+<li><a href="http://www.airdemon.net/hacker107.html">Auf pastebin tauchen 55k Usernames und Passwörter von Twitter auf</a>
+
+<ul>
+<li><a href="http://blog.eset.se/55-000-hacked-twitter-accounts-leaked-or/">Passwortanalyse und Statistiken</a></li>
+</ul>
+</li>
+<li><a href="http://www.abc4.com/content/news/state/story/TSA-diabetes-salt-lake-insulin-savannah/Az-QjubuEUeXMX7LAbC1Xw.cspx">TSA Nackscanner vernichtet Insulinpumpen</a></li>
+<li><a href="http://www.golem.de/news/canonical-ubuntu-fuer-mobile-geraete-geplant-1205-91631.html">Ubuntu für mobile Geräte geplant</a></li>
+<li><a href="http://www.pro-linux.de/news/1/18349/ubuntu-peilt-fuenf-prozent-marktanteil-weltweit-an.html">Ubuntu strebt bis 2012 5% Marktanteil an</a></li>
+<li><a href="http://www.golem.de/news/drm-freie-filme-kickstarter-projekt-will-offene-blu-ray-alternative-1205-91593.html">LibRay als offene Alternative zu BluRay?</a></li>
+<li><a href="http://techland.time.com/2012/05/09/hp-introduces-new-ultrabooks-and-sleekbooks-but-lets-just-call-them-notebooks-shall-we/">Ultrabook = Intel und Sleekbook = AMD - WTF</a></li>
+<li><a href="http://apple.slashdot.org/story/12/05/06/1621216/apple-security-blunder-exposes-lion-login-passwords-in-clear-text">Apple Security Fail: Passworte von FileVault in Klartext in Debug Logs nach Update</a></li>
+<li><a href="http://techie-buzz.com/online-security/whatsapp-security-woes-hardcoded-aes-key-used-for-message-storage.html">WhatsApp verschlüsselt Nachrichten nur mit statischem Key</a>
+
+<ul>
+<li><a href="http://www2.unsec.net/whatsapp/">Decrypter</a></li>
+</ul>
+</li>
+<li><a href="http://www.theonion.com/articles/mosquitoes-dont-even-need-to-bite-us-study-shows,28084/">Science: Mosquitos stechen uns weil sie uns hassen</a></li>
+<li><a href="http://vemedio.com/blog/posts/instacast-hd-rejected-over-flattr-integration">Instacast, Flattr integration und Ablehnung im AppStore</a>
+
+<ul>
+<li><a href="http://vemedio.com/blog/instacast/instacast-2-0-available">Instacast 2.0</a></li>
+</ul>
+</li>
+<li><a href="http://science.slashdot.org/story/12/05/09/1842227/israel-passes-photoshop-law-to-combat-anorexia">Israel führt das &#8220;Photoshop Law&#8221; ein</a></li>
+<li><a href="http://kolabsys.com/">Kolab 2.4 ist da - jetzt mit Roundcube</a></li>
+<li><a href="https://webmail.klab.cc/">Kolab Webtest</a></li>
+<li><a href="https://www.bof.nl/2012/05/08/netherlands-first-country-in-europe-with-net-neutrality/">Niederlande erstes Land in Europa mit Netzneutralitaet</a></li>
+<li><a href="http://www.sueddeutsche.de/politik/kubicki-lindner-co-die-fdp-scheintot-und-aufgeblasen-1.1350410">Süddeutsche FDP Kommentar</a></li>
+<li><a href="http://arstechnica.com/tech-policy/news/2012/05/google-gets-license-to-test-drive-autonomous-cars-on-nevada-roads.ars">Google erhält Lizenz fuer Selbstfahrendes Auto</a></li>
+<li><a href="http://www.neowin.net/news/the-pirate-bay-big-jump-in-traffic-following-uk-isp-ban">TPB wieder populär durch Bann in UK</a></li>
+</ul>
+
+
+<h2>Themen</h2>
+
+<h3>Development</h3>
+
+<ul>
+<li><a href="http://www.kickstarter.com/projects/306316578/light-table">Light Table kurz vor Funding</a></li>
+<li><a href="https://github.com/blog/1125-new-git-homepage">Git bekommt neue Website</a></li>
+<li><a href="http://merbist.com/2012/05/04/macruby-on-ios-rubymotion-review/">Rubymotion</a>
+
+<ul>
+<li><a href="http://arstechnica.com/business/news/2012/05/exclusive-building-ruby-ios-applications-with-rubymotion.ars">Arstechnica Artikel</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/charliesome/jsos">Dinge in JS implementieren. Heute: ein Betriebssystem</a>
+
+<ul>
+<li><a href="http://news.ycombinator.com/item?id=3938811">HN Kommentare</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h3>Web</h3>
+
+<ul>
+<li>HTML5 hackathon vergangenes Wochenende, <a href="http://soundscape.nodester.com">grandioses App</a></li>
+<li><a href="http://5apps.com">5apps web app deployment</a></li>
+<li><a href="http://youtify.com">Youtify, open-source music player von Flattr-Jungs</a></li>
+<li><a href="http://platform.html5.org">Die Webplattform: Browsertechnologien</a></li>
+<li><a href="http://html9responsiveboilerstrapjs.com/">HTML9BoilerStrap</a></li>
+<li><a href="http://www.marco.org/2010/03/28/more-ideas-than-time-logarithmic-calendar-view">Kalenderlayouts sind dreckig</a>, starte den <a href="http://github.com/jancborchardt/focalendar">logarithmischen Kalender</a></li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://www.heise.de/open/news/foren/S-Ich-spiele-das-MMORPG-Gentoo/forum-227930/msg-21793161/read/">Gentoo - das MMORPG</a></li>
+<li><a href="http://www.pro-linux.de/news/1/18355/ea-vertreibt-spiele-ueber-das-ubuntu-software-center.html">EA Spiele im Ubuntu Software Center</a></li>
+<li><a href="http://blog.jphpsf.com/2012/05/07/backing-up-your-twitter-account-with-t/">Backing up your twitter account with T</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Timeline_of_the_far_future">Timeline of the far future</a></li>
+<li><a href="https://github.com/joyent/node/pull/1580">Nerd Rage auf github</a></li>
+<li><a href="http://www.charlierose.com/view/interview/12321">Sebastian Thrun von Google ueber Google Glasses</a></li>
+<li><a href="http://www.kickstarter.com/projects/1047510073/remee-the-rem-enhancing-lucid-dreaming-mask">Lucid-Dreaming Maske</a></li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li>suhosin, https, piwik (ingo)</li>
+<li><a href="http://piwik.org/docs/javascript-tracking/#toc-asynchronous-tracking">Blocking Piwik Tracking code</a></li>
+<li>Alt Gr + Q FFFFUUU auf Mac OS, immer wieder (Jan)</li>
+<li>Bose MIE2i Headset (pfleidi)
+
+<ul>
+<li>Protip: <a href="http://www.amazon.de/Philips-SHE9000-Kopfh%C3%B6rer-Metallgeh%C3%A4use-schwarz/dp/B004NROUBQ">Philips SHE9000 (geile Teile)</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/blog/1135-the-making-of-octicons">Neue Github Icons sind hässlich</a> (pfleidi) (dito, Jan)</li>
+<li><a href="http://wolfenstein.bethsoft.com/">Wolfenstein3D HTML5 nicht in Deutschland verfügbar</a> (pfleidi)</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://logcheck.org/">logcheck</a> (ingo)</li>
+<li><a href="i.imgur.com/wdmu0.jpg">Hipster-ass Hipster bike for Hipsters</a> (makefu)</li>
+<li><a href="http://www.golem.de/news/raumfahrt-wasser-wabert-im-weltall-1205-91621.html">Wasser IN SPACE</a>
+
+<ul>
+<li><a href="ga.water.usgs.gov/edu/2010/pictures/full-size/global-water-volume-large.jpg">Ganzes Wasser der Erde in einer Kugel</a></li>
+</ul>
+</li>
+<li><a href="http://robb.is/working-on/notorious-siri/">Notorious Siri</a> (Jan)</li>
+<li><a href="http://blog.didierstevens.com/2012/05/01/update-taskmanager-xls-v0-1-3-killer-shellcode/">Taskmanager.xls Killer Shellcode</a>
+
+<ul>
+<li><a href="http://www.monzy.com/intro/killdashnine_lyrics.html">Kill dash nine</a></li>
+<li><a href="http://msworddit.com">Reddit in MS Word</a> und <a href="http://msoutlookit.com">MS Outlook</a></li>
+</ul>
+</li>
+<li><a href="http://www.commandlinefu.com/commands/view/1132/mtr-better-than-traceroute-and-ping-combined">mtr = traceroute + ping + superpower</a> (Jan)</li>
+<li><a href="http://skitch.com">Skitch</a> (pfleidi)</li>
+<li>Aktuelles Kaffee-Setup von pfleidi
+
+<ul>
+<li><a href="https://www.amazon.de/dp/B000GXZ2GS/ref=as_li_ss_til?tag=retinacast-21">Aero Press</a></li>
+<li><a href="http://www.coffeecircle.com/hario-skerton-kaffeemuehle">Hario Skerton</a></li>
+<li><a href="https://www.amazon.de/dp/B001BROOO4/ref=as_li_ss_til?tag=retinacast-21">Thermometer</a></li>
+<li><a href="https://www.amazon.de/dp/B000NZEB98/ref=as_li_ss_til?tag=retinacast-21">Küchenwaage</a></li>
+</ul>
+</li>
+<li><a href="http://code.google.com/p/pyfilesystem/">PyFilesystem</a></li>
+<li><a href="http://jtaby.com/2012/04/23/modern-web-development-part-1.html">Webkit Inspector</a></li>
+<li><a href="http://www.nihilogic.dk/labs/lhc_simulation/">LHC Simulator in JS</a> (Jan)</li>
+</ul>
+
+
+<h2>Abmod</h2>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=X0DeIqJm4vM">am Sonntag ist Muttertag!</a></li>
+<li><a href="http://www.radiotux.de/index.php?/archives/7958-RadioTux-Sendung-April-2012.html">RadioTux verlost LinuxTag Tickets</a></li>
+</ul>
+
+]]>
+      </description>
+      
+       
+      
+      
+      <enclosure url="http://download.binaergewitter.de/2012-05-10.Binaergewitter.Talk.14.mp3" length="147338039" type="audio/mpeg" />
+      <media:content url="http://download.binaergewitter.de/2012-05-10.Binaergewitter.Talk.14.mp3" fileSize="147338039" type="audio/mpeg" />
+      <itunes:keywords></itunes:keywords>
+      <itunes:subtitle>Binärgewitter Talk #14 - Samsung ist scharf auf Tizen Piratephone</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Wieder mal sehr albern sprechen pfleidi, felix, ingo und jan über die News der letzten Woche, über neue Rubriken, ob RMS tot ist oder nicht und Webzeugs.
+
+Toter der Woche
+
+
+Dickster Kater der Welt gestorben
+
+
+Richard Stallman isst sich selbst
+
+
+Der fliegende Bär ist tod!
+Adam Yauch (MCA) von den Beastie Boys
+Tyson aka python gestorben
+
+
+
+Untoter der Woche
+
+
+SEO Unternehmen in Indien
+Franzose erfährt von eigenem Tod in Wahllokal
+Michael Jackson wirbt fuer Coca-Cola
+
+
+
+Rubrik der Woche
+
+
+Verschwoerungstheorie der Woche: Dinosaurier haben den Klimawechsel eingeletet durch Flatulenz
+
+
+
+News
+
+
+Apropos letzte Woche - Samsung tizen phone
+Blast from the past week:PHP-CGI ist in Verwendung (z.B. von Facebook), Exploit ermoeglicht Remote Code execution
+Auf pastebin tauchen 55k Usernames und Passwörter von Twitter auf
+
+
+Passwortanalyse und Statistiken
+
+
+TSA Nackscanner vernichtet Insulinpumpen
+Ubuntu für mobile Geräte geplant
+Ubuntu strebt bis 2012 5% Marktanteil an
+LibRay als offene Alternative zu BluRay?
+Ultrabook = Intel und Sleekbook = AMD - WTF
+Apple Security Fail: Passworte von FileVault in Klartext in Debug Logs nach Update
+WhatsApp verschlüsselt Nachrichten nur mit statischem Key
+
+
+Decrypter
+
+
+Science: Mosquitos stechen uns weil sie uns hassen
+Instacast, Flattr integration und Ablehnung im AppStore
+
+
+Instacast 2.0
+
+
+Israel führt das &#8220;Photoshop Law&#8221; ein
+Kolab 2.4 ist da - jetzt mit Roundcube
+Kolab Webtest
+Niederlande erstes Land in Europa mit Netzneutralitaet
+Süddeutsche FDP Kommentar
+Google erhält Lizenz fuer Selbstfahrendes Auto
+TPB wieder populär durch Bann in UK
+
+
+
+Themen
+
+Development
+
+
+Light Table kurz vor Funding
+Git bekommt neue Website
+Rubymotion
+
+
+Arstechnica Artikel
+
+
+Dinge in JS implementieren. Heute: ein Betriebssystem
+
+
+HN Kommentare
+
+
+
+
+
+Web
+
+
+HTML5 hackathon vergangenes Wochenende, grandioses App
+5apps web app deployment
+Youtify, open-source music player von Flattr-Jungs
+Die Webplattform: Browsertechnologien
+HTML9BoilerStrap
+Kalenderlayouts sind dreckig, starte den logarithmischen Kalender
+
+
+
+Lesefoo
+
+
+Gentoo - das MMORPG
+EA Spiele im Ubuntu Software Center
+Backing up your twitter account with T
+Timeline of the far future
+Nerd Rage auf github
+Sebastian Thrun von Google ueber Google Glasses
+Lucid-Dreaming Maske
+
+
+
+Mimimi der Woche
+
+
+suhosin, https, piwik (ingo)
+Blocking Piwik Tracking code
+Alt Gr + Q FFFFUUU auf Mac OS, immer wieder (Jan)
+Bose MIE2i Headset (pfleidi)
+
+
+Protip: Philips SHE9000 (geile Teile)
+
+
+Neue Github Icons sind hässlich (pfleidi) (dito, Jan)
+Wolfenstein3D HTML5 nicht in Deutschland verfügbar (pfleidi)
+
+
+
+Picks
+
+
+logcheck (ingo)
+Hipster-ass Hipster bike for Hipsters (makefu)
+Wasser IN SPACE
+
+
+Ganzes Wasser der Erde in einer Kugel
+
+
+Notorious Siri (Jan)
+Taskmanager.xls Killer Shellcode
+
+
+Kill dash nine
+Reddit in MS Word und MS Outlook
+
+
+mtr = traceroute + ping + superpower (Jan)
+Skitch (pfleidi)
+Aktuelles Kaffee-Setup von pfleidi
+
+
+Aero Press
+Hario Skerton
+Thermometer
+Küchenwaage
+
+
+PyFilesystem
+Webkit Inspector
+LHC Simulator in JS (Jan)
+
+
+
+Abmod
+
+
+am Sonntag ist Muttertag!
+RadioTux verlost LinuxTag Tickets
+
+
+]]>
+      </itunes:summary>
+      <itunes:author>Binärgewitter Crew</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
+    
+    
+    <item>
+      <title>Binärgewitter Talk #13 - Yodling Yeti Bazen in the Distributed Redundant Secure RAID Backup Storage Cloud</title>
+      <link>http://blog.binaergewitter.de/blog/2012/05/04/binaergewitter-talk-number-13-yoldling-yeti-bazen-in-the-distributed-redundant-secure-raid-backup-storage-cloud/</link>
+      <comments>http://blog.binaergewitter.de/blog/2012/05/04/binaergewitter-talk-number-13-yoldling-yeti-bazen-in-the-distributed-redundant-secure-raid-backup-storage-cloud/#comments</comments>
+      <pubDate>Fri, 04 May 2012 14:30:00 +0200</pubDate>
+      <atom:updated>2012-05-04T14:30:00+02:00</atom:updated>
+
+      
+      
+      <atom:link rel="payment"
+        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2012%2F05%2F04%2Fbinaergewitter-talk-number-13-yoldling-yeti-bazen-in-the-distributed-redundant-secure-raid-backup-storage-cloud%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2313%20-%20Yodling%20Yeti%20Bazen%20in%20the%20Distributed%20Redundant%20Secure%20RAID%20Backup%20Storage%20Cloud&amp;category=audio&amp;tags=podcast,tech,software"
+        type="text/html"
+      />
+
+      
+
+      
+      <category><![CDATA[talk]]></category>
+      
+
+      <media:credit role="author">Binärgewitter Crew</media:credit>
+      <media:rating>nonadult</media:rating>
+      
+      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2012/05/04/binaergewitter-talk-number-13-yoldling-yeti-bazen-in-the-distributed-redundant-secure-raid-backup-storage-cloud</guid>
+      
+      <description>
+        <![CDATA[<p>Die tragische Wahrheit kommt ans Licht. Alles kann kaputt gehen auch Tiere. Außerdem wollen wir alle die RAID Cloud, die
+Felix gerade für sich bastelt.</p>
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li>Ettliche Tiere an Dingen gestorben:
+
+<ul>
+<li><a href="http://www.shz.de/nachrichten/top-thema/article/111/gift-attacke-seeadler-paar-liegt-tot-unter-baum.html">2 Seeadler an Gift verstorben</a> - Jede Taube haette es ueberstanden</li>
+<li>Es passiert zu wenig in der Welt :<a href="http://www.rp-online.de/niederrhein-nord/emmerich/nachrichten/kaetzchen-melina-ist-tot-1.2804216">Kaetzchen Melina tot :(</a></li>
+<li><a href="http://www.oe24.at/oesterreich/chronik/tirol/Katze-verursacht-Radunfall-Tiroler-tot/63754260">Katze Verursacht Unfall - geht es ihr noch gut?</a></li>
+<li><a href="http://www.youtube.com/watch?v=jwXoA9KhGIY">Satire von Quer ueber Giftmord am Luchs</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Untoter der Woche</h2>
+
+<ul>
+<li><a href="http://ostatic.com/blog/mandriva-receives-reprieve-future-still-uncertain">Mandriva meldet sich mit &#8216;we are not dead yet&#8217;</a></li>
+<li><a href="http://www.pro-linux.de/news/1/18328/microsoft-setzt-bei-skype-auf-linux.html">Microsoft setzt auf Linux</a></li>
+<li><a href="http://www.pro-linux.de/news/1/18317/tizen-10-quellcode-und-sdk-verfuegbar.html">Tizen 1.0 freigegeben</a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://mashable.com/2012/04/30/toylet/">Sega&#8217;s Toylet</a></li>
+<li><a href="http://www.wired.com/gadgetlab/2012/05/wicked-lasers-shark/">Sharks with frickin&#8217; laser beams attached to their heads</a>(makefu)</li>
+<li><a href="https://chrome.google.com/webstore/detail/pnhechapfaindjhompbnflcldabbghjo">Chrome SSH Client using Native Client (direct Connect)</a>
+
+<ul>
+<li>Der Browser wird das, was das Operating System grade ist &#8230; naemlich das OS, get Ready for the Chrome Book</li>
+<li><a href="http://www.heise.de/newsticker/meldung/Mozilla-Kilimanjaro-Einheitlichkeit-fuer-Firefox-Co-1566498.html">Mozilla
+Kilimanjaro</a></li>
+</ul>
+</li>
+<li><a href="http://about.travis-ci.org/blog/announcing-pull-request-support/">TravisCI kann nun mit Pull Requests umgehen</a></li>
+<li><a href="http://www.labnol.org/internet/facebook-account-passwords/21241/">Facebook simplified User Experience(Password)</a></li>
+<li><a href="https://groups.google.com/forum/?fromgroups#!topic/django-developers/9--P57ezyBs">Django ist nun offiziell auf Github</a></li>
+<li><a href="http://www.netmagazine.com/news/opera-confirms-webkit-prefix-usage-121923">Opera will -webkit Prefixes implementieren</a>
+
+<ul>
+<li><a href="http://dev.opera.com/articles/view/opera-mobile-emulator-experimental-webkit-prefix-support/">Bisherige Liste betroffener Attribute</a></li>
+<li><a href="http://www.webkitbits.com/post/22222538210/why-o-why">Blog post zum Thema</a></li>
+</ul>
+</li>
+<li><a href="http://blog.flattr.net/2012/05/dailymotion-flattr-integration/">Dailymotion integriert Flattr</a></li>
+<li><a href="http://epiphenom.fieldofscience.com/2012/04/bad-fonts-decrease-belief-in-god.html">Bad Fonts decrease belief in God</a></li>
+<li><a href="https://www.google.com/search?aq=f&amp;sourceid=chrome&amp;ie=UTF-8&amp;q=zerg+rush">Google ZERG RUSH</a></li>
+<li><a href="http://www.appleinsider.com/articles/12/05/02/dropbox_working_with_apple_to_resolve_app_rejection_issue.html">Apple rejected App weil sie Dropbox SDK nutzt</a></li>
+<li><a href="http://www.neowin.net/news/windows-phone-boost-as-carriers-sick-of-taking-orders-from-apple">Windows wirbt mit : &#8216;sick of taking orders from Apple&#8217; fuer ihr Phone</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Gefahr-durch-offene-PHP-Luecke-1567433.html">PHP CGI Lücke</a></li>
+<li><a href="http://www.linuxtag.org/2012/de/meldung/article/linuxtag-startet-erste-vorrunde-zum-hacking-contest.html">Linuxtag Hacking Contest</a></li>
+</ul>
+
+
+<h2>Themen</h2>
+
+<h2>Distributed Redudant Secure RAID Backup Storage Cloud</h2>
+
+<ul>
+<li>Get ALL the accounts on ALL the cloud platforms:
+
+<ul>
+<li><a href="http://getfreecloud.com/">getfreecloud</a></li>
+<li><a href="https://owncube.com/">owncube</a></li>
+<li><a href="http://www.mydrive.net/">mydrive</a></li>
+<li><a href="https://www.free-hidrive.com/">hidrive</a></li>
+<li><a href="https://mediencenter.t-online.de/">tonline mediencenter</a></li>
+<li>gmx mediacenter</li>
+<li><a href="https://www.dropbox.com/">Dropbox</a></li>
+<li><a href="https://skydrive.live.com/">skydrive</a></li>
+</ul>
+</li>
+<li>Proposed Software Stack:
+
+<ul>
+<li><a href="http://www.gluster.org/">Glusterfs</a> (strip + re auf</li>
+<li><a href="http://www.arg0.net/encfs">EncFS</a> auf</li>
+<li>Webdav + Dropbox + googleDocsFS</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://speakerdeck.com/u/mikeyk/p/scaling-instagram">Scaling Instagram Präsentation</a> (pfleidi)</li>
+<li><a href="http://allthingsd.com/20120501/wtf-is-cispa/">Sopa Reloaded - WTF is CISPA</a>
+
+<ul>
+<li><a href="http://www.netzwelt.de/news/92080-cispa-mozilla-foundation-kritisiert-gesetzentwurf.html">Mozilla gegen CISPA</a></li>
+</ul>
+</li>
+<li><a href="http://www.amazon.de/gp/product/1935182684/ref=as_li_ss_tl?ie=UTF8&amp;tag=retinacast-21">Mahout in Action</a> (pfleidi)
+
+<ul>
+<li><a href="http://www.amazon.de/gp/product/0596529325/ref=as_li_ss_tl?ie=UTF8&amp;tag=retinacast-21">Programming collective intelligence</a></li>
+</ul>
+</li>
+<li><a href="http://brixen.io/2012/4/9/is_node_js_better">Is Node.js better?</a> (pfleidi)</li>
+<li><a href="http://diegobasch.com/how-to-be-a-horrible-boss">How to be a horrible boss</a> (pfleidi)</li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li>ruby auf nas (ingo)
+
+<ul>
+<li><a href="http://xkcd.com/979/">xkcd: Wisdom of the ancients</a></li>
+</ul>
+</li>
+<li>apropos letzte Woche: rm / festplatte in nas kaputt und dann noch immutable (ingo)</li>
+<li><a href="http://www.gluster.org/">Glusterfs</a> - lokal und xattr requirements</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://www.amazon.de/dp/B002U08F2S/?tag=krebsco-21">Netgear GS105E</a></li>
+<li><a href="http://vagrantup.com/">Vagrant</a> (pfleidi)
+
+<ul>
+<li><a href="http://www.vagrantbox.es/">Vagrantboxes</a></li>
+</ul>
+</li>
+<li><a href="http://www.wikihow.com/Make-Bacon-Chocolate-Ice-Cream">Bacon + Chocolate + Ice Cream => Bacon Chocolate Ice Cream</a></li>
+<li><a href="http://pry.github.com/">IRB Ersatz pry</a> (pfleidi)</li>
+<li><a href="http://supervisord.org/">supervisord</a></li>
+<li><a href="https://github.com/zsh-users/zsh-syntax-highlighting">zsh-syntax-highlighting</a></li>
+<li><a href="https://ccrma.stanford.edu/guides/package/emacs/emacs.html">How to quit emacs</a> (pfleidi)</li>
+<li>the avengers (ingo)
+
+<ul>
+<li><a href="http://www.newgrounds.com/portal/view/485797">Watchmen Saturday Morning Breakfast Series</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/urbanadventurer/WhatWeb">whatweb</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Marvel_Vs._Capcom_2">Marvell vs. Capcom 2</a></li>
+</ul>
+
+]]>
+      </description>
+      
+       
+      
+      
+      <enclosure url="http://download.binaergewitter.de/2012-05-03.Binaergewitter.Talk.13.mp3" length="120071923" type="audio/mpeg" />
+      <media:content url="http://download.binaergewitter.de/2012-05-03.Binaergewitter.Talk.13.mp3" fileSize="120071923" type="audio/mpeg" />
+      <itunes:keywords></itunes:keywords>
+      <itunes:subtitle>Binärgewitter Talk #13 - Yodling Yeti Bazen in the Distributed Redundant Secure RAID Backup Storage Cloud</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Die tragische Wahrheit kommt ans Licht. Alles kann kaputt gehen auch Tiere. Außerdem wollen wir alle die RAID Cloud, die
+Felix gerade für sich bastelt.
+
+Toter der Woche
+
+
+Ettliche Tiere an Dingen gestorben:
+
+
+2 Seeadler an Gift verstorben - Jede Taube haette es ueberstanden
+Es passiert zu wenig in der Welt :Kaetzchen Melina tot :(
+Katze Verursacht Unfall - geht es ihr noch gut?
+Satire von Quer ueber Giftmord am Luchs
+
+
+
+
+
+Untoter der Woche
+
+
+Mandriva meldet sich mit &#8216;we are not dead yet&#8217;
+Microsoft setzt auf Linux
+Tizen 1.0 freigegeben
+
+
+
+News
+
+
+Sega&#8217;s Toylet
+Sharks with frickin&#8217; laser beams attached to their heads(makefu)
+Chrome SSH Client using Native Client (direct Connect)
+
+
+Der Browser wird das, was das Operating System grade ist &#8230; naemlich das OS, get Ready for the Chrome Book
+Mozilla
+Kilimanjaro
+
+
+TravisCI kann nun mit Pull Requests umgehen
+Facebook simplified User Experience(Password)
+Django ist nun offiziell auf Github
+Opera will -webkit Prefixes implementieren
+
+
+Bisherige Liste betroffener Attribute
+Blog post zum Thema
+
+
+Dailymotion integriert Flattr
+Bad Fonts decrease belief in God
+Google ZERG RUSH
+Apple rejected App weil sie Dropbox SDK nutzt
+Windows wirbt mit : &#8216;sick of taking orders from Apple&#8217; fuer ihr Phone
+PHP CGI Lücke
+Linuxtag Hacking Contest
+
+
+
+Themen
+
+Distributed Redudant Secure RAID Backup Storage Cloud
+
+
+Get ALL the accounts on ALL the cloud platforms:
+
+
+getfreecloud
+owncube
+mydrive
+hidrive
+tonline mediencenter
+gmx mediacenter
+Dropbox
+skydrive
+
+
+Proposed Software Stack:
+
+
+Glusterfs (strip + re auf
+EncFS auf
+Webdav + Dropbox + googleDocsFS
+
+
+
+
+
+Lesefoo
+
+
+Scaling Instagram Präsentation (pfleidi)
+Sopa Reloaded - WTF is CISPA
+
+
+Mozilla gegen CISPA
+
+
+Mahout in Action (pfleidi)
+
+
+Programming collective intelligence
+
+
+Is Node.js better? (pfleidi)
+How to be a horrible boss (pfleidi)
+
+
+
+Mimimi der Woche
+
+
+ruby auf nas (ingo)
+
+
+xkcd: Wisdom of the ancients
+
+
+apropos letzte Woche: rm / festplatte in nas kaputt und dann noch immutable (ingo)
+Glusterfs - lokal und xattr requirements
+
+
+
+Picks
+
+
+Netgear GS105E
+Vagrant (pfleidi)
+
+
+Vagrantboxes
+
+
+Bacon + Chocolate + Ice Cream => Bacon Chocolate Ice Cream
+IRB Ersatz pry (pfleidi)
+supervisord
+zsh-syntax-highlighting
+How to quit emacs (pfleidi)
+the avengers (ingo)
+
+
+Watchmen Saturday Morning Breakfast Series
+
+
+whatweb
+Marvell vs. Capcom 2
+
+
+]]>
+      </itunes:summary>
+      <itunes:author>Binärgewitter Crew</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
+    
+    
+    <item>
+      <title>Binärgewitter Talk #13 - Yoldling Yeti Bazen in the Distributed Redudant Secure RAID Backup Storage Cloud</title>
+      <link>http://blog.binaergewitter.de/blog/2012/05/04/binaergewitter-talk-number-13-yoldling-yeti-bazen-in-the-distributed-redudant-secure-raid-backup-storage-cloud/</link>
+      <comments>http://blog.binaergewitter.de/blog/2012/05/04/binaergewitter-talk-number-13-yoldling-yeti-bazen-in-the-distributed-redudant-secure-raid-backup-storage-cloud/#comments</comments>
+      <pubDate>Fri, 04 May 2012 14:30:00 +0200</pubDate>
+      <atom:updated>2012-05-04T14:30:00+02:00</atom:updated>
+
+      
+      
+      <atom:link rel="payment"
+        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2012%2F05%2F04%2Fbinaergewitter-talk-number-13-yoldling-yeti-bazen-in-the-distributed-redudant-secure-raid-backup-storage-cloud%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2313%20-%20Yoldling%20Yeti%20Bazen%20in%20the%20Distributed%20Redudant%20Secure%20RAID%20Backup%20Storage%20Cloud&amp;category=audio&amp;tags=podcast,tech,software"
+        type="text/html"
+      />
+
+      
+
+      
+      <category><![CDATA[talk]]></category>
+      
+
+      <media:credit role="author">Binärgewitter Crew</media:credit>
+      <media:rating>nonadult</media:rating>
+      
+      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2012/05/04/binaergewitter-talk-number-13-yoldling-yeti-bazen-in-the-distributed-redudant-secure-raid-backup-storage-cloud</guid>
+      
+      <description>
+        <![CDATA[<p>Die tragische Wahrheit kommt ans Licht. Alles kann kaputt gehen auch Tiere. Außerdem wollen wir alle die RAID Cloud, die
+Felix gerade für sich bastelt.</p>
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li>Ettliche Tiere an Dingen gestorben:
+
+<ul>
+<li><a href="http://www.shz.de/nachrichten/top-thema/article/111/gift-attacke-seeadler-paar-liegt-tot-unter-baum.html">2 Seeadler an Gift
+verstorben</a> -
+Jede Taube haette es ueberstanden</li>
+<li>Es passiert zu wenig in der Welt :<a href="http://www.rp-online.de/niederrhein-nord/emmerich/nachrichten/kaetzchen-melina-ist-tot-1.2804216">Kaetzchen Melina tot :(</a></li>
+<li><a href="http://www.oe24.at/oesterreich/chronik/tirol/Katze-verursacht-Radunfall-Tiroler-tot/63754260">Katze Verursacht Unfall - geht es ihr noch gut?</a></li>
+<li><a href="http://www.youtube.com/watch?v=jwXoA9KhGIY">Satire von Quer ueber Giftmord am Luchs</a>
+
+<h2>Untoter der Woche</h2></li>
+</ul>
+</li>
+<li><a href="http://ostatic.com/blog/mandriva-receives-reprieve-future-still-uncertain">Mandriva meldet sich mit &#8216;we are not dead
+yet&#8217;</a></li>
+<li>http://www.pro-linux.de/news/1/18328/microsoft-setzt-bei-skype-auf-linux.html</li>
+<li>http://www.pro-linux.de/news/1/18317/tizen-10-quellcode-und-sdk-verfuegbar.html
+
+<h2>News</h2></li>
+<li><a href="http://mashable.com/2012/04/30/toylet/">Sega&#8217;s Toylet</a></li>
+<li><a href="http://www.wired.com/gadgetlab/2012/05/wicked-lasers-shark/">Sharks with frickin&#8217; laser beams attached to their heads</a>(makefu)</li>
+<li><a href="https://chrome.google.com/webstore/detail/pnhechapfaindjhompbnflcldabbghjo">Chrome SSH Client using Native Client (direct Connect)</a>
+
+<ul>
+<li>Der Browser wird das, was das Operating System grade ist &#8230; naemlich das OS, get Ready for the Chrome Book</li>
+<li><a href="http://www.heise.de/newsticker/meldung/Mozilla-Kilimanjaro-Einheitlichkeit-fuer-Firefox-Co-1566498.html">Mozilla
+Kilimanjaro</a></li>
+</ul>
+</li>
+<li><a href="http://about.travis-ci.org/blog/announcing-pull-request-support/">TravisCI kann nun mit Pull Requests umgehen</a></li>
+<li><a href="http://www.labnol.org/internet/facebook-account-passwords/21241/">Facebook simplified User Experience(Password)</a></li>
+<li><a href="https://groups.google.com/forum/?fromgroups#!topic/django-developers/9--P57ezyBs">Django ist nun offiziell auf Github</a></li>
+<li><a href="http://www.netmagazine.com/news/opera-confirms-webkit-prefix-usage-121923">Opera will -webkit Prefixes implementieren</a>
+
+<ul>
+<li><a href="http://dev.opera.com/articles/view/opera-mobile-emulator-experimental-webkit-prefix-support/">Bisherige Liste betroffener Attribute</a></li>
+<li><a href="http://www.webkitbits.com/post/22222538210/why-o-why">Blog post zum Thema</a></li>
+</ul>
+</li>
+<li><a href="http://blog.flattr.net/2012/05/dailymotion-flattr-integration/">Dailymotion integriert Flattr</a></li>
+<li><a href="http://epiphenom.fieldofscience.com/2012/04/bad-fonts-decrease-belief-in-god.html">Bad Fonts decrease belief in God</a></li>
+<li><a href="https://www.google.com/search?aq=f&amp;sourceid=chrome&amp;ie=UTF-8&amp;q=zerg+rush">Google ZERG RUSH</a></li>
+<li><a href="http://www.appleinsider.com/articles/12/05/02/dropbox_working_with_apple_to_resolve_app_rejection_issue.html">Apple rejected App weil sie Dropbox SDK nutzt</a></li>
+<li><a href="http://www.neowin.net/news/windows-phone-boost-as-carriers-sick-of-taking-orders-from-apple">Windows wirbt mit : &#8216;sick of taking orders from Apple&#8217; fuer ihr Phone</a></li>
+<li>http://www.heise.de/newsticker/meldung/Gefahr-durch-offene-PHP-Luecke-1567433.html</li>
+<li>http://www.linuxtag.org/2012/de/meldung/article/linuxtag-startet-erste-vorrunde-zum-hacking-contest.html
+
+<h2>Themen</h2>
+
+<h2>Distributed Redudant Secure RAID Backup Storage Cloud</h2></li>
+<li></li>
+<li>Get ALL the accounts on ALL the cloud platforms:
+
+<ul>
+<li>getfreecloud</li>
+<li>owncube</li>
+<li>mydrive</li>
+<li>hidrive</li>
+<li>tonline mediencenter</li>
+<li>gmx mediacenter</li>
+<li>Dropbox</li>
+<li>skydrive</li>
+</ul>
+</li>
+<li>Proposed Software Stack:
+
+<ul>
+<li>Glusterfs (strip + re auf</li>
+<li>EncFS auf</li>
+<li>Webdav + Dropbox + googleDocsFS
+
+<h2>Lesefoo</h2></li>
+</ul>
+</li>
+<li><a href="http://speakerdeck.com/u/mikeyk/p/scaling-instagram">Scaling Instagram Präsentation</a> (pfleidi)</li>
+<li><a href="http://allthingsd.com/20120501/wtf-is-cispa/">Sopa Reloaded - WTF is CISPA</a>
+
+<ul>
+<li><a href="http://www.netzwelt.de/news/92080-cispa-mozilla-foundation-kritisiert-gesetzentwurf.html">Mozilla gegen CISPA</a></li>
+</ul>
+</li>
+<li><a href="http://www.amazon.de/gp/product/1935182684/ref=as_li_ss_tl?ie=UTF8&amp;tag=retinacast-21">Mahout in Action</a> (pfleidi)
+
+<ul>
+<li><a href="http://www.amazon.de/gp/product/0596529325/ref=as_li_ss_tl?ie=UTF8&amp;tag=retinacast-21">Programming collective intelligence</a></li>
+</ul>
+</li>
+<li><a href="http://brixen.io/2012/4/9/is_node_js_better">Is Node.js better?</a> (pfleidi)</li>
+<li><a href="http://diegobasch.com/how-to-be-a-horrible-boss">How to be a horrible boss</a> (pfleidi)
+
+<h2>Mimimi der Woche</h2></li>
+<li>ruby auf nas (ingo)
+
+<ul>
+<li><a href="http://xkcd.com/979/">xkcd: Wisdom of the ancients</a></li>
+</ul>
+</li>
+<li>apropos letzte Woche: rm / festplatte in nas kaputt und dann noch immutable (ingo)</li>
+<li>GlusterFS - lokal und xattr requirements
+
+<h2>Picks</h2></li>
+<li><a href="http://www.amazon.de/dp/B002U08F2S/?tag=krebsco-21">Netgear GS105E</a></li>
+<li><a href="http://vagrantup.com/">Vagrant</a> (pfleidi)
+
+<ul>
+<li><a href="http://www.vagrantbox.es/">Vagrantboxes</a></li>
+</ul>
+</li>
+<li><a href="http://www.wikihow.com/Make-Bacon-Chocolate-Ice-Cream">Bacon + Chocolate + Ice Cream => Bacon Chocolate Ice Cream</a></li>
+<li><a href="http://pry.github.com/">IRB Ersatz pry</a> (pfleidi)</li>
+<li><a href="http://supervisord.org/">supervisord</a></li>
+<li><a href="https://github.com/zsh-users/zsh-syntax-highlighting">zsh-syntax-highlighting</a></li>
+<li><a href="https://ccrma.stanford.edu/guides/package/emacs/emacs.html">How to quit emacs</a> (pfleidi)</li>
+<li>the avengers (ingo)
+
+<ul>
+<li><a href="http://www.newgrounds.com/portal/view/485797">Watchmen Saturday Morning Breakfast Series</a></li>
+</ul>
+</li>
+<li><a href="https://github.com/urbanadventurer/WhatWeb">whatweb</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Marvel_Vs._Capcom_2">Marvell vs. Capcom 2</a></li>
+</ul>
+
+]]>
+      </description>
+      
+       
+      
+      
+      <enclosure url="http://download.binaergewitter.de/2012-05-03.Binaergewitter.Talk.13.mp3" length="120071923" type="audio/mpeg" />
+      <media:content url="http://download.binaergewitter.de/2012-05-03.Binaergewitter.Talk.13.mp3" fileSize="120071923" type="audio/mpeg" />
+      <itunes:keywords></itunes:keywords>
+      <itunes:subtitle>Binärgewitter Talk #13 - Yoldling Yeti Bazen in the Distributed Redudant Secure RAID Backup Storage Cloud</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Die tragische Wahrheit kommt ans Licht. Alles kann kaputt gehen auch Tiere. Außerdem wollen wir alle die RAID Cloud, die
+Felix gerade für sich bastelt.
+
+Toter der Woche
+
+
+Ettliche Tiere an Dingen gestorben:
+
+
+2 Seeadler an Gift
+verstorben -
+Jede Taube haette es ueberstanden
+Es passiert zu wenig in der Welt :Kaetzchen Melina tot :(
+Katze Verursacht Unfall - geht es ihr noch gut?
+Satire von Quer ueber Giftmord am Luchs
+
+Untoter der Woche
+
+
+Mandriva meldet sich mit &#8216;we are not dead
+yet&#8217;
+http://www.pro-linux.de/news/1/18328/microsoft-setzt-bei-skype-auf-linux.html
+http://www.pro-linux.de/news/1/18317/tizen-10-quellcode-und-sdk-verfuegbar.html
+
+News
+Sega&#8217;s Toylet
+Sharks with frickin&#8217; laser beams attached to their heads(makefu)
+Chrome SSH Client using Native Client (direct Connect)
+
+
+Der Browser wird das, was das Operating System grade ist &#8230; naemlich das OS, get Ready for the Chrome Book
+Mozilla
+Kilimanjaro
+
+
+TravisCI kann nun mit Pull Requests umgehen
+Facebook simplified User Experience(Password)
+Django ist nun offiziell auf Github
+Opera will -webkit Prefixes implementieren
+
+
+Bisherige Liste betroffener Attribute
+Blog post zum Thema
+
+
+Dailymotion integriert Flattr
+Bad Fonts decrease belief in God
+Google ZERG RUSH
+Apple rejected App weil sie Dropbox SDK nutzt
+Windows wirbt mit : &#8216;sick of taking orders from Apple&#8217; fuer ihr Phone
+http://www.heise.de/newsticker/meldung/Gefahr-durch-offene-PHP-Luecke-1567433.html
+http://www.linuxtag.org/2012/de/meldung/article/linuxtag-startet-erste-vorrunde-zum-hacking-contest.html
+
+Themen
+
+Distributed Redudant Secure RAID Backup Storage Cloud
+
+Get ALL the accounts on ALL the cloud platforms:
+
+
+getfreecloud
+owncube
+mydrive
+hidrive
+tonline mediencenter
+gmx mediacenter
+Dropbox
+skydrive
+
+
+Proposed Software Stack:
+
+
+Glusterfs (strip + re auf
+EncFS auf
+Webdav + Dropbox + googleDocsFS
+
+Lesefoo
+
+
+Scaling Instagram Präsentation (pfleidi)
+Sopa Reloaded - WTF is CISPA
+
+
+Mozilla gegen CISPA
+
+
+Mahout in Action (pfleidi)
+
+
+Programming collective intelligence
+
+
+Is Node.js better? (pfleidi)
+How to be a horrible boss (pfleidi)
+
+Mimimi der Woche
+ruby auf nas (ingo)
+
+
+xkcd: Wisdom of the ancients
+
+
+apropos letzte Woche: rm / festplatte in nas kaputt und dann noch immutable (ingo)
+GlusterFS - lokal und xattr requirements
+
+Picks
+Netgear GS105E
+Vagrant (pfleidi)
+
+
+Vagrantboxes
+
+
+Bacon + Chocolate + Ice Cream => Bacon Chocolate Ice Cream
+IRB Ersatz pry (pfleidi)
+supervisord
+zsh-syntax-highlighting
+How to quit emacs (pfleidi)
+the avengers (ingo)
+
+
+Watchmen Saturday Morning Breakfast Series
+
+
+whatweb
+Marvell vs. Capcom 2
+
+
+]]>
+      </itunes:summary>
+      <itunes:author>Binärgewitter Crew</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
+    
+    
+    <item>
+      <title>Binärgewitter Talk #12 - masturbating interfacenazi</title>
+      <link>http://blog.binaergewitter.de/blog/2012/04/27/binaergewitter-tall-number-12-masturbating-interfacenazi/</link>
+      <comments>http://blog.binaergewitter.de/blog/2012/04/27/binaergewitter-tall-number-12-masturbating-interfacenazi/#comments</comments>
+      <pubDate>Fri, 27 Apr 2012 12:30:00 +0200</pubDate>
+      <atom:updated>2012-04-27T12:30:00+02:00</atom:updated>
+
+      
+      
+      <atom:link rel="payment"
+        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2012%2F04%2F27%2Fbinaergewitter-tall-number-12-masturbating-interfacenazi%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2312%20-%20masturbating%20interfacenazi&amp;category=audio&amp;tags=podcast,tech,software"
+        type="text/html"
+      />
+
+      
+
+      
+      <category><![CDATA[talk]]></category>
+      
+
+      <media:credit role="author">Binärgewitter Crew</media:credit>
+      <media:rating>nonadult</media:rating>
+      
+      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2012/04/27/binaergewitter-tall-number-12-masturbating-interfacenazi</guid>
+      
+      <description>
+        <![CDATA[<p>Heute in kleiner Runde und auch mal etwas kürzer. Wir quatschen über Google Drive, Ubuntu 12.04, Meteor und definitiv nicht über ponys!!</p>
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://www.reisenews-online.de/2012/04/26/deutschlands-aeltestes-nilpferd-gestorben/">Dtl. ältestes Nilpferd ist tot</a> - danke an @iikari und @tabacha</li>
+<li>Firefox 3.6 - via @xandy</li>
+<li><a href="http://www.spiegel.de/panorama/0,1518,829480,00.html">Wolf tot</a> via @fuchsi</li>
+</ul>
+
+
+<h2>Untoter der Woche</h2>
+
+<ul>
+<li><a href="http://www.heise.de/newsticker/meldung/Valve-arbeitet-an-Steam-und-Left-4-Dead-fuer-Linux-1558519.html">Steam für Linux</a></li>
+</ul>
+
+
+<h2>LOL der Woche</h2>
+
+<ul>
+<li><a href="http://www.golem.de/news/aviva-investors-versehentlich-alle-mitarbeiter-per-e-mail-entlassen-1204-91362.html">Firma entlässt aus Versehen alle Mitarbeiter</a></li>
+<li><a href="http://www.golem.de/news/speedport-w-921v-wlan-router-der-telekom-stehen-voellig-offen-1204-91395.html">Telekom Router Fail</a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="https://github.com/jterrace/js.js">Y0 dawg, I herd you like JS &#8230;</a></li>
+<li><a href="http://www.flickr.com/photos/raindrift/sets/72157629492908038/">Nachtrag zu Marcs Lesefoo: Der PHP Hammer</a></li>
+<li><a href="http://www.iso.org/iso/iso_catalogue/catalogue_tc/catalogue_detail.htm?csnumber=59579">Ruby hat einen ISO Standard</a></li>
+<li><a href="https://github.com/mruby/mruby">MRuby</a></li>
+<li><a href="http://mobiruby.org/">Mobiruby</a></li>
+<li><a href="http://www.extremetech.com/mobile/127213-ipv6-now-deployed-across-entire-t-mobile-us-network">IPv6 bei T-Mobile US</a></li>
+<li><a href="http://www.behind-the-enemy-lines.com/2012/04/google-attack-how-i-self-attacked.html">Google DDOS</a></li>
+<li><a href="http://www.golem.de/news/dropbox-konkurrent-google-startet-google-drive-mit-5-gbyte-kostenlosem-speicher-1204-91374.html">Google Drive</a></li>
+<li><a href="http://www.golem.de/news/dropbox-konkurrent-microsoft-legt-mit-skydrive-richtig-los-1204-91345.html">Microsoft Skydrive</a></li>
+<li><a href="http://blog.dropbox.com/?p=1138">WTF Dropbox? Das gabs schon</a></li>
+<li><a href="https://dragotin.wordpress.com/2012/04/26/owncloud-client-1-0-1/">Owncloud Syncclients</a></li>
+<li><a href="http://www.theverge.com/2012/4/24/2972228/cloud-storage-terms-of-service-comparison-avoid-google-drive">ToS der einzelnen Dienste</a></li>
+<li><a href="http://www.iclarified.com/entry/index.php?enid=21501">iPhone unlock</a> (marc)</li>
+<li><a href="http://newcdn.flamehaus.com/Valve_Handbook_LowRes.pdf">Valve Employee Handbook</a></li>
+<li><a href="http://vim-adventures.com/">Vim Adventures</a></li>
+<li><a href="https://bitcointalk.org/index.php?topic=76768.0">Bitcoin Hashingpreise</a></li>
+<li><a href="https://bitcointalk.org/index.php?topic=74711.0">Bitcoin Dividenden</a></li>
+</ul>
+
+
+<h2>Themen</h2>
+
+<h2>Ubunbtu 12.04</h2>
+
+<ul>
+<li><a href="http://releases.ubuntu.com/precise/">Ubuntu 12.04</a></li>
+<li><a href="http://leszekllelectronics.blogspot.de/2012/04/ubuntu-1204-das-aushangeschild-fur.html">Blog von Leszek über Ubuntu 12.04</a></li>
+</ul>
+
+
+<h3>Meteor</h3>
+
+<ul>
+<li><a href="http://www.meteor.com/">Meteor Web Framework</a>
+
+<ul>
+<li><a href="http://derbyjs.com/">DerbyJS</a></li>
+<li><a href="http://blog.derbyjs.com/2012/04/14/our-take-on-derby-vs-meteor/">Derby vs. Meteor</a></li>
+<li><a href="http://blog.lassus.se/2012/04/meteor-meets-nogpl.html">JS Community vs. GPL</a> (Mittlerweile geändert zu <a href="http://www.meteor.com/faq">MIT</a>)</li>
+</ul>
+</li>
+</ul>
+
+
+<h3>Chef/Knife auf EC2</h3>
+
+<ul>
+<li><a href="http://www.opscode.com/chef/">Chef</a></li>
+<li><a href="http://wiki.opscode.com/display/chef/Knife">Knife</a></li>
+<li><a href="http://wiki.opscode.com/display/chef/Chef+Solo">Chef solo</a></li>
+<li><a href="https://github.com/matschaffer/knife-solo">Knife solo</a></li>
+<li><a href="https://github.com/opscode/knife-ec2">Knife EC2</a></li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://www.amazon.de/gp/product/3453527933/ref=as_li_ss_tl?ie=UTF8&amp;tag=retinacast-21">Tagebuch der Apokalypse</a> (pfleidi)</li>
+<li><a href="http://www.amazon.de/gp/product/3864250072/ref=as_li_ss_tl?ie=UTF8&amp;tag=jitcreat-21&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=3864250072">Richard Castle: Heat Wave - Hitzewelle</a></li>
+<li><a href="https://de.wikipedia.org/wiki/Castle_%28Fernsehserie%29">Serie Castle</a></li>
+<li><a href="http://dochub.io/">DocHub</a> (pfleidi)</li>
+<li><a href="http://blog.spiderlabs.com/2012/04/pwning-a-spammers-keylogger.html">Pwning a keylogger</a> (marc)</li>
+<li><a href="http://www.stevesouders.com/blog/2012/04/10/dont-docwrite-scripts/">Don&#8217;t docwrite scripts</a> (pfleidi)</li>
+<li><a href="http://techcrunch.com/2012/04/19/an-interview-with-millenium-technology-prize-finalist-linus-torvalds/">Techcrunch Interview mit Linus</a> (ingo)
+
+<ul>
+<li><a href="http://ikhaya.ubuntuusers.de/2012/04/24/interview-mit-linus-torvalds/">deutsch</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li>Chrome Webinspektor will keine CSS3 Selektoren mehr</li>
+<li>rm -rf macht nicht weiter (ingo)</li>
+<li><a href="http://retinacast.de/rtc-s02e03-heroes/">Retinacast Folge über Heroes</a></li>
+<li><a href="https://github.com/tenderlove/nokogiri/issues/451">Nokogiri CSS3 bug</a> (pfleidi)</li>
+<li>Ausweis app Firefox fuckshit (oh!-ton Marc)</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://devops.mashion.net/">DevOpsCasts</a> (pfleidi)</li>
+<li><a href="https://www.privateinternetaccess.com/">Noch n VPN provider</a></li>
+<li><a href="http://rubular.com/">Rubular</a> (pfleidi)</li>
+<li><a href="http://www.javidpower.com/lastblood/">Last Blood</a> (marc)</li>
+<li><a href="http://www.amazon.de/gp/product/B003TXLZ0Y/ref=as_li_ss_tl?ie=UTF8&amp;tag=retinacast-21">USB iPad Ladegerät</a> (pfleidi)
+
+<ul>
+<li>twenty-one jiggawatts!!!1elf</li>
+</ul>
+</li>
+<li><a href="http://freedup.org/">freedup</a> (ingo)</li>
+<li><a href="http://cwacht.github.com/nyancat/">3D Nyan Cat</a> (pfleidi)</li>
+<li><a href="http://www.pdfscannerapp.com/">PDFScanner</a> (marc)</li>
+<li><a href="http://www.drdobbs.com/web-development/232602739">FIrefox 3D Inspector</a> (pfleidi)</li>
+</ul>
+
+]]>
+      </description>
+      
+       
+      
+      
+      <enclosure url="http://download.binaergewitter.de/2012-04-27.Binaergewitter.Talk.12.mp3" length="94402053" type="audio/mpeg" />
+      <media:content url="http://download.binaergewitter.de/2012-04-27.Binaergewitter.Talk.12.mp3" fileSize="94402053" type="audio/mpeg" />
+      <itunes:keywords></itunes:keywords>
+      <itunes:subtitle>Binärgewitter Talk #12 - masturbating interfacenazi</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Heute in kleiner Runde und auch mal etwas kürzer. Wir quatschen über Google Drive, Ubuntu 12.04, Meteor und definitiv nicht über ponys!!
+
+Toter der Woche
+
+
+Dtl. ältestes Nilpferd ist tot - danke an @iikari und @tabacha
+Firefox 3.6 - via @xandy
+Wolf tot via @fuchsi
+
+
+
+Untoter der Woche
+
+
+Steam für Linux
+
+
+
+LOL der Woche
+
+
+Firma entlässt aus Versehen alle Mitarbeiter
+Telekom Router Fail
+
+
+
+News
+
+
+Y0 dawg, I herd you like JS &#8230;
+Nachtrag zu Marcs Lesefoo: Der PHP Hammer
+Ruby hat einen ISO Standard
+MRuby
+Mobiruby
+IPv6 bei T-Mobile US
+Google DDOS
+Google Drive
+Microsoft Skydrive
+WTF Dropbox? Das gabs schon
+Owncloud Syncclients
+ToS der einzelnen Dienste
+iPhone unlock (marc)
+Valve Employee Handbook
+Vim Adventures
+Bitcoin Hashingpreise
+Bitcoin Dividenden
+
+
+
+Themen
+
+Ubunbtu 12.04
+
+
+Ubuntu 12.04
+Blog von Leszek über Ubuntu 12.04
+
+
+
+Meteor
+
+
+Meteor Web Framework
+
+
+DerbyJS
+Derby vs. Meteor
+JS Community vs. GPL (Mittlerweile geändert zu MIT)
+
+
+
+
+
+Chef/Knife auf EC2
+
+
+Chef
+Knife
+Chef solo
+Knife solo
+Knife EC2
+
+
+
+Lesefoo
+
+
+Tagebuch der Apokalypse (pfleidi)
+Richard Castle: Heat Wave - Hitzewelle
+Serie Castle
+DocHub (pfleidi)
+Pwning a keylogger (marc)
+Don&#8217;t docwrite scripts (pfleidi)
+Techcrunch Interview mit Linus (ingo)
+
+
+deutsch
+
+
+
+
+
+Mimimi der Woche
+
+
+Chrome Webinspektor will keine CSS3 Selektoren mehr
+rm -rf macht nicht weiter (ingo)
+Retinacast Folge über Heroes
+Nokogiri CSS3 bug (pfleidi)
+Ausweis app Firefox fuckshit (oh!-ton Marc)
+
+
+
+Picks
+
+
+DevOpsCasts (pfleidi)
+Noch n VPN provider
+Rubular (pfleidi)
+Last Blood (marc)
+USB iPad Ladegerät (pfleidi)
+
+
+twenty-one jiggawatts!!!1elf
+
+
+freedup (ingo)
+3D Nyan Cat (pfleidi)
+PDFScanner (marc)
+FIrefox 3D Inspector (pfleidi)
+
+
+]]>
+      </itunes:summary>
+      <itunes:author>Binärgewitter Crew</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
+    
+    
+    <item>
+      <title>Binärgewitter Talk #11 - btrfs -> cheeseFS</title>
+      <link>http://blog.binaergewitter.de/blog/2012/04/20/binaergewitter-talk-number-11-btrfs-wird-cheesefs/</link>
+      <comments>http://blog.binaergewitter.de/blog/2012/04/20/binaergewitter-talk-number-11-btrfs-wird-cheesefs/#comments</comments>
+      <pubDate>Fri, 20 Apr 2012 14:00:00 +0200</pubDate>
+      <atom:updated>2012-04-20T14:00:00+02:00</atom:updated>
+
+      
+      
+      <atom:link rel="payment"
+        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2012%2F04%2F20%2Fbinaergewitter-talk-number-11-btrfs-wird-cheesefs%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2311%20-%20btrfs%20-%3E%20cheeseFS&amp;category=audio&amp;tags=podcast,tech,software"
+        type="text/html"
+      />
+
+      
+
+      
+      <category><![CDATA[talk]]></category>
+      
+
+      <media:credit role="author">Binärgewitter Crew</media:credit>
+      <media:rating>nonadult</media:rating>
+      
+      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2012/04/20/binaergewitter-talk-number-11-btrfs-wird-cheesefs</guid>
+      
+      <description>
+        <![CDATA[<p>Was ist eigentlich unhosted? Das fragen wir unseren Gast Jan. Er erklärt uns auch warum die Semi.coli sterben und wir trauern darum dass nicht gleich das Wireless World Wide Web erfunden wurde.</p>
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://github.com/twitter/bootstrap/issues/3057">Das Semikolon</a>
+
+<h2>Untoter der Woche</h2></li>
+<li><a href="http://jordanmechner.com/blog/2012/04/textfiles/">Prince of Persia aus den Apple II Kassetten zurueck gekehrt</a>
+
+<ul>
+<li><a href="https://github.com/jmechner/Prince-of-Persia-Apple-II">Code auf Github</a></li>
+</ul>
+</li>
+<li><a href="http://www.welt.de/kultur/musik/article106199399/Die-unheimliche-Holo-Auferstehung-des-toten-Tupac.html">Tupac, der Holo Geisterrapper</a></li>
+<li><a href="http://www.golem.de/news/freie-buerosoftware-apache-openoffice-org-3-4-als-release-candidate-verfuegbar-1204-91264.html">OpenOffice 3.4</a></li>
+<li><a href="http://blobby.sourceforge.net/data/bv2browser/index.html">Blobby Volley im Browser</a></li>
+<li><a href="http://stravid.com/projects/achtung-die-kurve/">Achtung, die Kurve!</a>
+
+<h2>News</h2></li>
+<li><a href="http://www.humblebundle.com">same procedure as every week</a></li>
+<li><a href="http://indieroyale.com">indie royale</a></li>
+<li><a href="http://www.pro-linux.de/news/1/18274/openttd-12-erschienen.html">openttd 1.2</a></li>
+<li><a href="https://github.com/zolrath/wemux">Multiuser tmux: Wemux</a></li>
+<li><a href="http://www.wired.com/wiredenterprise/2012/04/firebase/">Firebase</a></li>
+<li><a href="http://labs.floatboth.com/pkglookup/">Package Lookup für sehr viele Quellen</a>
+
+<ul>
+<li>Problem: pakete heissen bei allen distros Anders</li>
+<li>pkglookup ist mehr Meta-Suchmaschine als Lookup/Resolver</li>
+<li><a href="http://www.pro-linux.de/news/1/18276/listaller-054-freigegeben.html">listaller</a> vs openpkg</li>
+<li><a href="https://github.com/krebscode/painload/tree/master/punani">Punani Meta Package Manager</a>
+
+<ul>
+<li><code>curl euer.krebsco.de:9111/pacman/python</code></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="http://www.kickstarter.com/projects/306316578/light-table">Light Table IDE</a></li>
+<li><a href="http://www.kickstarter.com/projects/1182995593/make-a-better-coffeescript-compiler">Neuer CoffeeScript Compiler auf Kickstarter</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Ikea-verkauft-Fernseher-mit-Soundsystem-1541715.html">WFT? Ikea verkauft Fernseher</a></li>
+<li><a href="http://priv.ly/">Priv.ly, Privacy trotz Facebook, Twitter etc.</a></li>
+<li><a href="http://www.neatorama.com/2012/04/14/man-beat-traffic-ticket-with-math/">Physik Prof. veröffentlicht Paper um Strafzettel zu entgehen</a></li>
+<li><a href="http://www.meetup.com/stuttgartjs/">StuttgartJS meetup</a></li>
+<li><a href="http://tinker.io/">Tinker.io (open source JSFiddle)</a></li>
+<li><a href="https://github.com/farbrausch/fr_public">Farbrausch ve röffentlicht Code aus 10 Jahren</a>
+
+<ul>
+<li><a href="https://github.com/blog/1103-ten-years-of-farbrausch-productions-on-github">Github Blogpost</a></li>
+<li><a href="http://www.youtube.com/watch?v=oKCFq5GsrV0">.kkrieger Video</a></li>
+</ul>
+</li>
+<li><a href="http://libreprojects.net">Libre Projects, Sammlung von open source Webdiensten</a></li>
+<li><a href="https://gitorious.org/codetube">Codetube federated git hosting</a></li>
+<li><a href="http://www.golem.de/news/fernbestellung-kaffeemaschine-mit-netzwerkanschluss-1204-91261.html">Haben will :) Net Coffee Machine</a></li>
+<li><a href="http://sebsauvage.net/paste/">ZeroBin, Pastebin mit client-side Encryption</a>
+
+<h2>Themen</h2>
+
+<h3><a href="http://unhosted.org">Unhosted</a></h3></li>
+<li>Was ist <a href="http://unhosted.org/#introduction">Unhosted</a>?
+
+<ul>
+<li>Offene <a href="http://w3.org/community/unhosted/wiki/RemoteStorage">remoteStorage-Spezifikation</a></li>
+<li><a href="https://github.com/unhosted">Offener Code</a>, <a href="https://groups.google.com/forum/?fromgroups#!forum/unhosted">Mailingliste</a>, IRC channel #unhosted auf freenode, <a href="http://twitter.com/unhosted">Twitter</a></li>
+</ul>
+</li>
+<li>Was ist der Mehrwert/Vorteil gegenüber X?
+
+<ul>
+<li>Offenes Protokoll, jeder kann Storage-Provider wie auch Anwendungen programmieren</li>
+<li>App-Entwickler müssen sich nicht um das Backend kümmern, Anwendungen sind nur client-seitiges HTML &amp; Javascript</li>
+<li>Nutzer bleiben in Kontrolle ihrer Daten und entscheiden, wo es gespeichert wird</li>
+</ul>
+</li>
+<li>Integration mit anderen Projekten</li>
+<li>Storage: <a href="http://owncloud.org">ownCloud</a>, <a href="http://5apps.com">5apps</a>, <a href="https://github.com/5apps/express-storage">Node.js+Redis</a>, <a href="https://github.com/5apps/liquor-cabinet">Sinatra+Riak</a>…
+
+<ul>
+<li><a href="http://packetstormsecurity.org/files/111956/TC-SA-2012-01.txt">ownCloud Exploit</a></li>
+</ul>
+</li>
+<li>Apps: <a href="http://libredocs.org/">Libre Docs</a>, <a href="http://todomvc.unhosted.5apps.com/">Todo</a>, …</li>
+<li><a href="http://addyosmani.github.com/todomvc/">TodoMVC</a></li>
+<li><a href="https://github.com/unhosted/remoteStorage.js">remoteStorage.js</a> &amp; <a href="http://tutorial.unhosted.5apps.com/">Tutorial</a></li>
+<li>Technologie: OAuth, Webfinger, Cross-Origin Resource Sharing (CORS) und Key-Value Store
+
+<ul>
+<li><a href="http://hueniverse.com/2009/08/introducing-webfinger/">Webfinger</a></li>
+<li><a href="http://oauth.net/">Oauth</a></li>
+<li><a href="http://www.w3.org/TR/cors/">CORS</a></li>
+</ul>
+</li>
+<li>Ziele: <a href="https://openphoto.me/">OpenPhoto</a>, Pilotprojekt mit Niederländischen Studenten: <a href="http://surfnet.nl">Surfnet</a>, <a href="http://opentabs.net">Banken zerstören und Transaktionen dezentralisieren</a>, Legacy support für Dropbox, Google Drive etc.</li>
+<li><a href="https://github.com/unhosted/website/wiki/Unhost12">Free-Web-Unkonferenz im September, in Unhost bei Prag</a>
+
+<h2>Lesefoo</h2></li>
+<li><a href="http://net.tutsplus.com/tutorials/html-css-techniques/the-30-css-selectors-you-must-memorize/">The 30 css selectors you must memorize</a> (pfleidi)</li>
+<li><a href="http://tomazkovacic.com/blog/14/extracting-article-text-from-html-documents/">Extracting text from HTML documents</a> (pfleidi)
+
+<h2>Mimimi der Woche</h2></li>
+<li>3ware RAID (ingo) - tw_cli /c0/u0 set storsave=performance</li>
+<li>btrfs als Ersatz fuer LVM (makefu)</li>
+<li>Wordpress und SSL-only Admin / Caching (pfleidi)
+
+<h2>Picks</h2></li>
+<li><a href="http://geoscope.agi.com/LotsOfSatellites/">Lots of Satellites</a> (pfleidi)
+
+<ul>
+<li><a href="http://hackaday.com/2012/04/16/playing-air-traffic-controller-with-software-defined-radio/">Air Traffic with </a></li>
+</ul>
+</li>
+<li><a href="http://wynnnetherland.com/journal/a-stylesheet-author-s-guide-to-terminal-colors">Terminial colors</a> bzw. <a href="http://korpus.juls.savba.sk/~garabik/software/grc.html">grc</a> (pfleidi)</li>
+<li>Sparkleshare (mal wieder) (ingo)
+
+<ul>
+<li><a href="http://xkcd.com/918/">XKCD: Google+</a></li>
+<li><a href="http://www.syncany.org">Syncany</a></li>
+</ul>
+</li>
+<li><a href="http://www.pythonanywhere.com/">Python Anywhere</a></li>
+<li><ul>
+<li>Koans
+
+<ul>
+<li><a href="https://github.com/liammclennan/JavaScript-Koans">JavaScript Koan</a></li>
+<li><a href="http://www.rubykoans.com/">Ruby Koans</a></li>
+<li><a href="https://github.com/gregmalcolm/python_koans">Python Koans</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="https://codetu.be/">Codetube federated git hosting</a> (Jan), <a href="http://gitorious.org/codetube">auf Gitorious</a></li>
+</ul>
+
+]]>
+      </description>
+      
+       
+      
+      
+      <enclosure url="http://download.binaergewitter.de/2012-04-19.Binaergewitter.Talk.11.mp3" length="119065797" type="audio/mpeg" />
+      <media:content url="http://download.binaergewitter.de/2012-04-19.Binaergewitter.Talk.11.mp3" fileSize="119065797" type="audio/mpeg" />
+      <itunes:keywords></itunes:keywords>
+      <itunes:subtitle>Binärgewitter Talk #11 - btrfs -> cheeseFS</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Was ist eigentlich unhosted? Das fragen wir unseren Gast Jan. Er erklärt uns auch warum die Semi.coli sterben und wir trauern darum dass nicht gleich das Wireless World Wide Web erfunden wurde.
+
+Toter der Woche
+
+
+Das Semikolon
+
+Untoter der Woche
+Prince of Persia aus den Apple II Kassetten zurueck gekehrt
+
+
+Code auf Github
+
+
+Tupac, der Holo Geisterrapper
+OpenOffice 3.4
+Blobby Volley im Browser
+Achtung, die Kurve!
+
+News
+same procedure as every week
+indie royale
+openttd 1.2
+Multiuser tmux: Wemux
+Firebase
+Package Lookup für sehr viele Quellen
+
+
+Problem: pakete heissen bei allen distros Anders
+pkglookup ist mehr Meta-Suchmaschine als Lookup/Resolver
+listaller vs openpkg
+Punani Meta Package Manager
+
+
+curl euer.krebsco.de:9111/pacman/python
+
+
+
+
+Light Table IDE
+Neuer CoffeeScript Compiler auf Kickstarter
+WFT? Ikea verkauft Fernseher
+Priv.ly, Privacy trotz Facebook, Twitter etc.
+Physik Prof. veröffentlicht Paper um Strafzettel zu entgehen
+StuttgartJS meetup
+Tinker.io (open source JSFiddle)
+Farbrausch ve röffentlicht Code aus 10 Jahren
+
+
+Github Blogpost
+.kkrieger Video
+
+
+Libre Projects, Sammlung von open source Webdiensten
+Codetube federated git hosting
+Haben will :) Net Coffee Machine
+ZeroBin, Pastebin mit client-side Encryption
+
+Themen
+
+Unhosted
+Was ist Unhosted?
+
+
+Offene remoteStorage-Spezifikation
+Offener Code, Mailingliste, IRC channel #unhosted auf freenode, Twitter
+
+
+Was ist der Mehrwert/Vorteil gegenüber X?
+
+
+Offenes Protokoll, jeder kann Storage-Provider wie auch Anwendungen programmieren
+App-Entwickler müssen sich nicht um das Backend kümmern, Anwendungen sind nur client-seitiges HTML &amp; Javascript
+Nutzer bleiben in Kontrolle ihrer Daten und entscheiden, wo es gespeichert wird
+
+
+Integration mit anderen Projekten
+Storage: ownCloud, 5apps, Node.js+Redis, Sinatra+Riak…
+
+
+ownCloud Exploit
+
+
+Apps: Libre Docs, Todo, …
+TodoMVC
+remoteStorage.js &amp; Tutorial
+Technologie: OAuth, Webfinger, Cross-Origin Resource Sharing (CORS) und Key-Value Store
+
+
+Webfinger
+Oauth
+CORS
+
+
+Ziele: OpenPhoto, Pilotprojekt mit Niederländischen Studenten: Surfnet, Banken zerstören und Transaktionen dezentralisieren, Legacy support für Dropbox, Google Drive etc.
+Free-Web-Unkonferenz im September, in Unhost bei Prag
+
+Lesefoo
+The 30 css selectors you must memorize (pfleidi)
+Extracting text from HTML documents (pfleidi)
+
+Mimimi der Woche
+3ware RAID (ingo) - tw_cli /c0/u0 set storsave=performance
+btrfs als Ersatz fuer LVM (makefu)
+Wordpress und SSL-only Admin / Caching (pfleidi)
+
+Picks
+Lots of Satellites (pfleidi)
+
+
+Air Traffic with 
+
+
+Terminial colors bzw. grc (pfleidi)
+Sparkleshare (mal wieder) (ingo)
+
+
+XKCD: Google+
+Syncany
+
+
+Python Anywhere
+
+Koans
+
+
+JavaScript Koan
+Ruby Koans
+Python Koans
+
+
+
+
+Codetube federated git hosting (Jan), auf Gitorious
+
+
+]]>
+      </itunes:summary>
+      <itunes:author>Binärgewitter Crew</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
     
     
     <item>
@@ -87,8 +1764,7 @@
 
 <ul>
 <li><a href="http://robmientjes.nl/item/comic-serif">Der gute Geschmack</a></li>
-<li><a href="http://www.heise.de/newsticker/meldung/Computer-fuer-die-Massen-zum-Tode-des-Commodore-Gruenders-Jack-Tramiel-1517599.html">Commodore Gründer Jack Tramiel ist
-tot</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/Computer-fuer-die-Massen-zum-Tode-des-Commodore-Gruenders-Jack-Tramiel-1517599.html">Comodore Grüner ist tot</a></li>
 <li><a href="http://www.heise.de/newsticker/meldung/Pflege-des-Linux-Kernels-2-4-endet-1517604.html">Linux Kernel 2.4</a></li>
 <li><a href="http://www.wochenblatt.de/nachrichten/altoetting/ueberregionales/Verstaerker-Erfinder-Jim-Marshall-tot;art5572,106046">Jim Marshall - Father of Loud verstorben</a></li>
 <li><a href="http://de.wikipedia.org/wiki/Ferdinand_Alexander_Porsche">Ferdinand Alexander Porsche</a>
@@ -100,7 +1776,7 @@ tot</a></li>
 <li><a href="http://www.businessinsider.com/instagram-billion-dollar-valuation-2012-4">Instagram von Facebook gekauft fuer <code>ONE BILLION DOLLARS</code></a>
 
 <ul>
-<li><a href="https://instagram.com/accounts/remove/request/">Instagram Account löschen bevor es bei Facebook landet</a></li>
+<li><a href="https://instagram.com/accounts/remove/request/">Instagram Account loeschen bevor es bei Facebook landet</a></li>
 <li><a href="http://instaport.me/">Exportiere ALL DEINE BILDER</a></li>
 </ul>
 </li>
@@ -128,7 +1804,7 @@ tot</a></li>
 <li><a href="http://engineering.twitter.com/2012/04/mysql-at-twitter.html">MySQL at Twitter</a> (marc)</li>
 <li><a href="http://news.ycombinator.net/item?id=3805302">GO 32Bit Memory Issues</a></li>
 <li><a href="https://github.com/sneakybeaky/mod_redis">mod_redis</a> (marc)</li>
-<li><a href="https://github.com/blog/1098-take-over-the-galaxy-with-github">DCPU-16 Code</a>
+<li><p><a href="https://github.com/blog/1098-take-over-the-galaxy-with-github">DCPU-16 Code</a></p>
 
 <ul>
 <li><a href="http://0x10c.com/">0x10c Game</a></li>
@@ -136,16 +1812,12 @@ tot</a></li>
 <li><a href="http://0x10c.com/doc/dcpu-16.txt">DCPU-16 Spezifikation</a></li>
 <li><a href="https://github.com/dcpu16">VMs in JS, Haskell, Java, &#8230;</a>
 
-<h2>Themen</h2></li>
+<h2>Themen</h2>
+
+<h3>Automation</h3></li>
 </ul>
 </li>
-</ul>
-
-
-<h3>Automation</h3>
-
-<ul>
-<li>Scripten
+<li><p>Scripten</p>
 
 <ul>
 <li>Shell/Ruby/Python/Perl
@@ -153,7 +1825,7 @@ tot</a></li>
 <ul>
 <li><a href="https://github.com/rb2k/viddl-rb">viddl-rb</a></li>
 <li><a href="http://tldp.org/LDP/abs/html/">Advanved Bash Scripting Guide</a></li>
-<li><a href="http://oss.linbit.com/csync2/">csync2</a></li>
+<li><a href="http://oss.linbit.com/csync2/">einzellne Konfigdateien syncron halten dann csync2</a></li>
 <li><a href="http://joey.kitenet.net/code/etckeeper/">etckeeper</a></li>
 </ul>
 </li>
@@ -168,7 +1840,7 @@ tot</a></li>
 <li><a href="http://pulpproject.org/">pulp</a></li>
 <li><a href="http://m23.sourceforge.net/PostNuke-0.750/html/index.php">m23</a></li>
 <li><a href="http://spacewalk.redhat.com/">spacewalk</a></li>
-<li><a href="http://www.opsi.org/en">opsi</a></li>
+<li><a href="http://www.opsi.org/en">opsi</a> (windowsverteilung)</li>
 <li><a href="http://www.autoitscript.com/site/autoit/">AutoIT</a></li>
 <li>Active Directory</li>
 </ul>
@@ -201,7 +1873,7 @@ tot</a></li>
 <ul>
 <li><a href="http://www.radiotux.de/index.php?/archives/7597-Talk-144-RAID0-Backup.html">RadioTux Talk 144</a></li>
 <li><a href="https://rsync.samba.org/">rsync</a></li>
-<li><a href="http://www.cis.upenn.edu/~bcpierce/unison/">unison</a></li>
+<li>unison</li>
 <li><a href="http://rsnapshot.org/">rsnapshot</a></li>
 <li><a href="https://code.google.com/p/lsyncd/">lsyncd</a></li>
 <li><a href="https://www.apple.com/macosx/apps/#timemachine">Time Machine</a></li>
@@ -243,7 +1915,7 @@ tot</a></li>
 
 <ul>
 <li><a href="http://www.amazon.de/gp/product/B005HQPNWW/ref=as_li_ss_tl?ie=UTF8&amp;tag=trektrip&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B005HQPNWW">Brother Drucker DCPJ925DW</a> und Arch (Ingo)</li>
-<li>OS X und Bluetooth (pfleidi)</li>
+<li>OS X und Bluetooth</li>
 <li>sky2 - ethtool -K eth0 rx off (ingo)</li>
 <li>Cacert und Chrome Warnungen
 
@@ -251,8 +1923,7 @@ tot</a></li>
 <li><a href="http://www.startssl.com/">StartSSL</a></li>
 </ul>
 </li>
-<li><a href="https://plus.google.com/100883264249933714273/posts/GJM9D5VxX4G">MP3/Ogg Chapter Support in die freien Player</a>
-(ingo)</li>
+<li><a href="https://plus.google.com/100883264249933714273/posts/GJM9D5VxX4G">MP3/Ogg Chapter Support in die freien Player</a>(ingo)</li>
 </ul>
 
 
@@ -302,8 +1973,7 @@ Toter der Woche
 
 
 Der gute Geschmack
-Commodore Gründer Jack Tramiel ist
-tot
+Comodore Grüner ist tot
 Linux Kernel 2.4
 Jim Marshall - Father of Loud verstorben
 Ferdinand Alexander Porsche
@@ -315,7 +1985,7 @@ News
 Instagram von Facebook gekauft fuer ONE BILLION DOLLARS
 
 
-Instagram Account löschen bevor es bei Facebook landet
+Instagram Account loeschen bevor es bei Facebook landet
 Exportiere ALL DEINE BILDER
 
 
@@ -353,10 +2023,6 @@ VMs in JS, Haskell, Java, &#8230;
 
 Themen
 
-
-
-
-
 Automation
 
 
@@ -368,7 +2034,7 @@ Shell/Ruby/Python/Perl
 
 viddl-rb
 Advanved Bash Scripting Guide
-csync2
+einzellne Konfigdateien syncron halten dann csync2
 etckeeper
 
 
@@ -383,7 +2049,7 @@ Softwareverteilung
 pulp
 m23
 spacewalk
-opsi
+opsi (windowsverteilung)
 AutoIT
 Active Directory
 
@@ -458,7 +2124,7 @@ Mimimi der Woche
 
 
 Brother Drucker DCPJ925DW und Arch (Ingo)
-OS X und Bluetooth (pfleidi)
+OS X und Bluetooth
 sky2 - ethtool -K eth0 rx off (ingo)
 Cacert und Chrome Warnungen
 
@@ -466,8 +2132,7 @@ Cacert und Chrome Warnungen
 StartSSL
 
 
-MP3/Ogg Chapter Support in die freien Player
-(ingo)
+MP3/Ogg Chapter Support in die freien Player(ingo)
 
 
 
