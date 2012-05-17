@@ -23,8 +23,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Thu, 17 May 2012 14:16:12 +0200</lastBuildDate>
-    <atom:updated>2012-05-17T14:16:12+02:00</atom:updated>
+    <lastBuildDate>Thu, 17 May 2012 14:25:01 +0200</lastBuildDate>
+    <atom:updated>2012-05-17T14:25:01+02:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -93,19 +93,17 @@ Alternativen zu BOINC.</p>
 
 <ul>
 <li>Distributed Computing - seti@home</li>
-<li>Distributed Thinking - openstreetmap</li>
-<li> oder auch crowdsourcing</li>
+<li>Distributed Thinking - <a href="http://www.openstreetmap.org/">openstreetmap</a></li>
 <li> die <a href="http://www.zooniverse.org/">Zooniverse</a>-Projekte</li>
 <li>  <a href="http://www.pgdp.net/c/">Distributed Proofreaders</a> / <a href="http://www.gutenberg.org/">Project Gutenberg</a></li>
 <li>  <a href="http://www.scistarter.com/">SciStarter</a>: Datenbank zahlreicher &#8220;Handarbeits&#8221;-Citizen-Science-Projekte</li>
-<li>Citizen Science - Solar Storm Watch
+<li>Citizen Science - <a href="http://www.solarstormwatch.com/">Solar Stormwatch</a>
 
 <h2>BOINC</h2></li>
 </ul>
 </li>
 <li><a href="http://boinc.berkeley.edu/">Berkeley Open Infrastructure for Network Computing</a></li>
-<li>entwicklet von <em>Dr. David Anderson</em> am <a href="http://ssl.berkeley.edu/">Space Science Laboratory</a>
-der <em>University of California, Berkeley</em></li>
+<li>entwicklet von <em>Dr. David Anderson</em> am <a href="http://ssl.berkeley.edu/">Space Science Laboratory</a> der <em>University of California, Berkeley</em></li>
 <li>plattformunabhängiges Server-Client-Framework</li>
 <li>Server
 
@@ -125,12 +123,9 @@ der <em>University of California, Berkeley</em></li>
 
 <ul>
 <li>dem Kommandozeilen-Clienten (boinc) selbst (kann auch als Daemon laufen)</li>
-<li>dem Kommandozeilen-Commander (boinccmd), um per Kommandozeile einen laufenden
-Clienten zu administrieren</li>
-<li>dem grafischen BOINC-Manager (boincmgr), um grafisch einen laufenden Clienten
-zu managen</li>
-<li>Commander und Manager können auch zu entfernten Clienten verbinden (z.B. mehrere
-Maschinen im LAN, aber nur ein Managing-Node)</li>
+<li>dem Kommandozeilen-Commander (boinccmd), um per Kommandozeile einen laufenden Clienten zu administrieren</li>
+<li>dem grafischen BOINC-Manager (boincmgr), um grafisch einen laufenden Clienten zu managen</li>
+<li>Commander und Manager können auch zu entfernten Clienten verbinden (z.B. mehrere Maschinen im LAN, aber nur ein Managing-Node)</li>
 </ul>
 </li>
 <li>Konfiguration ebenfalls über ein XML-File</li>
@@ -145,8 +140,7 @@ Maschinen im LAN, aber nur ein Managing-Node)</li>
 <li>GPU -> <a href="https://en.wikipedia.org/wiki/CUDA">CUDA(Nvidia)</a> und Stream(ATI), sowie <a href="https://en.wikipedia.org/wiki/OpenCL">OpenCL</a></li>
 </ul>
 </li>
-<li>CPU-Anwendungen können (rein theorerisch) auch <a href="http://en.wikipedia.org/wiki/Symmetric_multiprocessing">SMP</a> sein, in der Praxis haben sich jedoch
-einige Probleme seitens BOINC damit gezeigt</li>
+<li>CPU-Anwendungen können (rein theorerisch) auch <a href="http://en.wikipedia.org/wiki/Symmetric_multiprocessing">SMP</a> sein, in der Praxis haben sich jedoch einige Probleme seitens BOINC damit gezeigt</li>
 </ul>
 </li>
 <li>Nachteile von BOINC
@@ -159,8 +153,7 @@ einige Probleme seitens BOINC damit gezeigt</li>
 </ul>
 </li>
 <li>einzig uns bekannte: <a href="http://www.uni-marburg.de/fb12/verteilte_systeme/forschung/grid_tools">MAGE - Marburg Ad-hoc Grid Environment</a></li>
-<li>entwickelt von Arbeitsgruppe um <em>Prof. Dr. Bernd Freisleben</em> an der Universität
-Marburg, Fachbereich Mathematik und Informatik</li>
+<li>entwickelt von Arbeitsgruppe um <em>Prof. Dr. Bernd Freisleben</em> an der Universität Marburg, Fachbereich Mathematik und Informatik</li>
 <li>einige (wenige) Projekte nutzen ein individuell entwickletes Server-Client-Framework
 (z.B. <a href="http://folding.stanford.edu/">Folding@Home</a>, <a href="http://www.distributed.net/Main_Page">Distributed.net</a>,
 <a href="http://www.stephenbrooks.org/muon1/">Muon</a>)</li>
@@ -228,8 +221,7 @@ Gulomb-Maßstab berechnen</li>
 <li>ECM: Finden von großen Primfaktoren (>40 Stellen)</li>
 </ul>
 </li>
-<li><a href="http://www.rnaworld.de/rnaworld">RNA World</a>: wissenschaftliches Forschungsprojekt
-zur Untersuchung von RNAs</li>
+<li><a href="http://www.rnaworld.de/rnaworld">RNA World</a>: wissenschaftliches Forschungsprojekt zur Untersuchung von RNAs</li>
 </ul>
 </li>
 <li><a href="http://aerospaceresearch.net/constellation/">Constellation</a>
@@ -271,18 +263,16 @@ Kategorien:
 
 Distributed Computing - seti@home
 Distributed Thinking - openstreetmap
- oder auch crowdsourcing
  die Zooniverse-Projekte
   Distributed Proofreaders / Project Gutenberg
   SciStarter: Datenbank zahlreicher &#8220;Handarbeits&#8221;-Citizen-Science-Projekte
-Citizen Science - Solar Storm Watch
+Citizen Science - Solar Stormwatch
 
 BOINC
 
 
 Berkeley Open Infrastructure for Network Computing
-entwicklet von Dr. David Anderson am Space Science Laboratory
-der University of California, Berkeley
+entwicklet von Dr. David Anderson am Space Science Laboratory der University of California, Berkeley
 plattformunabhängiges Server-Client-Framework
 Server
 
@@ -302,12 +292,9 @@ bestehend aus
 
 
 dem Kommandozeilen-Clienten (boinc) selbst (kann auch als Daemon laufen)
-dem Kommandozeilen-Commander (boinccmd), um per Kommandozeile einen laufenden
-Clienten zu administrieren
-dem grafischen BOINC-Manager (boincmgr), um grafisch einen laufenden Clienten
-zu managen
-Commander und Manager können auch zu entfernten Clienten verbinden (z.B. mehrere
-Maschinen im LAN, aber nur ein Managing-Node)
+dem Kommandozeilen-Commander (boinccmd), um per Kommandozeile einen laufenden Clienten zu administrieren
+dem grafischen BOINC-Manager (boincmgr), um grafisch einen laufenden Clienten zu managen
+Commander und Manager können auch zu entfernten Clienten verbinden (z.B. mehrere Maschinen im LAN, aber nur ein Managing-Node)
 
 
 Konfiguration ebenfalls über ein XML-File
@@ -322,8 +309,7 @@ drei Typen von Apps: klassische CPU, low CPU und GPU
 GPU -> CUDA(Nvidia) und Stream(ATI), sowie OpenCL
 
 
-CPU-Anwendungen können (rein theorerisch) auch SMP sein, in der Praxis haben sich jedoch
-einige Probleme seitens BOINC damit gezeigt
+CPU-Anwendungen können (rein theorerisch) auch SMP sein, in der Praxis haben sich jedoch einige Probleme seitens BOINC damit gezeigt
 
 
 Nachteile von BOINC
@@ -336,8 +322,7 @@ BOINC-Alternativen
 
 
 einzig uns bekannte: MAGE - Marburg Ad-hoc Grid Environment
-entwickelt von Arbeitsgruppe um Prof. Dr. Bernd Freisleben an der Universität
-Marburg, Fachbereich Mathematik und Informatik
+entwickelt von Arbeitsgruppe um Prof. Dr. Bernd Freisleben an der Universität Marburg, Fachbereich Mathematik und Informatik
 einige (wenige) Projekte nutzen ein individuell entwickletes Server-Client-Framework
 (z.B. Folding@Home, Distributed.net,
 Muon)
@@ -405,8 +390,7 @@ Euler&#8217;s Formula
 ECM: Finden von großen Primfaktoren (>40 Stellen)
 
 
-RNA World: wissenschaftliches Forschungsprojekt
-zur Untersuchung von RNAs
+RNA World: wissenschaftliches Forschungsprojekt zur Untersuchung von RNAs
 
 
 Constellation
