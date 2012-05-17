@@ -23,8 +23,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Mon, 14 May 2012 09:56:41 +0200</lastBuildDate>
-    <atom:updated>2012-05-14T09:56:41+02:00</atom:updated>
+    <lastBuildDate>Thu, 17 May 2012 14:16:12 +0200</lastBuildDate>
+    <atom:updated>2012-05-17T14:16:12+02:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -53,6 +53,383 @@
     <media:credit role="author">Binärgewitter Crew</media:credit>
     <media:rating>nonadult</media:rating>
     <media:description type="plain">Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</media:description>
+    
+    
+    <item>
+      <title>Binärgewitter Spezial #4 - Distributed Computing</title>
+      <link>http://blog.binaergewitter.de/blog/2012/05/17/binaergewitter-spezial-number-4-distributed-computing/</link>
+      <comments>http://blog.binaergewitter.de/blog/2012/05/17/binaergewitter-spezial-number-4-distributed-computing/#comments</comments>
+      <pubDate>Thu, 17 May 2012 15:30:00 +0200</pubDate>
+      <atom:updated>2012-05-17T15:30:00+02:00</atom:updated>
+
+      
+      
+      <atom:link rel="payment"
+        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2012%2F05%2F17%2Fbinaergewitter-spezial-number-4-distributed-computing%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Spezial%20%234%20-%20Distributed%20Computing&amp;category=audio&amp;tags=podcast,tech,software"
+        type="text/html"
+      />
+
+      
+
+      
+      <category><![CDATA[spezial]]></category>
+      
+
+      <media:credit role="author">Binärgewitter Crew</media:credit>
+      <media:rating>nonadult</media:rating>
+      
+      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2012/05/17/binaergewitter-spezial-number-4-distributed-computing</guid>
+      
+      <description>
+        <![CDATA[<p>BOINC gibt es zwar schon lange und es wird immer noch viel benutzt. Felix und Ingo sprechen mit Torbjörn und Andreas über den Rechenkraft e.V., Distributed Computing, BOINC, Einsatzszenarien und
+Alternativen zu BOINC.</p>
+
+<ul>
+<li>WP: <a href="https://de.wikipedia.org/wiki/Verteiltes_Rechnen">verteiltes Rechnen</a></li>
+<li>WP: <a href="https://de.wikipedia.org/wiki/Bitcoin">Bitcoin</a></li>
+<li>WP: <a href="https://de.wikipedia.org/wiki/Cloud_Computing">Cloud</a></li>
+<li><a href="http://www.boinctreffen.de">BOINC Treffen</a> / 17-20.5.2012</li>
+<li>Kategorien:
+
+<ul>
+<li>Distributed Computing - seti@home</li>
+<li>Distributed Thinking - openstreetmap</li>
+<li> oder auch crowdsourcing</li>
+<li> die <a href="http://www.zooniverse.org/">Zooniverse</a>-Projekte</li>
+<li>  <a href="http://www.pgdp.net/c/">Distributed Proofreaders</a> / <a href="http://www.gutenberg.org/">Project Gutenberg</a></li>
+<li>  <a href="http://www.scistarter.com/">SciStarter</a>: Datenbank zahlreicher &#8220;Handarbeits&#8221;-Citizen-Science-Projekte</li>
+<li>Citizen Science - Solar Storm Watch
+
+<h2>BOINC</h2></li>
+</ul>
+</li>
+<li><a href="http://boinc.berkeley.edu/">Berkeley Open Infrastructure for Network Computing</a></li>
+<li>entwicklet von <em>Dr. David Anderson</em> am <a href="http://ssl.berkeley.edu/">Space Science Laboratory</a>
+der <em>University of California, Berkeley</em></li>
+<li>plattformunabhängiges Server-Client-Framework</li>
+<li>Server
+
+<ul>
+<li>hauptsächlich in C geschrieben</li>
+<li>Webfrontent in PHP</li>
+<li>MySQL als Datenbank</li>
+<li>Konfiguration über ein XML-File</li>
+<li>LGPL</li>
+</ul>
+</li>
+<li>Client
+
+<ul>
+<li>in C geschrieben</li>
+<li>bestehend aus
+
+<ul>
+<li>dem Kommandozeilen-Clienten (boinc) selbst (kann auch als Daemon laufen)</li>
+<li>dem Kommandozeilen-Commander (boinccmd), um per Kommandozeile einen laufenden
+Clienten zu administrieren</li>
+<li>dem grafischen BOINC-Manager (boincmgr), um grafisch einen laufenden Clienten
+zu managen</li>
+<li>Commander und Manager können auch zu entfernten Clienten verbinden (z.B. mehrere
+Maschinen im LAN, aber nur ein Managing-Node)</li>
+</ul>
+</li>
+<li>Konfiguration ebenfalls über ein XML-File</li>
+</ul>
+</li>
+<li>Anwendungen für die eigentlichen Berechnungen werden von einzelnen Projekten bereitgestellt
+
+<ul>
+<li>drei Typen von Apps: klassische CPU, low CPU und <a href="https://boinc.berkeley.edu/wiki/GPU_computing">GPU</a>
+
+<ul>
+<li>GPU -> <a href="https://en.wikipedia.org/wiki/CUDA">CUDA(Nvidia)</a> und Stream(ATI), sowie <a href="https://en.wikipedia.org/wiki/OpenCL">OpenCL</a></li>
+</ul>
+</li>
+<li>CPU-Anwendungen können (rein theorerisch) auch <a href="http://en.wikipedia.org/wiki/Symmetric_multiprocessing">SMP</a> sein, in der Praxis haben sich jedoch
+einige Probleme seitens BOINC damit gezeigt</li>
+</ul>
+</li>
+<li>Nachteile von BOINC
+
+<ul>
+<li>Sicherheit</li>
+<li><a href="http://de.wikipedia.org/wiki/WebGL">3D im Browser</a>
+
+<h3>BOINC-Alternativen</h3></li>
+</ul>
+</li>
+<li>einzig uns bekannte: <a href="http://www.uni-marburg.de/fb12/verteilte_systeme/forschung/grid_tools">MAGE - Marburg Ad-hoc Grid Environment</a></li>
+<li>entwickelt von Arbeitsgruppe um <em>Prof. Dr. Bernd Freisleben</em> an der Universität
+Marburg, Fachbereich Mathematik und Informatik</li>
+<li>einige (wenige) Projekte nutzen ein individuell entwickletes Server-Client-Framework
+(z.B. <a href="http://folding.stanford.edu/">Folding@Home</a>, <a href="http://www.distributed.net/Main_Page">Distributed.net</a>,
+<a href="http://www.stephenbrooks.org/muon1/">Muon</a>)</li>
+</ul>
+
+
+<h3>Anwendungen</h3>
+
+<ul>
+<li>Jedes computational Problem, das sich in viele voneinander unabhängiger Pakete unterteilen lässt und die
+Datenmenge pro Paket nicht zu groß ist, ist für BOINC prädestiniert
+
+<ul>
+<li>Positivbeispiel: Primfaktorzerlegung, Signalanalyse, Rendern</li>
+<li>Negativbeispiel: Crashtest-Simulation (zu enge Abhängigkeit der Daten), Particle-Tracking (zu große Datenmenge)</li>
+<li>Stichwort <a href="http://en.wikipedia.org/wiki/Embarrassingly_parallel">Embarrassingly Parrallel</a></li>
+</ul>
+</li>
+<li>bestehende Programme können in BOINC eingehangen werden (<a href="http://boinc.berkeley.edu/trac/wiki/WrapperApp">BOINCWrapper</a>)</li>
+<li><a href="https://www.rechenkraft.net/wiki/index.php?title=Projekt%C3%BCbersicht">eine relativ vollständige List aller DC-Projekte im Rechenkraft.net-Wiki</a>
+
+<h3>BOINC-Projekte</h3></li>
+<li>die Urgesteine
+
+<ul>
+<li><a href="http://setiathome.berkeley.edu/">SETI@Home</a>: Radiosignale nach Außerirdischen durchsuchen</li>
+<li><a href="http://www.distributed.net/Main_Page">Distributed.net</a>: Encryption knacken, Optimalen
+Gulomb-Maßstab berechnen</li>
+<li><a href="http://folding.stanford.edu">Folding@Home</a>: Proteine falten (auch mit PS3 und GPUs)
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/AutoDock">Autodock - Molecular Modeling</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li>deutsche Aushängeschilder
+
+<ul>
+<li><a href="http://einstein.phys.uwm.edu/">Einstein@Home</a>: Gravitationswellen suchen, Radiopulsare finden</li>
+<li><a href="http://boinc.fzk.de/poem/">POEM@Home</a>: Proteine falten</li>
+<li><a href="http://www.rnaworld.de/rnaworld/">RNA World</a>: RNAs finden und klassifizieren</li>
+</ul>
+</li>
+<li>Sensorprojekte
+
+<ul>
+<li><a href="http://qcn.stanford.edu/">Quake Catcher Network</a>: Erdbeben erkennen und melden</li>
+<li><a href="http://www.kickstarter.com/projects/edborden/air-quality-egg">AirQualityEgg</a></li>
+<li><a href="http://radioactiveathome.org/boinc/">Radioactive@Home</a>: Radioaktive Strahlung messen und melden</li>
+<li><a href="http://www.freerainbowtables.com/">Distributed Rainbow Tables</a>: Rechnen an Rainbow Tables for the greater good
+
+<h2>Rechenkraft.net e.V.</h2></li>
+</ul>
+</li>
+<li><a href="http://rechenkraft.net">Rechenkraft.net</a>
+
+<ul>
+<li><a href="http://www.rechenkraft.net/yoyo/">Yoyo@Home</a>: Umbrella-/Wrapper-Projekt
+
+<ul>
+<li><a href="http://www.evolutionary-research.net/">Evolution@Home: Simulation von Evolution</a></li>
+<li><a href="http://www.stephenbrooks.org/muon1/">Muon: Simulationen zur Planung einer Neutrino-Fabrik</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Euler%27s_formula">Euler&#8217;s Formula</a></li>
+<li>ECM: Finden von großen Primfaktoren (>40 Stellen)</li>
+</ul>
+</li>
+<li><a href="http://www.rnaworld.de/rnaworld">RNA World</a>: wissenschaftliches Forschungsprojekt
+zur Untersuchung von RNAs</li>
+</ul>
+</li>
+<li><a href="http://aerospaceresearch.net/constellation/">Constellation</a>
+
+<ul>
+<li><a href="http://www.ibats.org.uk">iBats</a>: mit dem iPhone Fledermäuse tracken</li>
+</ul>
+</li>
+<li>Citizen Science
+
+<ul>
+<li><a href="http://www.dontflush.me">DontFlushMe</a>: für weniger Sch**** im Hudson River (New York)</li>
+</ul>
+</li>
+<li><a href="http://boincoid.sourceforge.net/">Boincoid</a></li>
+</ul>
+
+]]>
+      </description>
+      
+       
+      
+      
+      <enclosure url="http://download.binaergewitter.de/2012-05-17.Binaergewitter.Spezial.4.mp3" length="109542359" type="audio/mpeg" />
+      <media:content url="http://download.binaergewitter.de/2012-05-17.Binaergewitter.Spezial.4.mp3" fileSize="109542359" type="audio/mpeg" />
+      <itunes:keywords></itunes:keywords>
+      <itunes:subtitle>Binärgewitter Spezial #4 - Distributed Computing</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[BOINC gibt es zwar schon lange und es wird immer noch viel benutzt. Felix und Ingo sprechen mit Torbjörn und Andreas über den Rechenkraft e.V., Distributed Computing, BOINC, Einsatzszenarien und
+Alternativen zu BOINC.
+
+
+WP: verteiltes Rechnen
+WP: Bitcoin
+WP: Cloud
+BOINC Treffen / 17-20.5.2012
+Kategorien:
+
+
+Distributed Computing - seti@home
+Distributed Thinking - openstreetmap
+ oder auch crowdsourcing
+ die Zooniverse-Projekte
+  Distributed Proofreaders / Project Gutenberg
+  SciStarter: Datenbank zahlreicher &#8220;Handarbeits&#8221;-Citizen-Science-Projekte
+Citizen Science - Solar Storm Watch
+
+BOINC
+
+
+Berkeley Open Infrastructure for Network Computing
+entwicklet von Dr. David Anderson am Space Science Laboratory
+der University of California, Berkeley
+plattformunabhängiges Server-Client-Framework
+Server
+
+
+hauptsächlich in C geschrieben
+Webfrontent in PHP
+MySQL als Datenbank
+Konfiguration über ein XML-File
+LGPL
+
+
+Client
+
+
+in C geschrieben
+bestehend aus
+
+
+dem Kommandozeilen-Clienten (boinc) selbst (kann auch als Daemon laufen)
+dem Kommandozeilen-Commander (boinccmd), um per Kommandozeile einen laufenden
+Clienten zu administrieren
+dem grafischen BOINC-Manager (boincmgr), um grafisch einen laufenden Clienten
+zu managen
+Commander und Manager können auch zu entfernten Clienten verbinden (z.B. mehrere
+Maschinen im LAN, aber nur ein Managing-Node)
+
+
+Konfiguration ebenfalls über ein XML-File
+
+
+Anwendungen für die eigentlichen Berechnungen werden von einzelnen Projekten bereitgestellt
+
+
+drei Typen von Apps: klassische CPU, low CPU und GPU
+
+
+GPU -> CUDA(Nvidia) und Stream(ATI), sowie OpenCL
+
+
+CPU-Anwendungen können (rein theorerisch) auch SMP sein, in der Praxis haben sich jedoch
+einige Probleme seitens BOINC damit gezeigt
+
+
+Nachteile von BOINC
+
+
+Sicherheit
+3D im Browser
+
+BOINC-Alternativen
+
+
+einzig uns bekannte: MAGE - Marburg Ad-hoc Grid Environment
+entwickelt von Arbeitsgruppe um Prof. Dr. Bernd Freisleben an der Universität
+Marburg, Fachbereich Mathematik und Informatik
+einige (wenige) Projekte nutzen ein individuell entwickletes Server-Client-Framework
+(z.B. Folding@Home, Distributed.net,
+Muon)
+
+
+
+Anwendungen
+
+
+Jedes computational Problem, das sich in viele voneinander unabhängiger Pakete unterteilen lässt und die
+Datenmenge pro Paket nicht zu groß ist, ist für BOINC prädestiniert
+
+
+Positivbeispiel: Primfaktorzerlegung, Signalanalyse, Rendern
+Negativbeispiel: Crashtest-Simulation (zu enge Abhängigkeit der Daten), Particle-Tracking (zu große Datenmenge)
+Stichwort Embarrassingly Parrallel
+
+
+bestehende Programme können in BOINC eingehangen werden (BOINCWrapper)
+eine relativ vollständige List aller DC-Projekte im Rechenkraft.net-Wiki
+
+BOINC-Projekte
+die Urgesteine
+
+
+SETI@Home: Radiosignale nach Außerirdischen durchsuchen
+Distributed.net: Encryption knacken, Optimalen
+Gulomb-Maßstab berechnen
+Folding@Home: Proteine falten (auch mit PS3 und GPUs)
+
+
+Autodock - Molecular Modeling
+
+
+
+
+deutsche Aushängeschilder
+
+
+Einstein@Home: Gravitationswellen suchen, Radiopulsare finden
+POEM@Home: Proteine falten
+RNA World: RNAs finden und klassifizieren
+
+
+Sensorprojekte
+
+
+Quake Catcher Network: Erdbeben erkennen und melden
+AirQualityEgg
+Radioactive@Home: Radioaktive Strahlung messen und melden
+Distributed Rainbow Tables: Rechnen an Rainbow Tables for the greater good
+
+Rechenkraft.net e.V.
+
+
+Rechenkraft.net
+
+
+Yoyo@Home: Umbrella-/Wrapper-Projekt
+
+
+Evolution@Home: Simulation von Evolution
+Muon: Simulationen zur Planung einer Neutrino-Fabrik
+Euler&#8217;s Formula
+ECM: Finden von großen Primfaktoren (>40 Stellen)
+
+
+RNA World: wissenschaftliches Forschungsprojekt
+zur Untersuchung von RNAs
+
+
+Constellation
+
+
+iBats: mit dem iPhone Fledermäuse tracken
+
+
+Citizen Science
+
+
+DontFlushMe: für weniger Sch**** im Hudson River (New York)
+
+
+Boincoid
+
+
+]]>
+      </itunes:summary>
+      <itunes:author>Binärgewitter Crew</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
     
     
     <item>
