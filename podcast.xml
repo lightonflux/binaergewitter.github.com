@@ -23,8 +23,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Thu, 17 May 2012 16:28:10 +0200</lastBuildDate>
-    <atom:updated>2012-05-17T16:28:10+02:00</atom:updated>
+    <lastBuildDate>Tue, 22 May 2012 22:05:50 +0200</lastBuildDate>
+    <atom:updated>2012-05-22T22:05:50+02:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -81,7 +81,7 @@
       <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2012/05/17/binaergewitter-spezial-number-4-distributed-computing</guid>
       
       <description>
-        <![CDATA[<p>BOINC gibt es zwar schon lange und es wird immer noch viel benutzt. Felix und Ingo sprechen mit Torbjörn und Andreas über den Rechenkraft e.V., Distributed Computing, BOINC, Einsatzszenarien und
+        <![CDATA[<p>BOINC gibt es zwar schon lange und es wird immer noch viel benutzt. Felix und Ingo sprechen mit Torbjörn und Andreas über den Rechenkraft.net e.V., Distributed Computing, BOINC, Einsatzszenarien und
 Alternativen zu BOINC.</p>
 
 <ul>
@@ -92,7 +92,7 @@ Alternativen zu BOINC.</p>
 <li>Kategorien:
 
 <ul>
-<li>Distributed Computing - seti@home</li>
+<li>Distributed Computing - SETI@Home</li>
 <li>Distributed Thinking - <a href="http://www.openstreetmap.org/">openstreetmap</a></li>
 <li> die <a href="http://www.zooniverse.org/">Zooniverse</a>-Projekte</li>
 <li>  <a href="http://www.pgdp.net/c/">Distributed Proofreaders</a> / <a href="http://www.gutenberg.org/">Project Gutenberg</a></li>
@@ -147,11 +147,15 @@ Alternativen zu BOINC.</p>
 
 <ul>
 <li>Sicherheit</li>
-<li><a href="http://de.wikipedia.org/wiki/WebGL">3D im Browser</a>
-
-<h3>BOINC-Alternativen</h3></li>
+<li><a href="http://de.wikipedia.org/wiki/WebGL">3D im Browser</a></li>
 </ul>
 </li>
+</ul>
+
+
+<h3>BOINC-Alternativen</h3>
+
+<ul>
 <li>einzig uns bekannte: <a href="http://www.uni-marburg.de/fb12/verteilte_systeme/forschung/grid_tools">MAGE - Marburg Ad-hoc Grid Environment</a></li>
 <li>entwickelt von Arbeitsgruppe um <em>Prof. Dr. Bernd Freisleben</em> an der Universität Marburg, Fachbereich Mathematik und Informatik</li>
 <li>einige (wenige) Projekte nutzen ein individuell entwickletes Server-Client-Framework
@@ -172,22 +176,26 @@ Datenmenge pro Paket nicht zu groß ist, ist für BOINC prädestiniert
 <li>Stichwort <a href="http://en.wikipedia.org/wiki/Embarrassingly_parallel">Embarrassingly Parrallel</a></li>
 </ul>
 </li>
-<li>bestehende Programme können in BOINC eingehangen werden (<a href="http://boinc.berkeley.edu/trac/wiki/WrapperApp">BOINCWrapper</a>)</li>
-<li><a href="https://www.rechenkraft.net/wiki/index.php?title=Projekt%C3%BCbersicht">eine relativ vollständige List aller DC-Projekte im Rechenkraft.net-Wiki</a>
+<li>bestehende Programme können in BOINC eingehangen werden (<a href="http://boinc.berkeley.edu/trac/wiki/WrapperApp">BOINCWrapper</a>)
 
-<h3>BOINC-Projekte</h3></li>
+<ul>
+<li>z.B. <a href="http://en.wikipedia.org/wiki/AutoDock">Autodock - Molecular Modeling</a></li>
+</ul>
+</li>
+<li><a href="https://www.rechenkraft.net/wiki/index.php?title=Projekt%C3%BCbersicht">eine relativ vollständige List aller DC-Projekte im Rechenkraft.net-Wiki</a></li>
+</ul>
+
+
+<h3>BOINC-Projekte</h3>
+
+<ul>
 <li>die Urgesteine
 
 <ul>
 <li><a href="http://setiathome.berkeley.edu/">SETI@Home</a>: Radiosignale nach Außerirdischen durchsuchen</li>
 <li><a href="http://www.distributed.net/Main_Page">Distributed.net</a>: Encryption knacken, Optimalen
 Gulomb-Maßstab berechnen</li>
-<li><a href="http://folding.stanford.edu">Folding@Home</a>: Proteine falten (auch mit PS3 und GPUs)
-
-<ul>
-<li><a href="http://en.wikipedia.org/wiki/AutoDock">Autodock - Molecular Modeling</a></li>
-</ul>
-</li>
+<li><a href="http://folding.stanford.edu">Folding@Home</a>: Proteine falten (auch mit PS3 und GPUs)</li>
 </ul>
 </li>
 <li>deutsche Aushängeschilder
@@ -204,11 +212,15 @@ Gulomb-Maßstab berechnen</li>
 <li><a href="http://qcn.stanford.edu/">Quake Catcher Network</a>: Erdbeben erkennen und melden</li>
 <li><a href="http://www.kickstarter.com/projects/edborden/air-quality-egg">AirQualityEgg</a></li>
 <li><a href="http://radioactiveathome.org/boinc/">Radioactive@Home</a>: Radioaktive Strahlung messen und melden</li>
-<li><a href="http://www.freerainbowtables.com/">Distributed Rainbow Tables</a>: Rechnen an Rainbow Tables for the greater good
-
-<h2>Rechenkraft.net e.V.</h2></li>
+<li><a href="http://www.freerainbowtables.com/">Distributed Rainbow Tables</a>: Rechnen an Rainbow Tables for the greater good</li>
 </ul>
 </li>
+</ul>
+
+
+<h2>Rechenkraft.net e.V.</h2>
+
+<ul>
 <li><a href="http://rechenkraft.net">Rechenkraft.net</a>
 
 <ul>
@@ -224,19 +236,16 @@ Gulomb-Maßstab berechnen</li>
 <li><a href="http://www.rnaworld.de/rnaworld">RNA World</a>: wissenschaftliches Forschungsprojekt zur Untersuchung von RNAs</li>
 </ul>
 </li>
-<li><a href="http://aerospaceresearch.net/constellation/">Constellation</a>
-
-<ul>
-<li><a href="http://www.ibats.org.uk">iBats</a>: mit dem iPhone Fledermäuse tracken</li>
-</ul>
-</li>
+<li><a href="http://aerospaceresearch.net/constellation/">Constellation</a></li>
 <li>Citizen Science
 
 <ul>
+<li><a href="http://www.ibats.org.uk">iBats</a>: mit dem iPhone Fledermäuse tracken</li>
 <li><a href="http://www.dontflush.me">DontFlushMe</a>: für weniger Sch**** im Hudson River (New York)</li>
 </ul>
 </li>
-<li><a href="http://boincoid.sourceforge.net/">Boincoid</a></li>
+<li><a href="http://boincoid.sourceforge.net/">Boincoid</a>: BOINC-Clienten übers Smartphone managen</li>
+<li><a href="http://krzyszp.info/index.php?option=com_content&amp;view=article&amp;id=29:nativeboinc-for-android&amp;catid=7:linux&amp;Itemid=6">NativeBOINC</a>: derzeit wohl beste Android-Client mit Unterstützung für Milkyway@Home, PrimeGrid, Enigma@Home und Radioactive@Home</li>
 </ul>
 
 ]]>
@@ -250,7 +259,7 @@ Gulomb-Maßstab berechnen</li>
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter Spezial #4 - Distributed Computing</itunes:subtitle>
       <itunes:summary>
-        <![CDATA[BOINC gibt es zwar schon lange und es wird immer noch viel benutzt. Felix und Ingo sprechen mit Torbjörn und Andreas über den Rechenkraft e.V., Distributed Computing, BOINC, Einsatzszenarien und
+        <![CDATA[BOINC gibt es zwar schon lange und es wird immer noch viel benutzt. Felix und Ingo sprechen mit Torbjörn und Andreas über den Rechenkraft.net e.V., Distributed Computing, BOINC, Einsatzszenarien und
 Alternativen zu BOINC.
 
 
@@ -261,7 +270,7 @@ BOINC Treffen / 17-20.5.2012
 Kategorien:
 
 
-Distributed Computing - seti@home
+Distributed Computing - SETI@Home
 Distributed Thinking - openstreetmap
  die Zooniverse-Projekte
   Distributed Proofreaders / Project Gutenberg
@@ -318,6 +327,10 @@ Nachteile von BOINC
 Sicherheit
 3D im Browser
 
+
+
+
+
 BOINC-Alternativen
 
 
@@ -342,9 +355,18 @@ Stichwort Embarrassingly Parrallel
 
 
 bestehende Programme können in BOINC eingehangen werden (BOINCWrapper)
+
+
+z.B. Autodock - Molecular Modeling
+
+
 eine relativ vollständige List aller DC-Projekte im Rechenkraft.net-Wiki
 
+
+
 BOINC-Projekte
+
+
 die Urgesteine
 
 
@@ -352,11 +374,6 @@ SETI@Home: Radiosignale nach Außerirdischen durchsuchen
 Distributed.net: Encryption knacken, Optimalen
 Gulomb-Maßstab berechnen
 Folding@Home: Proteine falten (auch mit PS3 und GPUs)
-
-
-Autodock - Molecular Modeling
-
-
 
 
 deutsche Aushängeschilder
@@ -374,6 +391,10 @@ Quake Catcher Network: Erdbeben erkennen und melden
 AirQualityEgg
 Radioactive@Home: Radioaktive Strahlung messen und melden
 Distributed Rainbow Tables: Rechnen an Rainbow Tables for the greater good
+
+
+
+
 
 Rechenkraft.net e.V.
 
@@ -394,18 +415,15 @@ RNA World: wissenschaftliches Forschungsprojekt zur Untersuchung von RNAs
 
 
 Constellation
-
-
-iBats: mit dem iPhone Fledermäuse tracken
-
-
 Citizen Science
 
 
+iBats: mit dem iPhone Fledermäuse tracken
 DontFlushMe: für weniger Sch**** im Hudson River (New York)
 
 
-Boincoid
+Boincoid: BOINC-Clienten übers Smartphone managen
+NativeBOINC: derzeit wohl beste Android-Client mit Unterstützung für Milkyway@Home, PrimeGrid, Enigma@Home und Radioactive@Home
 
 
 ]]>
@@ -6310,8 +6328,8 @@ Python for Humans
        
       
       
-      <enclosure url="http://archiv.radiotux.de/sendungen/binaergewitter/2011-08-18.RadioTux.Binaergewitter.3.mp3" length="85420625" type="audio/mpeg" />
-      <media:content url="http://archiv.radiotux.de/sendungen/binaergewitter/2011-08-18.RadioTux.Binaergewitter.3.mp3" fileSize="85420625" type="audio/mpeg" />
+      <enclosure url="http://download.binaergewitter.de/2011-08-18.RadioTux.Binaergewitter.3.mp3" length="85420625" type="audio/mpeg" />
+      <media:content url="http://download.binaergewitter.de/2011-08-18.RadioTux.Binaergewitter.3.mp3" fileSize="85420625" type="audio/mpeg" />
       <itunes:keywords></itunes:keywords>
       <itunes:subtitle>Binärgewitter #3: Arbeiten und Lernen im Hackerspace</itunes:subtitle>
       <itunes:summary>
