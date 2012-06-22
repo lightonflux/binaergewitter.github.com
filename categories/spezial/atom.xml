@@ -1,0 +1,564 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: spezial | Binärgewitter]]></title>
+  <link href="http://blog.binaergewitter.de/categories/spezial/atom.xml" rel="self"/>
+  <link href="http://blog.binaergewitter.de/"/>
+  <updated>2012-06-22T14:22:43+02:00</updated>
+  <id>http://blog.binaergewitter.de/</id>
+  <author>
+    <name><![CDATA[Binärgewitter Crew]]></name>
+    <email><![CDATA[info@binaergewitter.de]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Binärgewitter Spezial #4 - Distributed Computing]]></title>
+    <link href="http://blog.binaergewitter.de/blog/2012/05/17/binaergewitter-spezial-number-4-distributed-computing/"/>
+    <updated>2012-05-17T15:30:00+02:00</updated>
+    <id>http://blog.binaergewitter.de/blog/2012/05/17/binaergewitter-spezial-number-4-distributed-computing</id>
+    <content type="html"><![CDATA[<p>BOINC gibt es zwar schon lange und es wird immer noch viel benutzt. Felix und Ingo sprechen mit Torbjörn und Andreas über den Rechenkraft.net e.V., Distributed Computing, BOINC, Einsatzszenarien und
+Alternativen zu BOINC.</p>
+
+<ul>
+<li>WP: <a href="https://de.wikipedia.org/wiki/Verteiltes_Rechnen">verteiltes Rechnen</a></li>
+<li>WP: <a href="https://de.wikipedia.org/wiki/Bitcoin">Bitcoin</a></li>
+<li>WP: <a href="https://de.wikipedia.org/wiki/Cloud_Computing">Cloud</a></li>
+<li><a href="http://www.boinctreffen.de">BOINC Treffen</a> / 17-20.5.2012</li>
+<li>Kategorien:
+
+<ul>
+<li>Distributed Computing - SETI@Home</li>
+<li>Distributed Thinking - <a href="http://www.openstreetmap.org/">openstreetmap</a></li>
+<li> die <a href="http://www.zooniverse.org/">Zooniverse</a>-Projekte</li>
+<li>  <a href="http://www.pgdp.net/c/">Distributed Proofreaders</a> / <a href="http://www.gutenberg.org/">Project Gutenberg</a></li>
+<li>  <a href="http://www.scistarter.com/">SciStarter</a>: Datenbank zahlreicher "Handarbeits"-Citizen-Science-Projekte</li>
+<li>Citizen Science - <a href="http://www.solarstormwatch.com/">Solar Stormwatch</a>
+
+<h2>BOINC</h2></li>
+</ul>
+</li>
+<li><a href="http://boinc.berkeley.edu/">Berkeley Open Infrastructure for Network Computing</a></li>
+<li>entwicklet von <em>Dr. David Anderson</em> am <a href="http://ssl.berkeley.edu/">Space Science Laboratory</a> der <em>University of California, Berkeley</em></li>
+<li>plattformunabhängiges Server-Client-Framework</li>
+<li>Server
+
+<ul>
+<li>hauptsächlich in C geschrieben</li>
+<li>Webfrontent in PHP</li>
+<li>MySQL als Datenbank</li>
+<li>Konfiguration über ein XML-File</li>
+<li>LGPL</li>
+</ul>
+</li>
+<li>Client
+
+<ul>
+<li>in C geschrieben</li>
+<li>bestehend aus
+
+<ul>
+<li>dem Kommandozeilen-Clienten (boinc) selbst (kann auch als Daemon laufen)</li>
+<li>dem Kommandozeilen-Commander (boinccmd), um per Kommandozeile einen laufenden Clienten zu administrieren</li>
+<li>dem grafischen BOINC-Manager (boincmgr), um grafisch einen laufenden Clienten zu managen</li>
+<li>Commander und Manager können auch zu entfernten Clienten verbinden (z.B. mehrere Maschinen im LAN, aber nur ein Managing-Node)</li>
+</ul>
+</li>
+<li>Konfiguration ebenfalls über ein XML-File</li>
+</ul>
+</li>
+<li>Anwendungen für die eigentlichen Berechnungen werden von einzelnen Projekten bereitgestellt
+
+<ul>
+<li>drei Typen von Apps: klassische CPU, low CPU und <a href="https://boinc.berkeley.edu/wiki/GPU_computing">GPU</a>
+
+<ul>
+<li>GPU -> <a href="https://en.wikipedia.org/wiki/CUDA">CUDA(Nvidia)</a> und Stream(ATI), sowie <a href="https://en.wikipedia.org/wiki/OpenCL">OpenCL</a></li>
+</ul>
+</li>
+<li>CPU-Anwendungen können (rein theorerisch) auch <a href="http://en.wikipedia.org/wiki/Symmetric_multiprocessing">SMP</a> sein, in der Praxis haben sich jedoch einige Probleme seitens BOINC damit gezeigt</li>
+</ul>
+</li>
+<li>Nachteile von BOINC
+
+<ul>
+<li>Sicherheit</li>
+<li><a href="http://de.wikipedia.org/wiki/WebGL">3D im Browser</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h3>BOINC-Alternativen</h3>
+
+<ul>
+<li>einzig uns bekannte: <a href="http://www.uni-marburg.de/fb12/verteilte_systeme/forschung/grid_tools">MAGE - Marburg Ad-hoc Grid Environment</a></li>
+<li>entwickelt von Arbeitsgruppe um <em>Prof. Dr. Bernd Freisleben</em> an der Universität Marburg, Fachbereich Mathematik und Informatik</li>
+<li>einige (wenige) Projekte nutzen ein individuell entwickletes Server-Client-Framework
+(z.B. <a href="http://folding.stanford.edu/">Folding@Home</a>, <a href="http://www.distributed.net/Main_Page">Distributed.net</a>,
+<a href="http://www.stephenbrooks.org/muon1/">Muon</a>)</li>
+</ul>
+
+
+<h3>Anwendungen</h3>
+
+<ul>
+<li>Jedes computational Problem, das sich in viele voneinander unabhängiger Pakete unterteilen lässt und die
+Datenmenge pro Paket nicht zu groß ist, ist für BOINC prädestiniert
+
+<ul>
+<li>Positivbeispiel: Primfaktorzerlegung, Signalanalyse, Rendern</li>
+<li>Negativbeispiel: Crashtest-Simulation (zu enge Abhängigkeit der Daten), Particle-Tracking (zu große Datenmenge)</li>
+<li>Stichwort <a href="http://en.wikipedia.org/wiki/Embarrassingly_parallel">Embarrassingly Parrallel</a></li>
+</ul>
+</li>
+<li>bestehende Programme können in BOINC eingehangen werden (<a href="http://boinc.berkeley.edu/trac/wiki/WrapperApp">BOINCWrapper</a>)
+
+<ul>
+<li>z.B. <a href="http://en.wikipedia.org/wiki/AutoDock">Autodock - Molecular Modeling</a></li>
+</ul>
+</li>
+<li><a href="https://www.rechenkraft.net/wiki/index.php?title=Projekt%C3%BCbersicht">eine relativ vollständige List aller DC-Projekte im Rechenkraft.net-Wiki</a></li>
+</ul>
+
+
+<h3>BOINC-Projekte</h3>
+
+<ul>
+<li>die Urgesteine
+
+<ul>
+<li><a href="http://setiathome.berkeley.edu/">SETI@Home</a>: Radiosignale nach Außerirdischen durchsuchen</li>
+<li><a href="http://www.distributed.net/Main_Page">Distributed.net</a>: Encryption knacken, Optimalen
+Gulomb-Maßstab berechnen</li>
+<li><a href="http://folding.stanford.edu">Folding@Home</a>: Proteine falten (auch mit PS3 und GPUs)</li>
+</ul>
+</li>
+<li>deutsche Aushängeschilder
+
+<ul>
+<li><a href="http://einstein.phys.uwm.edu/">Einstein@Home</a>: Gravitationswellen suchen, Radiopulsare finden</li>
+<li><a href="http://boinc.fzk.de/poem/">POEM@Home</a>: Proteine falten</li>
+<li><a href="http://www.rnaworld.de/rnaworld/">RNA World</a>: RNAs finden und klassifizieren</li>
+</ul>
+</li>
+<li>Sensorprojekte
+
+<ul>
+<li><a href="http://qcn.stanford.edu/">Quake Catcher Network</a>: Erdbeben erkennen und melden</li>
+<li><a href="http://www.kickstarter.com/projects/edborden/air-quality-egg">AirQualityEgg</a></li>
+<li><a href="http://radioactiveathome.org/boinc/">Radioactive@Home</a>: Radioaktive Strahlung messen und melden</li>
+<li><a href="http://www.freerainbowtables.com/">Distributed Rainbow Tables</a>: Rechnen an Rainbow Tables for the greater good</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Rechenkraft.net e.V.</h2>
+
+<ul>
+<li><a href="http://rechenkraft.net">Rechenkraft.net</a>
+
+<ul>
+<li><a href="http://www.rechenkraft.net/yoyo/">Yoyo@Home</a>: Umbrella-/Wrapper-Projekt
+
+<ul>
+<li><a href="http://www.evolutionary-research.net/">Evolution@Home: Simulation von Evolution</a></li>
+<li><a href="http://www.stephenbrooks.org/muon1/">Muon: Simulationen zur Planung einer Neutrino-Fabrik</a></li>
+<li><a href="http://euler.free.fr/details.htm">EulerNet</a> (beendet)</li>
+<li>ECM: Finden von großen Primfaktoren (>40 Stellen)</li>
+</ul>
+</li>
+<li><a href="http://www.rnaworld.de/rnaworld">RNA World</a>: wissenschaftliches Forschungsprojekt zur Untersuchung von RNAs</li>
+</ul>
+</li>
+<li><a href="http://aerospaceresearch.net/constellation/">Constellation</a></li>
+<li>Citizen Science
+
+<ul>
+<li><a href="http://www.ibats.org.uk">iBats</a>: mit dem iPhone Fledermäuse tracken</li>
+<li><a href="http://www.dontflush.me">DontFlushMe</a>: für weniger Sch**** im Hudson River (New York)</li>
+</ul>
+</li>
+<li><a href="http://boincoid.sourceforge.net/">Boincoid</a>: BOINC-Clienten übers Smartphone managen</li>
+<li><a href="http://krzyszp.info/index.php?option=com_content&amp;view=article&amp;id=29:nativeboinc-for-android&amp;catid=7:linux&amp;Itemid=6">NativeBOINC</a>: derzeit wohl beste Android-Client mit Unterstützung für Milkyway@Home, PrimeGrid, Enigma@Home und Radioactive@Home</li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Binärgewitter #3: Arbeiten und Lernen im Hackerspace]]></title>
+    <link href="http://blog.binaergewitter.de/blog/2011/08/24/binargewitter-number-3-arbeiten-und-lernen-im-hackerspace/"/>
+    <updated>2011-08-24T15:57:00+02:00</updated>
+    <id>http://blog.binaergewitter.de/blog/2011/08/24/binargewitter-number-3-arbeiten-und-lernen-im-hackerspace</id>
+    <content type="html"><![CDATA[<p>Diesmal ein gar nicht so technisches Thema, aber trotzdem f&uuml;r uns Geeks interessant. Es geht um die Hackerspaces, die Kultur und warum das Lernen und Arbeiten in solchen Umgebungen einfacherer ist als in der Schule und im Studium. Mit dabei sind diesmal pfleidi, Felix, Jan und hadez. Moderation: Ingo</p>
+
+
+
+
+<h2>Links</h2>
+
+
+
+
+<h3>Hackerspaces allgemein</h3>
+
+
+
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Hackerspace">http://en.wikipedia.org/wiki/Hackerspace</a></li>
+<li><a href="http://hackerspaces.org/wiki/Design_Patterns">http://hackerspaces.org/wiki/Design_Patterns</a></li>
+</ul>
+
+
+
+
+<h3>Arbeitsdefinition "Hacker"</h3>
+
+
+
+
+<ul>
+<li><a href="http://de.wikipedia.org/wiki/Tech_Model_Railroad_Club">http://de.wikipedia.org/wiki/Tech_Model_Railroad_Club</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Hacker#Die_Hackerkultur_der_Hobbyisten_aus_der_Homecomputerszene">http://de.wikipedia.org/wiki/Hacker#Die_Hackerkultur_der_Hobbyisten_aus_der_Homecomputerszene</a></li>
+<li>Wau Holland &acirc;&euro;&oelig;atypisches Benutzerverhalten&acirc;&euro;</li>
+<li>zentrale Anlaufstelle</li>
+<li>Unterschied zu Coworking</li>
+</ul>
+
+
+
+
+<h3>shackspace im speziellen</h3>
+
+
+
+
+<ul>
+<li><a href="http://vimeo.com/shackspace">http://vimeo.com/shackspace</a></li>
+<li><a href="http://shackspace.de/wiki/doku.php">http://shackspace.de/wiki/doku.php</a></li>
+<li>@freenode #shackspace</li>
+</ul>
+
+
+
+
+<h3>Arbeiten in Hackerspaces</h3>
+
+
+
+
+<h4>Andere Beipspiele</h4>
+
+
+
+
+<ul>
+<li><a href="http://manifesto.softwarecraftsmanship.org/">http://manifesto.softwarecraftsmanship.org/</a></li>
+<li><a href="http://www.extremeprogramming.org/">http://www.extremeprogramming.org/</a></li>
+</ul>
+
+
+
+
+<h4>Infrastrukturprojekte</h4>
+
+
+
+
+<ul>
+<li>Stromverkabelung</li>
+<li>Portal</li>
+</ul>
+
+
+
+
+<h4>"freie" Projekte</h4>
+
+
+
+
+<ul>
+<li>Blinkende Dinge</li>
+<li>Spielbasteien</li>
+<li>Krebs
+<ul>
+<li><a href="https://github.com/krebscode/painload">https://github.com/krebscode/painload</a></li>
+<li><a href="http://shackspace.de/wiki/doku.php?id=project:krebs">http://shackspace.de/wiki/doku.php?id=project:krebs</a></li>
+</ul>
+</li>
+</ul>
+
+
+
+
+<h4>Veranstaltungen</h4>
+
+
+
+
+<ul>
+<li>LHC</li>
+<li>NOT <a href="http://largehardoncollider.com/">http://largehardoncollider.com/</a></li>
+<li><a href="http://shackspace.de/wiki/doku.php?id=event:lhc-ii">http://shackspace.de/wiki/doku.php?id=event:lhc-ii</a></li>
+</ul>
+
+
+
+
+<h2>Weiterf&uuml;hrende Links</h2>
+
+
+
+
+<ul>
+<li><a href="http://hackerspaces.org/">http://hackerspaces.org</a></li>
+<li><a href="http://hackerspaces.org/wiki/List_of_Hacker_Spaces">List of Hacker Spaces &ndash; HackerspaceWiki &ndash; Hackerspaces</a></li>
+<li><a href="http://shackspace.de/">http://shackspace.de</a></li>
+<li><a href="http://shackspace.de/wiki">http://shackspace.de/wiki</a></li>
+<li><a href="http://chaosradio.ccc.de/cre134.html">http://chaosradio.ccc.de/cre134.html</a></li>
+</ul>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Binärgewitter #2: Sichere Systeme]]></title>
+    <link href="http://blog.binaergewitter.de/blog/2011/04/16/binargewitter-number-2-sichere-systeme/"/>
+    <updated>2011-04-16T19:26:00+02:00</updated>
+    <id>http://blog.binaergewitter.de/blog/2011/04/16/binargewitter-number-2-sichere-systeme</id>
+    <content type="html"><![CDATA[<p>Ausgabe 2 von Binärgewitter dreht sich rund um Sichere Systeme und grundlägende Begriffe von Sicherheit bzw. IT Security. Mit dabei sind Pfleidi, Felix und Prof. Walter Kriha, moderiert von Ingo Ebel. Die Sendung soll einen Einblick in Sicherheit und Sichere Systeme geben. Eine weitere Binärgewitterfolge wird sich dann mit einzelnen Angriff- und Abwehrmaßnahmen beschäftigen.</p>
+
+
+
+
+<div>
+<ul id="internal-source-marker_0.01693269656971097">
+<li>Prof. Walter Kriha
+<ul>
+<li><a href="http://kriha.org">Website</a></li>
+<li>Buch: <a href="http://www.amazon.de/gp/product/3540789588/ref=as_li_ss_tl?ie=UTF8&amp;tag=trektrip&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=3540789588" target="_blank">Sichere Systeme</a></li>
+</ul>
+</li>
+<li>Trennung Security vs. Safety
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Computer_security">Security</a></li>
+<li><a href="http://en.wikipedia.org/wiki/Safety">Safety</a></li>
+</ul>
+</li>
+<li>Was bedeuten sichere Systeme
+<ul>
+<li>warum greift man jemanden an?</li>
+</ul>
+</li>
+<li>IT Security oder Information Security?
+<ul>
+<li>Systemsicherheit
+<ul>
+<li><a href="http://upload.wikimedia.org/wikipedia/commons/8/80/Risk_matrix_with_simple_quadrant_strategy.jpg">Risikoquadrant</a></li>
+<li>Japan</li>
+</ul>
+</li>
+<li>Datensicherheit und Datenschutz?
+<ul>
+<li>Baut auf Systemsicherheit auf
+<ul>
+<li><a href="https://www.bsi.bund.de/DE/Themen/ITGrundschutz/itgrundschutz_node.html">IT-Grundschutz</a> (BSI)</li>
+<li><a href="http://iso27001security.com/">ISO 27001</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+<ul>
+<li>Vertrauen
+<ul>
+<li>In Software</li>
+<li>In Benutzer(gruppen)</li>
+<li>In Authoritäten
+<ul>
+<li>Signaturen</li>
+<li>CA-Systeme
+<ul>
+<li><a href="http://www.f-secure.com/weblog/archives/00002128.html">Comodogate</a></li>
+</ul>
+</li>
+</ul>
+</li>
+</ul>
+  </li>
+<li>Privacy / Privatsphäre (vs. Security?)
+  <ul>
+  <li><a href="http://www.zeit.de/datenschutz/malte-spitz-vorratsdaten">http://www.zeit.de/datenschutz/malte-spitz-vorratsdaten</a></li>
+  <li>Datamining</li>
+  <li>Shack Portal (SSH)</li>
+  </ul>
+  </li>
+  <li>Warum Systeme angreifen?
+  <ul>
+  <li>WP: <a href="http://de.wikipedia.org/wiki/Hacker">Hacker</a></li>
+  <li><a href="http://www.zdnet.de/news/wirtschaft_sicherheit_security_bericht__anonymous__hackt_sicherheitsfirma_story-39001024-41548071-1.htm">HB Gary vs Annoymous</a></li>
+  </ul>
+  </li>
+  <li>Wo liegen Angriffsvektoren in IT Systemen?
+  <ul>
+  <li>Angriffe auf Softwareebene
+  <ul>
+  <li>Buffer overflows, (aka unvalidated, trusted user input)</li>
+  <li>Unvalidated input etc.</li>
+  </ul>
+  </li>
+  <li>Angriffe auf Netzwerkebene
+  <ul>
+  <li>Man in the middle</li>
+  <li>Mitlesen unverschlüsselter Kommunikation (Eavesdropping)</li>
+  </ul>
+  </li>
+  <li>Angriffe auf Protokollebene
+  <ul>
+  <li><a href="http://events.ccc.de/congress/2010/Fahrplan/events/4211.en.html">Beispiel: Kreditkarten-PIN</a></li>
+  </ul>
+  </li>
+  <li>Angriffsvektor Benutzer/Mensch
+  <ul>
+  <li>Schwächstes Glied? -&gt; Skrupel, Sozialer Druck</li>
+  <li>Buch: <a href="http://www.amazon.de/gp/product/3826615697/ref=as_li_ss_tl?ie=UTF8&amp;tag=trektrip&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=3826615697" target="_blank">Kevin Mitnick Kunst der Täuschung</a> / Film: <a href="http://www.imdb.com/title/tt0159784/">Hackers 2</a></li>
+  <li>Buch: <a href="http://www.amazon.de/gp/product/0596154577/ref=as_li_ss_tl?ie=UTF8&amp;tag=trektrip&amp;linkCode=as2&amp;camp=1638&amp;creative=19454&amp;creativeASIN=0596154577" target="_blank">Hacking - The Next Generation</a></li>
+  <li>Konfigurationsfehler / Bedienfehler - Verhaltensregel-Verletzung: <a href="http://sofortueberweisung.de/">sofortueberweisung.de</a></li>
+  <li>Passwortsicherheit Top 10</li>
+  </ul>
+  </li>
+  </ul>
+  </li>
+  </ul>
+  <ul>
+  <li>Security Patterns
+  <ul>
+  <li>ACLs (Windows, Android)</li>
+  <li>Sandbox Systeme</li>
+  </ul>
+  <div>
+  <ul id="internal-source-marker_0.01693269656971097">
+  <li>Trends: Was erwartet uns in Zukunft?
+  <ul>
+  <li><a href="http://www.schneier.com/blog/archives/2010/12/security_in_202.html" target="_blank">Bruce Schneier Security in 2020</a></li>
+  </ul>
+  </li>
+  </ul>
+  </div></li>
+  </ul>
+  </div>
+
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Binaergewitter #1 - NoSQL]]></title>
+    <link href="http://blog.binaergewitter.de/blog/2011/01/09/binaergewitter-number-1-nosql/"/>
+    <updated>2011-01-09T09:17:00+01:00</updated>
+    <id>http://blog.binaergewitter.de/blog/2011/01/09/binaergewitter-number-1-nosql</id>
+    <content type="html"><![CDATA[<p>Die erste Ausgabe unseres neuen Formats beschäftigt sich mit Datenbanken und NoSQL. Diese neuen Datenbanken waren im Jahr 2010 schon Hype und werden uns sicher auch im Jahr 2011 stark begleiten. Warum soll man aber diese Datenbanken einsetzen? Welche gibt es und welche Stärken und Schwächen haben diese? Das versuchen <a href="http://twitter.com/ddeimeke" target="_blank">Dirk</a>, <a href="http://twitter.com/rb2k" target="_blank">Marc</a>, <a href="http://twitter.com/pfleidi" target="_blank">Sven</a> und <a href="http://twitter.com/radiotux" target="_blank">Ingo</a> in 2,75 Stunden zu klären.</p>
+
+<p><strong>Shownotes / Timeline und Links</strong></p>
+
+<div>
+<ul id="internal-source-marker_0.9715123863425106">
+<li>Vorstellung der Teilnehmer / Kurze Erklärung von NoSQL
+<ul>
+<li>Marc: Masterthesis: <a href="http://blog.marc-seeger.de/2010/12/09/my-thesis-building-blocks-of-a-scalable-webcrawler">building blocks of a scalable webcrawler</a></li>
+</ul>
+</li>
+<li>Grundlegende Einsatzgebiete von Datenbanken
+<ol>
+<li>Persistenz von (Anwendungs)daten
+<ol>
+<li>Unterschied/Gemeinsamkeit Dateisystem &lt;--&gt; Datenbank</li>
+<li>Datensicherheit - WP: <a href="http://en.wikipedia.org/wiki/ACID">ACID</a></li>
+<li>Verteilung</li>
+</ol>
+</li>
+<li>Suchen
+<ol>
+<li>Via Indexierung (<a href="http://de.wikipedia.org/wiki/B%2B-Baum" target="_blank">B+Tree</a>)</li>
+<li>Volltextsuche</li>
+</ol>
+</li>
+<li>Navigation über Daten (Joins)</li>
+<li>Reporting</li>
+</ol>
+</li>
+<li>Grundlegende Klärung der Bezeichnung NoSQL</li>
+<li>Grenzen von DBs (<a href="http://de.wikipedia.org/wiki/CAP-Theorem" target="_blank">CAP-Theorem</a>)</li>
+<li>Unterschiede SQL/NoSQL
+<ol>
+<li>Grober Unterschied</li>
+<li>Zeilen/Spalten vs. Key-Value, Column-Stores, Dokumente, Graphen
+<ol>
+<li><a href="http://de.wikipedia.org/wiki/JSON">JSON</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Resource_Description_Framework">Resource Description Framework</a></li>
+<li><a href="http://blog.radiotux.de/2010/12/13/sendung-graphdb/">Sendung über GraphDB</a></li>
+</ol>
+</li>
+</ol>
+</li>
+<li>Patterns bei der Implementierung
+<ol>
+<li>Papers: Stonebreaker <a href="http://highscalability.com/blog/2009/4/16/paper-the-end-of-an-architectural-era-its-time-for-a-complet.html">Paper: “The End Of An Architectural Era</a>”, <a href="http://s3.amazonaws.com/AllThingsDistributed/sosp/amazon-dynamo-sosp2007.pdf" target="_blank">Amazon Dynamo</a> (KeyValue), <a href="http://static.googleusercontent.com/external_content/untrusted_dlcp/labs.google.com/en//papers/bigtable-osdi06.pdf " target="_blank">Google Bigtable</a> (ColumnStore), <a href="http://de.wikipedia.org/wiki/MapReduce" target="_blank">Map/Reduce</a>, <a href="http://www.google.com/research/pubs/pub36632.html" target="_blank">Dremel</a>, CAP, <a href="http://www.cs.cornell.edu/projects/ladis2009/papers/lakshman-ladis2009.pdf">Cassandra</a> …)</li>
+</ol>
+</li>
+<li>Datenbanksysteme
+  <ol>
+<li>Vor- und Nachteile (Datenschema, Zugriff)
+  <ol>
+  <li>Column Store: <a href="http://cassandra.apache.org/" target="_blank">Cassandra</a></li>
+  <li>Column Store: <a href="http://hbase.apache.org/" target="_blank">HBase</a> (BigTable)</li>
+  <li>Datastructure Store: <a href="http://redis.io/" target="_blank">Redis</a>
+  <ol>
+  <li><a href="http://www.pauladamsmith.com/articles/redis_under_the_hood.html">Redis: under the hood</a></li>
+  <li><a href="http://blog.mjrusso.com/2010/10/17/redis-from-the-ground-up.html">Redis, from the Ground Up</a></li>
+  </ol>
+  </li>
+  <li>DocumentStore: <a href="http://www.mongodb.org/" target="_blank">MongoDB</a>
+  <ol>
+  <li><a href="http://bsonspec.org/">BSON</a></li>
+  <li><a href="http://www.mongodb.org/display/DOCS/GridFS+Specification">GridFS</a></li>
+  </ol>
+  </li>
+  <li>DocumentStore/KV Store: <a href="http://couchdb.apache.org/" target="_blank">CouchDB </a>
+  <ol>
+  <li><a href="http://couchdb.apache.org/screenshots.html">Futon</a> + <a href="http://couchapp.org/page/index">CouchApps</a></li>
+  <li><a href="http://guide.couchdb.org/draft/notifications.html">_changes feed </a>+ Lucene/<a href="http://www.elasticsearch.com/">ElasticSearch</a></li>
+  </ol>
+  </li>
+  <li>Key Value Store: <a href="http://memcachedb.org/" target="_blank">MemcachedDB</a></li>
+  <li>Key Value Store: <a href="http://basho.com/Riak.html" target="_blank">Riak</a>
+  <ul>
+  <li><a href="http://www.basho.com/riaksearch.html">RiakSearch</a> API ist kompatibel zu: Apache <a href="http://lucene.apache.org/solr/" target="_blank">Solr</a>/<a href="http://lucene.apache.org/" target="_blank">Lucene</a></li>
+  </ul>
+  </li>
+  <li>Graph Database: <a href="http://neo4j.org">Neo4J</a> / <a href="http://www.sones.com/" target="_blank">GraphDB</a></li>
+  </ol>
+  </li>
+  <li>Einsatzgebiete
+  <ul>
+  <li>kkovacs.eu <a href="http://kkovacs.eu/cassandra-vs-mongodb-vs-couchdb-vs-redis" target="_blank">Vergleich der NoSQL Datenbanken</a></li>
+  <li>readwriteweb.com <a href="http://www.readwriteweb.com/cloud/2011/01/how-twitter-uses-nosql.php" target="_blank">NoSQL bei Twitter</a></li>
+  </ul>
+  </li>
+  <li><a href="http://codemonkeyism.com/nosql-polyglott-persistence/" target="_blank">Polyglot Persistence</a></li>
+  </ol>
+  </li>
+  <li>Ende</li>
+  </ul>
+  </div>
+
+]]></content>
+  </entry>
+  
+</feed>
