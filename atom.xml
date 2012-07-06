@@ -4,7 +4,7 @@
   <title><![CDATA[Binärgewitter]]></title>
   <link href="http://blog.binaergewitter.de/atom.xml" rel="self"/>
   <link href="http://blog.binaergewitter.de/"/>
-  <updated>2012-06-22T14:22:43+02:00</updated>
+  <updated>2012-07-06T12:14:43+02:00</updated>
   <id>http://blog.binaergewitter.de/</id>
   <author>
     <name><![CDATA[Binärgewitter Crew]]></name>
@@ -12,6 +12,161 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Binärgewitter Talk #20 - die Anti-Spaß-Cloud]]></title>
+    <link href="http://blog.binaergewitter.de/blog/2012/07/06/binaergewitter-talk-number-20-die-anti-spass-cloud/"/>
+    <updated>2012-07-06T12:30:00+02:00</updated>
+    <id>http://blog.binaergewitter.de/blog/2012/07/06/binaergewitter-talk-number-20-die-anti-spass-cloud</id>
+    <content type="html"><![CDATA[<p>Marc ist aus den USA zurück - mit einer Sekundenverspätung und wir sind nach unser Kurzpause auch alle wieder da und reden über das Gottesteilchen, Schaltsekunden und Clouds und natürlich Katzen.</p>
+
+<h2>Kategorie der Woche</h2>
+
+<h3>Errungenschaften der Woche</h3>
+
+<ul>
+<li><a href="http://www.telegraph.co.uk/science/science-news/9374758/Higgs-boson-scientists-99.999-sure-God-Particle-has-been-found.html">Higgs Boson &#8220;Gott Partikel&#8221; gefunden</a></li>
+<li>ACTA im EU Parlament abgelehnt.
+
+<ul>
+<li><a href="http://twitpic.com/8c9ib4">Der Pole ansich</a></li>
+<li><a href="http://o.twitpic.com/a42397">Die Anderen ansich</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://www.wwf.de/2012/juni/einsamer-george-gestorben/">Lonesome George ist tot</a> via TvN87</li>
+</ul>
+
+
+<h2>Untoter der Woche</h2>
+
+<ul>
+<li><a href="http://www.heise.de/developer/meldung/Backend-Code-von-SourceForge-soll-Apache-Projekt-werden-1620991.html">Backend code von Sourceforge soll Apache Projekt werden</a></li>
+<li><a href="https://github.com/blog/1178-collaborating-on-github-with-subversion">SVN lebt auch weiter</a>
+
+<ul>
+<li><a href="https://github.com/blog/644-subversion-write-support">2010. ALT</a></li>
+</ul>
+</li>
+<li><a href="http://science.slashdot.org/story/12/06/28/0016227/scientists-keep-rabbits-alive-with-oxygen-microparticle-injections">Hase lebt ohne Atmung durch Micropartikel Injektionen</a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Leap_second">Die Schaltsekunde</a>
+
+<ul>
+<li><a href="http://www.heise.de/newsticker/meldung/Verlaengertes-Wochenende-kann-Linux-einfrieren-1629683.html">Probleme damit</a></li>
+<li><a href="https://lkml.org/lkml/2009/1/2/373">Kernel bug</a></li>
+<li><a href="http://imgur.com/a/ykoup">Mehr Strom</a></li>
+<li><a href="http://www.tnooz.com/2012/07/03/news/amadeus-admits-altea-crash-was-a-result-of-leap-second-bug/">Marc rantet</a></li>
+<li><a href="http://www.radiotux.de/index.php?/archives/7960-RadioTux-Sendung-Juni-2012.html">Interview mit Udo Seidel von Amadeus  über Ceph</a>
+
+<ul>
+<li>Tipp: <a href="http://flightright.de">flightright.de</a></li>
+</ul>
+</li>
+<li><a href="http://googleblog.blogspot.de/2011/09/time-technology-and-leaping-seconds.html">Googles machts besser</a></li>
+</ul>
+</li>
+<li><a href="http://www.extremetech.com/computing/132142-ciscos-cloud-vision-mandatory-monetized-and-killed-at-their-discretion">Die Cisco Zwangs-Cloud</a> (Marc)
+
+<ul>
+<li><a href="http://www.dd-wrt.com/wiki/index.php/Linksys_E4200">Linksys E4200 auf DD-WRT</a></li>
+</ul>
+</li>
+<li><a href="http://www.yadifa.eu/">Neuer Nameserver von .eu</a> (Marc)</li>
+<li><a href="http://m.digitaltrends.com/mobile/study-apples-siri-is-wrong-over-one-third-of-the-time/">Siri Genauigkeit</a></li>
+<li><a href="http://blog.nodejs.org/2012/06/25/node-v0-8-0/">Node.js 0.8 ist erschienen</a>
+
+<ul>
+<li><a href="https://github.com/languages/">Beliebtheit der Programmiersprachen bei Gihub</a></li>
+</ul>
+</li>
+<li><a href="http://developmentseed.org/blog/2012/june/25/prose-a-content-editor-for-github/">Prose</a> (Marc)</li>
+<li><a href="http://www.heise.de/newsticker/meldung/Universal-Audiocodec-Opus-auf-dem-Weg-zum-Internet-Standard-1632291.html">Neuer Standard-Audiocodec</a></li>
+<li><a href="http://www.theregister.co.uk/2011/12/15/us_spy_drone_gps_spoofing/">How to grab your own UAV</a></li>
+<li><a href="http://try.github.com/">Try Github</a>
+
+<ul>
+<li><a href="http://octodex.github.com/heisencat/">Heisencat</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Themen</h2>
+
+<h3>Google IO</h3>
+
+<ul>
+<li><a href="http://www.golem.de/news/compute-engine-google-macht-amazon-ec2-konkurrenz-1206-92842.html">Google will EC2 Konkurenz machen</a></li>
+<li><a href="http://www.golem.de/news/asus-nexus-7-googles-erstes-nexus-tablet-ist-guenstig-und-340-gramm-leicht-1206-92802.html">Nexus 7 Tablet</a></li>
+<li><a href="http://www.google.com/nexus/#/q/specs">Nexus Q</a>
+
+<ul>
+<li>&#8220;Klasse-D-Verstärker sind effizienter als Klasse-AB- und -B-Verstärker. Sie werden daher bei Audioverstärkern großer Leistung sowie zunehmend auch bei kleinen batteriebetriebenen Geräten eingesetzt.&#8221;</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://ryanflorence.com/2012/client-v-server-templating/">Server vs Client side templating</a></li>
+<li><a href="http://www.igvita.com/2012/06/04/chrome-networking-dns-prefetch-and-tcp-preconnect/">Chrome Networking: DNS Prefetch &amp; TCP Preconnect</a> (pfleidi)</li>
+<li><a href="http://www.ewherry.com/2012/06/the-recruiter-honeypot/">The recruiter honeypot</a> (Marc)</li>
+<li><a href="http://www.theregister.co.uk/2012/06/21/nigerian_scams_msft_research/">Nigerian scams are hyper-efficient idiot finders</a>
+
+<ul>
+<li><a href="http://research.microsoft.com/pubs/167719/WhyFromNigeria.pdf">PDF</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li>XBMC hat IMMER 13%+ CPU, die Sau</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://icanhascheezburger.com/2012/06/29/funny-puns-so-much-pun-argument-animals/">So much PUN</a></li>
+<li><a href="http://www.fitbit.com/">Fitbit</a>
+
+<ul>
+<li><a href="https://github.com/qdot/libfitbit/">libfitbit</a></li>
+</ul>
+</li>
+<li><a href="http://snapjudgment.org/">Snap Judgement Podcast</a> (Marc)
+
+<ul>
+<li><a href="feed://www.npr.org/rss/podcast.php?id=510294">RSS</a></li>
+</ul>
+</li>
+<li><a href="http://refiddle.com/">RE-Fiddle</a> (pfleidi)</li>
+<li><a href="http://tunlr.net/">Tunlr</a> (marc)</li>
+<li><a href="http://code.kryo.se/iodine/">iodine</a></li>
+<li><a href="http://www.youtube.com/watch?v=Mn4_40hAAr0">Richard Phillips Feynman - The Last Journey Of A Genius</a> (pfleidi)</li>
+<li><a href="http://getpocket.com">Pocket</a></li>
+<li><a href="http://www.youtube.com/watch?v=VShmtsLhkQg">John Cleese on creativity</a> (pfleidi)</li>
+<li><a href="http://de.wikipedia.org/wiki/Krawattenknoten">Krawattenknoten</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Binärgewitter Talk #19 - Leute anpöbeln, damit sie dir was in den Hut werfen]]></title>
@@ -3260,185 +3415,6 @@ beginners.</a> (marc)</li>
 <li><a href="https://aur.archlinux.org/packages.php?ID=48935">powertop2 + wilde Kernel Parameter = mehr energie</a></li>
 <li><a href="http://offlineimap.org/">offlineimap + IDLE</a></li>
 <li><a href="http://www.youtube.com/watch?v=Dy9MtG8jbE4">Steve Jobs stellt android tablet vor</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Binärgewitter Talk #1 - Klettphone]]></title>
-    <link href="http://blog.binaergewitter.de/blog/2012/02/02/binaergewitter-talk-number-1-klettphone/"/>
-    <updated>2012-02-02T16:00:00+01:00</updated>
-    <id>http://blog.binaergewitter.de/blog/2012/02/02/binaergewitter-talk-number-1-klettphone</id>
-    <content type="html"><![CDATA[<h2>In eigener Sache</h2>
-
-<ul>
-<li>Octopod nun mit weniger Fehlern und mehr Awesomeness
-
-<ul>
-<li>Import von &#8220;alten&#8221; BG Spezial Folgen</li>
-<li>404 Seite mit <a href="http://httpcats.herokuapp.com/">HTTPCat</a></li>
-<li>Diverse Fixes: Feed, Flattr Support, &#8230;</li>
-</ul>
-</li>
-<li><a href="http://twitter.com/DerRaiden">Intro von DerRaiden</a></li>
-<li><a href="http://euer.krebsco.de">makefu hat eigenen Blog</a></li>
-</ul>
-
-
-<h2>Toter der Woche</h2>
-
-<ul>
-<li><a href="http://www.vienna.at/tiergarten-schoenbrunn-giraffen-baby-arusha-verstorben/3155529">Arusha verstorben</a></li>
-</ul>
-
-
-<h2>News</h2>
-
-<ul>
-<li><a href="http://www.techthefuture.com/3d-printer/the-pirate-bay-offers-physical-objects-for-download/">You wouldn&#8217;t Download a car at TPB</a></li>
-<li><a href="http://netzpolitik.org/2012/spas-im-bundestag-das-kurschnergate/">Kürschnergate: Spass mit &#8220;reply all&#8221;</a></li>
-<li><a href="http://ycombinator.com/rfs9.html">Y-Combinator ruft dazu auf Startups zu gründen um Holywood die Basis zu entziehen</a></li>
-<li><a href="https://github.com/joho/7XX-rfc">HTTP 7xx: Developer error Erweiterungen</a>
-
-<ul>
-<li><a href="http://xkcd.com/323/">Ballmer Peak</a></li>
-<li><a href="http://www.ietf.org/rfc/rfc2324.txt">Coffee Protocol</a></li>
-</ul>
-</li>
-<li><a href="http://twitter.github.com/bootstrap/">Twitter veröffentlicht Version 2.0 ihres Bootstrap Frameworks</a></li>
-<li><a href="http://www.heise.de/mobil/meldung/Jedes-dritte-Android-Tablet-ist-ein-Kindle-Fire-1425318.html">Jedes dritte Android Tablet ist ein Kindle Fire</a>
-
-<ul>
-<li><a href="http://www.faz.net/aktuell/wirtschaft/tablet-computer-vernichtende-kritik-an-amazons-kindle-fire-11559924.html">Kindle Fire ist raus und die Reviews eher bescheiden</a></li>
-<li><a href="http://www.marco.org/2011/12/02/kindle-touch-vs-nook-simple-touch-kobo-touch-kindle-4">siehe auch</a></li>
-</ul>
-</li>
-<li><a href="http://bit.ly/zDfGaY">Humble Bundle für Android</a></li>
-<li><a href="https://github.com/id-Software">ID Software bietet nun alle seine OSS Spiele auf Github an</a></li>
-<li><a href="http://www.heise.de/newsticker/meldung/Mozilla-praesentiert-Programmiersprache-Rust-1421145.html">Neue Programmiersprache rust</a>
-
-<ul>
-<li><a href="http://arcturo.github.com/library/coffeescript/">CoffeeScript Buch</a></li>
-</ul>
-</li>
-<li><a href="http://www.networkworld.com/columnists/2012/013112-macworld-apple-shops.html">The &#8216;Apple for Business&#8217; Strategy - Adapt or Die</a></li>
-<li><a href="http://synonym.dartlang.org/">Google bringt Seite, die JS und Dart übersichtlich vergleicht</a></li>
-<li><a href="http://www.darknet.org.uk/2012/01/super-powered-malware-sandwiches-found-in-the-wild-frankenmalware/">Super Malware on the way</a></li>
-<li><a href="http://www.heise.de/newsticker/meldung/sudo-Schwachstelle-macht-User-zu-Admins-1425053.html">Sudo mit Sicherheitslücke</a>
-
-<ul>
-<li>Format String attack</li>
-<li>Exploit von &#8220;phonelit&#8221; crew</li>
-<li>Mit &#8220;fortify source&#8221; nen pain zu exploiten</li>
-<li><a href="http://img694.imageshack.us/img694/7665/sandwichi.png">Sudo make me a sandwich</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>Themen</h2>
-
-<h3>Aufgabenverwaltung (Todo Management)</h3>
-
-<ul>
-<li>Aktueller Bezug: <a href="http://www.golem.de/1201/89110.html">Wunderkit geht in die Beta Phase</a></li>
-<li><a href="http://t3n.de/news/6wunderkinder-erhalten-42-millionen-dollar-finanzspritze-343513/">6wunderkinder bekommen VC</a></li>
-<li><a href="http://dbudwm.wordpress.com/2012/01/28/erster-blick-aufs-wunderkit/">Blog von Tobi zu Wunderkit</a></li>
-<li><a href="http://blogs.hbr.org/cs/2012/01/to-do_lists_dont_work.html">Todo Lists don&#8217;t work</a>
-
-<ul>
-<li>Entscheidungen fällen bei zu vielen Optionen funktioniert bei Menschen schlecht</li>
-<li>Bei Todos mit unterschiedlichem Aufwand wird immer das weniger aufwändige gewählt</li>
-</ul>
-</li>
-</ul>
-
-
-<h4>Verfügbare Software</h4>
-
-<ul>
-<li>Remember the milk</li>
-<li>Google tasks</li>
-<li><a href="http://www.wunderlist.com/">Wunderlist</a></li>
-<li><a href="http://tomorrow.do/">Do it tomorrow</a></li>
-<li><a href="http://taskwarrior.org/projects/show/taskwarrior">Taskwarrior</a></li>
-<li>Wunderkit</li>
-<li>Offenes Fenster im Texteditor</li>
-<li>Emacs org-mode</li>
-<li>Papier :)</li>
-<li>Post-Its</li>
-</ul>
-
-
-<h4>Oder gleich komplett Tools wie</h4>
-
-<ul>
-<li>Redmine</li>
-<li>trac</li>
-<li>github</li>
-<li>Jira</li>
-</ul>
-
-
-<h3>Lustige Dinge im Internet finden und verwalten</h3>
-
-<ul>
-<li>Tumblelogs</li>
-<li>Konkreter bezug: pfleidi tauscht <a href="http://soup.roothausen.de">Soup.io</a> gegen <a href="http://pfleidi.tumblr.com">Tumblr</a></li>
-<li><a href="http://bl0rg.net/~neingeist/soup-backup">Script zum Export von Bildern auf Soup</a></li>
-</ul>
-
-
-<h2>Lesefoo</h2>
-
-<ul>
-<li><a href="http://html5please.us/">HTML5, please</a> (pfleidi)</li>
-<li><a href="http://speakerdeck.com/u/holman/p/scaling-github">Scaling Github</a> (pfleidi)</li>
-<li><a href="http://nikic.github.com/2011/12/28/Supercolliding-a-PHP-array.html">Supercolliding a PHP array</a> (pfleidi)</li>
-<li><a href="http://www.nltk.org/book?=">Natural Language Processing with Python(O&#8217;Reilly)</a></li>
-</ul>
-
-
-<h2>Mimimi der Woche</h2>
-
-<ul>
-<li>Berechnung der Spieldauer von VBR codierten mp3s (pfleidi)
-
-<ul>
-<li><a href="http://code.google.com/p/mutagen/">Mutagen Python Code</a></li>
-</ul>
-</li>
-<li>Kommentare <a href="http://blog.roothausen.de/">pfleidis Blog</a></li>
-<li><a href="http://euer.krebsco.de/blog/2012/02/01/smime-and-mutt/">S/MIME + Mutt so easy&#8230;</a></li>
-</ul>
-
-
-<h2>Picks</h2>
-
-<ul>
-<li>Google/Amazon/twitter/facebook API Keys bei github &#8211;> magic strings
-
-<ul>
-<li>dabei wird man verdammt viel schlechten (oder auch guten) code sehen</li>
-</ul>
-</li>
-<li>Klettband auf der Rueckseite des Bildschirms(felix)
-
-<ul>
-<li><a href="http://www.youtube.com/watch?v=Z2ANnpHnUrc">Padphone</a></li>
-</ul>
-</li>
-<li>WPUT, rsync, curl (ingo)</li>
-<li><a href="http://www.thisamericanlife.org/">This american life</a> und die <a href="http://itunes.apple.com/de/app/this-american-life/id348530331?mt=8">passende App</a> (pfleidi)</li>
-<li><a href="http://colordiff.sourceforge.net/">Colordiff wenn man svn verwenden muss</a> (pfleidi)
-
-<ul>
-<li>keine Ausreden mehr! git svn co</li>
-</ul>
-</li>
-<li><a href="http://www.netmagazine.com/features/top-20-html5-games">Top 20 HTML5 Games</a> (pfleidi)</li>
-<li><a href="http://latinrapper.com/blogs/?p=1893">Alien Brain Cocktail</a></li>
 </ul>
 
 ]]></content>

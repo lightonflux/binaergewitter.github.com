@@ -22,8 +22,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Fri, 22 Jun 2012 14:22:43 +0200</lastBuildDate>
-    <atom:updated>2012-06-22T14:22:43+02:00</atom:updated>
+    <lastBuildDate>Fri, 06 Jul 2012 12:14:43 +0200</lastBuildDate>
+    <atom:updated>2012-07-06T12:14:43+02:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -53,6 +53,348 @@
     <media:rating>nonadult</media:rating>
     <media:description type="plain">Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</media:description>
 
+    
+    
+    <item>
+      <title>Binärgewitter Talk #20 - die Anti-Spaß-Cloud</title>
+      <link>http://blog.binaergewitter.de/blog/2012/07/06/binaergewitter-talk-number-20-die-anti-spass-cloud/</link>
+      <comments>http://blog.binaergewitter.de/blog/2012/07/06/binaergewitter-talk-number-20-die-anti-spass-cloud/#comments</comments>
+      <pubDate>Fri, 06 Jul 2012 12:30:00 +0200</pubDate>
+      <atom:updated>2012-07-06T12:30:00+02:00</atom:updated>
+
+      
+      
+      <atom:link rel="payment"
+        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2012%2F07%2F06%2Fbinaergewitter-talk-number-20-die-anti-spass-cloud%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2320%20-%20die%20Anti-Spa%C3%9F-Cloud&amp;category=audio&amp;tags=podcast,tech,software"
+        type="text/html"
+      />
+
+      
+
+      
+      <category><![CDATA[talk]]></category>
+      
+
+      <media:credit role="author">Binärgewitter Crew</media:credit>
+      <media:rating>nonadult</media:rating>
+      
+      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2012/07/06/binaergewitter-talk-number-20-die-anti-spass-cloud</guid>
+      
+      <description>
+        <![CDATA[<p>Marc ist aus den USA zurück - mit einer Sekundenverspätung und wir sind nach unser Kurzpause auch alle wieder da und reden über das Gottesteilchen, Schaltsekunden und Clouds und natürlich Katzen.</p>
+
+<h2>Kategorie der Woche</h2>
+
+<h3>Errungenschaften der Woche</h3>
+
+<ul>
+<li><a href="http://www.telegraph.co.uk/science/science-news/9374758/Higgs-boson-scientists-99.999-sure-God-Particle-has-been-found.html">Higgs Boson "Gott Partikel" gefunden</a></li>
+<li>ACTA im EU Parlament abgelehnt.
+
+<ul>
+<li><a href="http://twitpic.com/8c9ib4">Der Pole ansich</a></li>
+<li><a href="http://o.twitpic.com/a42397">Die Anderen ansich</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://www.wwf.de/2012/juni/einsamer-george-gestorben/">Lonesome George ist tot</a> via TvN87</li>
+</ul>
+
+
+<h2>Untoter der Woche</h2>
+
+<ul>
+<li><a href="http://www.heise.de/developer/meldung/Backend-Code-von-SourceForge-soll-Apache-Projekt-werden-1620991.html">Backend code von Sourceforge soll Apache Projekt werden</a></li>
+<li><a href="https://github.com/blog/1178-collaborating-on-github-with-subversion">SVN lebt auch weiter</a>
+
+<ul>
+<li><a href="https://github.com/blog/644-subversion-write-support">2010. ALT</a></li>
+</ul>
+</li>
+<li><a href="http://science.slashdot.org/story/12/06/28/0016227/scientists-keep-rabbits-alive-with-oxygen-microparticle-injections">Hase lebt ohne Atmung durch Micropartikel Injektionen</a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://en.wikipedia.org/wiki/Leap_second">Die Schaltsekunde</a>
+
+<ul>
+<li><a href="http://www.heise.de/newsticker/meldung/Verlaengertes-Wochenende-kann-Linux-einfrieren-1629683.html">Probleme damit</a></li>
+<li><a href="https://lkml.org/lkml/2009/1/2/373">Kernel bug</a></li>
+<li><a href="http://imgur.com/a/ykoup">Mehr Strom</a></li>
+<li><a href="http://www.tnooz.com/2012/07/03/news/amadeus-admits-altea-crash-was-a-result-of-leap-second-bug/">Marc rantet</a></li>
+<li><a href="http://www.radiotux.de/index.php?/archives/7960-RadioTux-Sendung-Juni-2012.html">Interview mit Udo Seidel von Amadeus  über Ceph</a>
+
+<ul>
+<li>Tipp: <a href="http://flightright.de">flightright.de</a></li>
+</ul>
+</li>
+<li><a href="http://googleblog.blogspot.de/2011/09/time-technology-and-leaping-seconds.html">Googles machts besser</a></li>
+</ul>
+</li>
+<li><a href="http://www.extremetech.com/computing/132142-ciscos-cloud-vision-mandatory-monetized-and-killed-at-their-discretion">Die Cisco Zwangs-Cloud</a> (Marc)
+
+<ul>
+<li><a href="http://www.dd-wrt.com/wiki/index.php/Linksys_E4200">Linksys E4200 auf DD-WRT</a></li>
+</ul>
+</li>
+<li><a href="http://www.yadifa.eu/">Neuer Nameserver von .eu</a> (Marc)</li>
+<li><a href="http://m.digitaltrends.com/mobile/study-apples-siri-is-wrong-over-one-third-of-the-time/">Siri Genauigkeit</a></li>
+<li><a href="http://blog.nodejs.org/2012/06/25/node-v0-8-0/">Node.js 0.8 ist erschienen</a>
+
+<ul>
+<li><a href="https://github.com/languages/">Beliebtheit der Programmiersprachen bei Gihub</a></li>
+</ul>
+</li>
+<li><a href="http://developmentseed.org/blog/2012/june/25/prose-a-content-editor-for-github/">Prose</a> (Marc)</li>
+<li><a href="http://www.heise.de/newsticker/meldung/Universal-Audiocodec-Opus-auf-dem-Weg-zum-Internet-Standard-1632291.html">Neuer Standard-Audiocodec</a></li>
+<li><a href="http://www.theregister.co.uk/2011/12/15/us_spy_drone_gps_spoofing/">How to grab your own UAV</a></li>
+<li><a href="http://try.github.com/">Try Github</a>
+
+<ul>
+<li><a href="http://octodex.github.com/heisencat/">Heisencat</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Themen</h2>
+
+<h3>Google IO</h3>
+
+<ul>
+<li><a href="http://www.golem.de/news/compute-engine-google-macht-amazon-ec2-konkurrenz-1206-92842.html">Google will EC2 Konkurenz machen</a></li>
+<li><a href="http://www.golem.de/news/asus-nexus-7-googles-erstes-nexus-tablet-ist-guenstig-und-340-gramm-leicht-1206-92802.html">Nexus 7 Tablet</a></li>
+<li><a href="http://www.google.com/nexus/#/q/specs">Nexus Q</a>
+
+<ul>
+<li>"Klasse-D-Verstärker sind effizienter als Klasse-AB- und -B-Verstärker. Sie werden daher bei Audioverstärkern großer Leistung sowie zunehmend auch bei kleinen batteriebetriebenen Geräten eingesetzt."</li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://ryanflorence.com/2012/client-v-server-templating/">Server vs Client side templating</a></li>
+<li><a href="http://www.igvita.com/2012/06/04/chrome-networking-dns-prefetch-and-tcp-preconnect/">Chrome Networking: DNS Prefetch &amp; TCP Preconnect</a> (pfleidi)</li>
+<li><a href="http://www.ewherry.com/2012/06/the-recruiter-honeypot/">The recruiter honeypot</a> (Marc)</li>
+<li><a href="http://www.theregister.co.uk/2012/06/21/nigerian_scams_msft_research/">Nigerian scams are hyper-efficient idiot finders</a>
+
+<ul>
+<li><a href="http://research.microsoft.com/pubs/167719/WhyFromNigeria.pdf">PDF</a></li>
+</ul>
+</li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li>XBMC hat IMMER 13%+ CPU, die Sau</li>
+</ul>
+
+
+<h2>Picks</h2>
+
+<ul>
+<li><a href="http://icanhascheezburger.com/2012/06/29/funny-puns-so-much-pun-argument-animals/">So much PUN</a></li>
+<li><a href="http://www.fitbit.com/">Fitbit</a>
+
+<ul>
+<li><a href="https://github.com/qdot/libfitbit/">libfitbit</a></li>
+</ul>
+</li>
+<li><a href="http://snapjudgment.org/">Snap Judgement Podcast</a> (Marc)
+
+<ul>
+<li><a href="feed://www.npr.org/rss/podcast.php?id=510294">RSS</a></li>
+</ul>
+</li>
+<li><a href="http://refiddle.com/">RE-Fiddle</a> (pfleidi)</li>
+<li><a href="http://tunlr.net/">Tunlr</a> (marc)</li>
+<li><a href="http://code.kryo.se/iodine/">iodine</a></li>
+<li><a href="http://www.youtube.com/watch?v=Mn4_40hAAr0">Richard Phillips Feynman - The Last Journey Of A Genius</a> (pfleidi)</li>
+<li><a href="http://getpocket.com">Pocket</a></li>
+<li><a href="http://www.youtube.com/watch?v=VShmtsLhkQg">John Cleese on creativity</a> (pfleidi)</li>
+<li><a href="http://de.wikipedia.org/wiki/Krawattenknoten">Krawattenknoten</a></li>
+</ul>
+
+]]>
+      </description>
+      
+      
+      
+      <enclosure url="http://download.binaergewitter.de/2012-07-05.Binaergewitter.Talk.20.mp3"
+        length="85324850"
+        type="audio/mpeg" />
+      <media:content url="http://download.binaergewitter.de/2012-07-05.Binaergewitter.Talk.20.mp3"
+        fileSize="85324850"
+        type="audio/mpeg" />
+      <itunes:keywords></itunes:keywords>
+      <itunes:subtitle>Binärgewitter Talk #20 - die Anti-Spaß-Cloud</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Marc ist aus den USA zurück - mit einer Sekundenverspätung und wir sind nach unser Kurzpause auch alle wieder da und reden über das Gottesteilchen, Schaltsekunden und Clouds und natürlich Katzen.
+
+Kategorie der Woche
+
+Errungenschaften der Woche
+
+
+Higgs Boson "Gott Partikel" gefunden
+ACTA im EU Parlament abgelehnt.
+
+
+Der Pole ansich
+Die Anderen ansich
+
+
+
+
+
+Toter der Woche
+
+
+Lonesome George ist tot via TvN87
+
+
+
+Untoter der Woche
+
+
+Backend code von Sourceforge soll Apache Projekt werden
+SVN lebt auch weiter
+
+
+2010. ALT
+
+
+Hase lebt ohne Atmung durch Micropartikel Injektionen
+
+
+
+News
+
+
+Die Schaltsekunde
+
+
+Probleme damit
+Kernel bug
+Mehr Strom
+Marc rantet
+Interview mit Udo Seidel von Amadeus  über Ceph
+
+
+Tipp: flightright.de
+
+
+Googles machts besser
+
+
+Die Cisco Zwangs-Cloud (Marc)
+
+
+Linksys E4200 auf DD-WRT
+
+
+Neuer Nameserver von .eu (Marc)
+Siri Genauigkeit
+Node.js 0.8 ist erschienen
+
+
+Beliebtheit der Programmiersprachen bei Gihub
+
+
+Prose (Marc)
+Neuer Standard-Audiocodec
+How to grab your own UAV
+Try Github
+
+
+Heisencat
+
+
+
+
+
+Themen
+
+Google IO
+
+
+Google will EC2 Konkurenz machen
+Nexus 7 Tablet
+Nexus Q
+
+
+"Klasse-D-Verstärker sind effizienter als Klasse-AB- und -B-Verstärker. Sie werden daher bei Audioverstärkern großer Leistung sowie zunehmend auch bei kleinen batteriebetriebenen Geräten eingesetzt."
+
+
+
+
+
+Lesefoo
+
+
+Server vs Client side templating
+Chrome Networking: DNS Prefetch &amp; TCP Preconnect (pfleidi)
+The recruiter honeypot (Marc)
+Nigerian scams are hyper-efficient idiot finders
+
+
+PDF
+
+
+
+
+
+Mimimi der Woche
+
+
+XBMC hat IMMER 13%+ CPU, die Sau
+
+
+
+Picks
+
+
+So much PUN
+Fitbit
+
+
+libfitbit
+
+
+Snap Judgement Podcast (Marc)
+
+
+RSS
+
+
+RE-Fiddle (pfleidi)
+Tunlr (marc)
+iodine
+Richard Phillips Feynman - The Last Journey Of A Genius (pfleidi)
+Pocket
+John Cleese on creativity (pfleidi)
+Krawattenknoten
+
+
+]]>
+      </itunes:summary>
+      <itunes:author>Binärgewitter Crew</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
     
     
     <item>
