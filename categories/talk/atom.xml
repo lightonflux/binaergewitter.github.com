@@ -4,7 +4,7 @@
   <title><![CDATA[Category: talk | Binärgewitter]]></title>
   <link href="http://blog.binaergewitter.de/categories/talk/atom.xml" rel="self"/>
   <link href="http://blog.binaergewitter.de/"/>
-  <updated>2012-07-06T12:14:43+02:00</updated>
+  <updated>2012-07-13T13:17:38+02:00</updated>
   <id>http://blog.binaergewitter.de/</id>
   <author>
     <name><![CDATA[Binärgewitter Crew]]></name>
@@ -12,6 +12,140 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Binärgewitter Talk #21 - (╯°□°）╯︵ ┻━┻]]></title>
+    <link href="http://blog.binaergewitter.de/blog/2012/07/13/binaergewitter-talk-number-21-zum-tisch-umwerfen/"/>
+    <updated>2012-07-13T13:30:00+02:00</updated>
+    <id>http://blog.binaergewitter.de/blog/2012/07/13/binaergewitter-talk-number-21-zum-tisch-umwerfen</id>
+    <content type="html"><![CDATA[<p>Das neue Studiosetup ist so gut wie fertig, dafür haben wir pfleidi diesmal verloren. Macht nix wir quatschen über Indoornavigation, Security Fuckups und vieles mehr.</p>
+
+<h2>Rubrik der Woche</h2>
+
+<h3>Security Fuckups der Woche</h3>
+
+<ul>
+<li><a href="http://www.androidincanada.ca/news/vulnerability-for-asus-app-app-locker-found/">App Locker App stirbt an Smileys</a></li>
+<li><a href="HN%20Artikel">Yahoo Username/Passwoerter frei zum Download</a></li>
+<li><a href="http://packetstormsecurity.org/files/114639/instagram-auth.txt">Instagram Friendship Authorization</a></li>
+<li><a href="https://twitter.com/NeedADebitCard">Need a debit card</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/EC-Karten-PIN-Klau-am-Kartenterminal-moeglich-1636550.html">Heise Bericht über manipulierbare Kartenterminals</a></li>
+<li><a href="http://blog.formspring.me/2012/07/urgent-change-your-formspring-password/">Formspring leaked, aber nicht so schlimm</a></li>
+</ul>
+
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://www.pro-linux.de/news/1/18586/eugeni-dodonov-toedlich-verunglueckt.html">Eigeni Dodonov</a></li>
+</ul>
+
+
+<h2>Media Player Foo der Woche</h2>
+
+<ul>
+<li><a href="http://xbmc.org/">XBMC</a></li>
+<li><a href="http://openelec.tv/">openELEC</a></li>
+<li>[LG 3D Bluray Player - Nacholge Modell]http://www.amazon.de/gp/product/B007KJ57O8/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B007KJ57O8&amp;linkCode=as2&amp;tag=trektrip )</li>
+<li><a href="http://www.amazon.de/gp/product/B0043EV3MS/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B0043EV3MS&amp;linkCode=as2&amp;tag=trektrip">Boxee Box</a></li>
+</ul>
+
+
+<h2>Untoter der Woche</h2>
+
+<ul>
+<li><a href="http://www.heise.de/newsticker/meldung/Kanadisch-europaeisches-Handelsabkommen-ACTA-reloaded-1636041.html">ACTA wiederbelebt</a></li>
+<li><a href="http://logbuch-netzpolitik.de/lnp031-handwerkliche-fehler/">Logbuch Netzpolitik</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/MeeGo-ist-tot-es-lebe-Jolla-1634265.html">Jolla statt Meego?</a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://tech.slashdot.org/story/12/07/09/196234/indoor-navigation-on-your-smartphone-using-the-earths-magnetic-field">Indoor Navigation mit dem Erdmagnetfeld</a></li>
+<li><a href="http://www.newsbiscuit.com/2012/06/08/children-warned-name-of-first-pet-should-contain-8-characters-and-a-digit/">Kinder sollen Haustiernamen mit mindestens 8 Zeichen und einer Zahl waehlen</a></li>
+<li><a href="http://m.maps.nokia.com/#action=search&amp;params=%7B%7D&amp;bmk=1">Nokia mobile maps webapp</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Navteq">Nokia hat Navteq gekauft</a></li>
+<li><a href="https://gridspot.com/compute/">Gridspot</a></li>
+<li><a href="internet://InstallESD.dmg">Mac OS Mountain Lion GM</a></li>
+<li><a href="http://apple.slashdot.org/story/12/07/07/2140231/apple-exits-green-hardware-certification-program">Apple verliert "Green Hardware" Certification</a></li>
+<li><a href="http://chronicle.com/article/From-Bench-to-Bunker-/132743/">Von Neuroscience zum Militaerprojekt</a>
+
+<ul>
+<li><a href="http://blog.binaergewitter.de/blog/2012/05/17/binaergewitter-spezial-number-4-distributed-computing/">Binärgewitter Spezial 4</a></li>
+</ul>
+</li>
+<li><a href="http://www.pro-linux.de/news/1/18596/crowdfunding-kickstarter-kommt-nach-europa.html">Kickstarter kommt nach Europa</a></li>
+<li><a href="http://startnext.de">Startnext</a>
+
+<ul>
+<li><a href="http://www.kickstarter.com/projects/ouya/ouya-a-new-kind-of-video-game-console">Ouya - Kickstarter Projekt Spielkonsole mit Android</a></li>
+<li><a href="http://penny-arcade.com/report/editorial-article/the-reality-of-the-ouya-console-doesnt-match-the-hype-why-you-should-be-ske">Penny arcade is gonna hate</a></li>
+</ul>
+</li>
+<li><a href="http://openpandora.org/">openPandora</a></li>
+<li><a href="https://github.com/triAGENS/ArangoDB/wiki">ArangoDB</a></li>
+<li><a href="http://theoatmeal.com/blog/charity_money">Der Typ von The Oatmeal haelt versprechen und macht Foto von 211k Dollars</a></li>
+<li><a href="http://tunlr.net/forums/topic/noob-guide-to-setting-up-tunlr-and-dnsmasq-permanently-on-mac-os-x/">Tunlr + DNSmasq howto</a></li>
+<li><a href="http://www.pro-linux.de/news/1/18582/mozilla-faehrt-thunderbird-engagement-zurueck.html">Mozilla Thunderbird</a></li>
+<li>Kmail</li>
+<li>Claws-Mail</li>
+<li><a href="http://de.wikipedia.org/wiki/Mulberry_%28Software%29">Mulberry</a></li>
+</ul>
+
+
+<h2>Studiosetup</h2>
+
+<ul>
+<li><a href="http://www.thomann.de/de/rme_digi_9632_hdsp_pcikarte.htm">RME HDSP 9632</a></li>
+<li><a href="http://www.amazon.de/gp/product/B005OKCN0G/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B005OKCN0G&amp;linkCode=as2&amp;tag=trektrip">PicoPSU</a></li>
+<li><a href="https://de.wikipedia.org/wiki/Alesis_Digital_Audio_Tape">ADAT</a>
+
+<ul>
+<li><a href="i0.kym-cdn.com/entries/icons/original/000/000/727/DenshaDeD_ch01p16-17.png">Multi-Track Drifting</a></li>
+</ul>
+</li>
+<li><a href="http://ardour.org/">Ardour</a></li>
+<li><a href="http://jackaudio.org/">Jack</a></li>
+<li><a href="http://ladish.org/">Ladish</a></li>
+<li><a href="http://opensoundcontrol.org/">OpenSoundControl</a></li>
+<li><a href="http://puredata.info/">PureData</a></li>
+<li><a href="https://github.com/Binaergewitter/serious-bg">Blerg</a></li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://www.aosabook.org/en/nginx.html">NginX Architecture overview</a>  (Marc)</li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li><a href="wtf://lol">C++</a> (Marc)
+
+<h2>Picks</h2></li>
+<li><a href="https://lh5.googleusercontent.com/-zkz8G_CUnvE/T_7tBMbrhEI/AAAAAAAAIn4/g0_c6hlBoCA/s735/Pancake.jpeg">Pancake Kissen</a></li>
+<li><a href="http://knowyourmeme.com/memes/flipping-tables-%E2%95%AF%E2%96%A1%EF%BC%89%E2%95%AF%EF%B8%B5-%E2%94%BB%E2%94%81%E2%94%BB">Table Flipping</a>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=REYwafK2uKE">Table Flipping Game</a></li>
+<li><a href="http://www.youtube.com/watch?v=Jx9A5fNQ8SQ">2010 World Flipping a table over in anger Tournament</a></li>
+</ul>
+</li>
+<li><a href="https://www.moovel.com">moovel</a>  (Marc)</li>
+<li><a href="https://bbs.archlinux.org/viewtopic.php?id=77388">stapler</a>(ingo)</li>
+<li><a href="http://bootswatch.com/">Bootswatch</a></li>
+<li><a href="http://www.fsarchiver.org">fsarchiver</a></li>
+<li><a href="https://tahoe-lafs.org/trac/tahoe-lafs">tahoe-lafs</a></li>
+<li><a href="http://docs.python.org/library/mailbox.html">Mailbox for Python</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Binärgewitter Talk #20 - die Anti-Spaß-Cloud]]></title>
@@ -620,148 +754,6 @@
 <li><a href="http://redis.io">Redis</a> (pfleidi)</li>
 <li><a href="http://www.sinatrarb.com">Sinatra</a> (pfleidi)</li>
 <li><a href="http://code.google.com/p/gource/">Gource</a> (ingo)</li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Binärgewitter Talk #16 - OpenSource Messias]]></title>
-    <link href="http://blog.binaergewitter.de/blog/2012/06/01/binaergewitter-talk-number-16-opensource-messias/"/>
-    <updated>2012-06-01T13:30:00+02:00</updated>
-    <id>http://blog.binaergewitter.de/blog/2012/06/01/binaergewitter-talk-number-16-opensource-messias</id>
-    <content type="html"><![CDATA[<p>Wieder die 3 von der Tankstelle, die euch mit aktuellen Toten, News, Lesefoo und einer Diskussion übers Programmieren lernen beglücken.</p>
-
-<h2>Rubrik der Woche</h2>
-
-<h3>Who cares?! der Woche</h3>
-
-<ul>
-<li><a href="http://www.golem.de/news/miguel-de-icaza-moonlight-ist-eingestellt-1205-92137.html">Moonlight eingestellt</a></li>
-</ul>
-
-
-<h2>Toter der Woche</h2>
-
-<ul>
-<li><a href="http://www.blick.ch/news/ausland/mann-springt-aus-jux-gegen-u-bahn-tot-id1901395.html">Mann springt aus Jux gegen die U-Bahn - tot</a></li>
-<li><a href="http://www.suedkurier.de/region/bodenseekreis-oberschwaben/ueberlingen/Blaesshuhnkueken-vermutlich-alle-tot;art372495,5522455">Blaesshuehnerkueken vermutlich alle tot</a></li>
-<li><a href="http://www.pcgameshardware.de/aid,886248/Diablo-3-Spieler-angeblich-nach-exzessivem-Zocken-verstorben-widerspruechliche-Berichterstattung/Rollenspiel-Adventure/News/">Diablo-3-Spieler nach exzessiven Zocken gestorben ... or is he?</a></li>
-</ul>
-
-
-<h2>LinuxTag</h2>
-
-<ul>
-<li><a href="http://blog.radiotux.de/index.php?/archives/7959-RadioTux-Sendung-Mai-2012.html">RadioTux Mai Sendung mit LinuxTag Interviews</a></li>
-<li>Wir filtern Blumen T-Shirt</li>
-<li><a href="https://twitter.com/ingoebel/status/206019781470593024/photo/1">Bild von Georg</a></li>
-<li><a href="http://www.heise.de/newsticker/meldung/Microsoft-und-Open-Source-sind-1588154.html">MS und OSS</a></li>
-<li>Binaergewitter auch als <a href="http://bitlove.org/binaergewitter/talk">Torrent / Bitlove</a>
-
-<ul>
-<li> <a href="http://docs.amazonwebservices.com/AmazonS3/latest/API/RESTObjectGETtorrent.html">S3 als Torrent</a></li>
-<li> <a href="http://events.mi.hdm-stuttgart.de/2012-05-25-5-webday">Aufzeichungen vom WebDay der HdM</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h2>News</h2>
-
-<ul>
-<li><a href="http://www.humblebundle.com/">Schon wieder ein HumbleBundle</a></li>
-<li><a href="http://www.cl.cam.ac.uk/~sps32/sec_news.html#Assurance">Backdoors in chinesischen militaer chips?</a>
-
-<ul>
-<li><a href="http://erratasec.blogspot.de/2012/05/bogus-story-no-chinese-backdoor-in.html">Bogus: keine Backdoors in chinesischen militaerchips</a></li>
-</ul>
-</li>
-<li><a href="http://sachagreif.com/why-cheap-customers-cost-more/">Why cheap customers cost more</a>
-
-<ul>
-<li><a href="http://de.wikipedia.org/wiki/Dunning-Kruger-Effekt">Dunning Kruger Effect</a></li>
-</ul>
-</li>
-<li><a href="http://search.slashdot.org/story/12/05/26/0310246/google-now-searches-javascript">Google evaluiert und durchsucht javascript Webseiten</a></li>
-<li><a href="http://news.ycombinator.net/item?id=4013142">Mark Zuckerberg versilbert einen teil seiner Aktien nach Boersenstart</a></li>
-<li><a href="http://www.golem.de/news/raumfahrt-dragon-kommt-zurueck-zur-erde-1205-92200.html">Dragon kehrt wieder zur Erde zurück</a>
-
-<ul>
-<li><a href="http://vimeo.com/spacexlaunch/videos">SpaceX Videos</a></li>
-</ul>
-</li>
-<li><a href="http://www.pentestit.com/hulk-the-web-server-dos-tool/">HULK DoS Tool - evade the cache, hit the Application</a></li>
-<li><a href="http://security.ece.cmu.edu/aeg/">Automated Exploit Generation</a></li>
-<li><a href="http://arstechnica.com/gadgets/2012/05/team-behind-webos-enyo-framework-reportedly-leaving-hp-and-joining-google/">Enyo Entwickler wechseln zu Google</a></li>
-<li><a href="https://www.google.com/intl/en/chrome/devices/chromebox.html">chromebox mit ner menge energie fuer nen HTPC</a></li>
-<li><a href="http://www.solid-run.com/products/cubox">Cubox</a></li>
-<li><a href="http://www.real-user-monitoring.com/too-much-information-monitoring-becomes-a-big-data-problem/">monitoring becomes a big data problem</a></li>
-<li>rrdcollecd</li>
-<li><a href="https://github.com/etsy/statsd">statsd</a></li>
-<li>Was kommt nach Web2.0? <a href="http://www.slideshare.net/maerys/relicamp12-ueberallinternet">Das Ueberallinternet</a></li>
-</ul>
-
-
-<h2>Themen</h2>
-
-<h3>Diskussion: Sollte jeder programmieren lernen?</h3>
-
-<ul>
-<li><a href="http://www.codinghorror.com/blog/2012/05/please-dont-learn-to-code.html">Post von Jeff Attwood</a>
-
-<ul>
-<li><a href="http://news.ycombinator.com/item?id=3975744">HN Kommentare</a></li>
-</ul>
-</li>
-<li><a href="http://learncodethehardway.org/blog/MAY_15_2012.html">Post von Zed Shaw</a></li>
-<li><a href="http://sachagreif.com/please-learn-to-code/">Please learn to code</a></li>
-<li><a href="http://dave.fayr.am/posts/2012-05-15-please-understand-learning-to-code.html">Please understand learning to code</a></li>
-<li><a href="http://www.randsinrepose.com/archives/2012/05/16/please_learn_to_write.html">Please learn to write</a></li>
-<li><a href="http://influencehacks.com/why-i-desperately-needed-to-learn-to-code">Why I desperately needed to learn to code</a></li>
-<li><a href="http://www.brightsideofnews.com/news/2012/5/25/oracle-vs-google-post-mortem-judge-knows-programming.aspx">Google vs Oracle Post-Mortem</a></li>
-<li><a href="http://edceekays.blogspot.de/2012/05/please-dont-learn-to-code-versus-please.html">Liste weiterer Blogposts</a></li>
-<li><a href="https://fionalerntprogrammieren.wordpress.com/">Fiona lernt programmieren</a></li>
-</ul>
-
-
-<h2>Lesefoo</h2>
-
-<ul>
-<li><a href="https://www.net-security.org/dl/insecure/INSECURE-Mag-34.pdf">InSecure 34</a> (Felix)</li>
-<li><a href="http://matt.might.net/articles/my-sons-killer/">Hunting down my son's killer</a> (pfleidi)</li>
-<li><a href="http://www.codinghorror.com/blog/2012/05/this-is-all-your-app-is-a-collection-of-tiny-details.html">This Is All Your App Is: a Collection of Tiny Details</a> (pfleidi)</li>
-<li><a href="http://saucelabs.com/blog/index.php/2012/05/goodbye-couchdb/">Good bye CouchDB</a> (pfleidi)</li>
-</ul>
-
-
-<h2>Mimimi der Woche</h2>
-
-<ul>
-<li><a href="http://arstechnica.com/information-technology/2012/05/hard-drive-supplies-back-to-pre-flood-levels-but-prices-arent/">Die Flut ist vorbei und wir werden trotzdem bei Festplatten hart abgezockt</a>
-
-<ul>
-<li><a href="http://www.heise.de/resale/meldung/Bitkom-Festplatten-bleiben-teuer-1572985.html">Bleiben teuer</a></li>
-</ul>
-</li>
-<li>Amazon Payments will Kreditkarte (pfleidi)</li>
-</ul>
-
-
-<h2>Picks</h2>
-
-<ul>
-<li><a href="http://www.commitlogsfromlastnight.com/">Commit Logs from last night</a></li>
-<li><a href="https://github.com/schacon/showoff">showoff gem</a> (pfleidi)</li>
-<li><a href="http://heroku.com">Heroku</a> (pfleidi)</li>
-<li><a href="http://www.twotorials.com/">R Twotorials - 2minuten Tutorials mit R</a> (felix)</li>
-<li><a href="http://yapis.geoclub.de/">YAPIS</a> (ingo)</li>
-<li><a href="http://code.google.com/p/wifite/">wiFite</a>...nur nicht auf den code schauen</li>
-<li><a href="http://www.amazon.de/gp/product/B004UF5KLK/ref=as_li_ss_tl?ie=UTF8&amp;tag=retinacast-21">Umzugskartons</a> (pfleidi)</li>
-<li><a href="http://ikat.ha.cked.net/Linux/">iKAT - Interactive Kiosk Attack Tool</a></li>
-<li><a href="http://www.amazon.de/gp/product/B004NTE48I/ref=as_li_ss_tl?ie=UTF8&amp;tag=retinacast-21">COCK FIGHTING SET</a></li>
-<li><a href="http://www.smore.com/clippy-js">Clippy fuer deine Website</a></li>
-<li><a href="https://www.youtube.com/watch?v=ULdDuwf48kM">Optimize Performance and Scalability with Parallelism and Concurrency</a> (pfleidi)</li>
 </ul>
 
 ]]></content>

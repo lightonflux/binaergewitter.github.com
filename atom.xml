@@ -4,7 +4,7 @@
   <title><![CDATA[Binärgewitter]]></title>
   <link href="http://blog.binaergewitter.de/atom.xml" rel="self"/>
   <link href="http://blog.binaergewitter.de/"/>
-  <updated>2012-07-06T12:14:43+02:00</updated>
+  <updated>2012-07-13T13:17:38+02:00</updated>
   <id>http://blog.binaergewitter.de/</id>
   <author>
     <name><![CDATA[Binärgewitter Crew]]></name>
@@ -12,6 +12,140 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Binärgewitter Talk #21 - (╯°□°）╯︵ ┻━┻]]></title>
+    <link href="http://blog.binaergewitter.de/blog/2012/07/13/binaergewitter-talk-number-21-zum-tisch-umwerfen/"/>
+    <updated>2012-07-13T13:30:00+02:00</updated>
+    <id>http://blog.binaergewitter.de/blog/2012/07/13/binaergewitter-talk-number-21-zum-tisch-umwerfen</id>
+    <content type="html"><![CDATA[<p>Das neue Studiosetup ist so gut wie fertig, dafür haben wir pfleidi diesmal verloren. Macht nix wir quatschen über Indoornavigation, Security Fuckups und vieles mehr.</p>
+
+<h2>Rubrik der Woche</h2>
+
+<h3>Security Fuckups der Woche</h3>
+
+<ul>
+<li><a href="http://www.androidincanada.ca/news/vulnerability-for-asus-app-app-locker-found/">App Locker App stirbt an Smileys</a></li>
+<li><a href="HN%20Artikel">Yahoo Username/Passwoerter frei zum Download</a></li>
+<li><a href="http://packetstormsecurity.org/files/114639/instagram-auth.txt">Instagram Friendship Authorization</a></li>
+<li><a href="https://twitter.com/NeedADebitCard">Need a debit card</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/EC-Karten-PIN-Klau-am-Kartenterminal-moeglich-1636550.html">Heise Bericht über manipulierbare Kartenterminals</a></li>
+<li><a href="http://blog.formspring.me/2012/07/urgent-change-your-formspring-password/">Formspring leaked, aber nicht so schlimm</a></li>
+</ul>
+
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://www.pro-linux.de/news/1/18586/eugeni-dodonov-toedlich-verunglueckt.html">Eigeni Dodonov</a></li>
+</ul>
+
+
+<h2>Media Player Foo der Woche</h2>
+
+<ul>
+<li><a href="http://xbmc.org/">XBMC</a></li>
+<li><a href="http://openelec.tv/">openELEC</a></li>
+<li>[LG 3D Bluray Player - Nacholge Modell]http://www.amazon.de/gp/product/B007KJ57O8/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B007KJ57O8&amp;linkCode=as2&amp;tag=trektrip )</li>
+<li><a href="http://www.amazon.de/gp/product/B0043EV3MS/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B0043EV3MS&amp;linkCode=as2&amp;tag=trektrip">Boxee Box</a></li>
+</ul>
+
+
+<h2>Untoter der Woche</h2>
+
+<ul>
+<li><a href="http://www.heise.de/newsticker/meldung/Kanadisch-europaeisches-Handelsabkommen-ACTA-reloaded-1636041.html">ACTA wiederbelebt</a></li>
+<li><a href="http://logbuch-netzpolitik.de/lnp031-handwerkliche-fehler/">Logbuch Netzpolitik</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/MeeGo-ist-tot-es-lebe-Jolla-1634265.html">Jolla statt Meego?</a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://tech.slashdot.org/story/12/07/09/196234/indoor-navigation-on-your-smartphone-using-the-earths-magnetic-field">Indoor Navigation mit dem Erdmagnetfeld</a></li>
+<li><a href="http://www.newsbiscuit.com/2012/06/08/children-warned-name-of-first-pet-should-contain-8-characters-and-a-digit/">Kinder sollen Haustiernamen mit mindestens 8 Zeichen und einer Zahl waehlen</a></li>
+<li><a href="http://m.maps.nokia.com/#action=search&amp;params=%7B%7D&amp;bmk=1">Nokia mobile maps webapp</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Navteq">Nokia hat Navteq gekauft</a></li>
+<li><a href="https://gridspot.com/compute/">Gridspot</a></li>
+<li><a href="internet://InstallESD.dmg">Mac OS Mountain Lion GM</a></li>
+<li><a href="http://apple.slashdot.org/story/12/07/07/2140231/apple-exits-green-hardware-certification-program">Apple verliert &#8220;Green Hardware&#8221; Certification</a></li>
+<li><a href="http://chronicle.com/article/From-Bench-to-Bunker-/132743/">Von Neuroscience zum Militaerprojekt</a>
+
+<ul>
+<li><a href="http://blog.binaergewitter.de/blog/2012/05/17/binaergewitter-spezial-number-4-distributed-computing/">Binärgewitter Spezial 4</a></li>
+</ul>
+</li>
+<li><a href="http://www.pro-linux.de/news/1/18596/crowdfunding-kickstarter-kommt-nach-europa.html">Kickstarter kommt nach Europa</a></li>
+<li><a href="http://startnext.de">Startnext</a>
+
+<ul>
+<li><a href="http://www.kickstarter.com/projects/ouya/ouya-a-new-kind-of-video-game-console">Ouya - Kickstarter Projekt Spielkonsole mit Android</a></li>
+<li><a href="http://penny-arcade.com/report/editorial-article/the-reality-of-the-ouya-console-doesnt-match-the-hype-why-you-should-be-ske">Penny arcade is gonna hate</a></li>
+</ul>
+</li>
+<li><a href="http://openpandora.org/">openPandora</a></li>
+<li><a href="https://github.com/triAGENS/ArangoDB/wiki">ArangoDB</a></li>
+<li><a href="http://theoatmeal.com/blog/charity_money">Der Typ von The Oatmeal haelt versprechen und macht Foto von 211k Dollars</a></li>
+<li><a href="http://tunlr.net/forums/topic/noob-guide-to-setting-up-tunlr-and-dnsmasq-permanently-on-mac-os-x/">Tunlr + DNSmasq howto</a></li>
+<li><a href="http://www.pro-linux.de/news/1/18582/mozilla-faehrt-thunderbird-engagement-zurueck.html">Mozilla Thunderbird</a></li>
+<li>Kmail</li>
+<li>Claws-Mail</li>
+<li><a href="http://de.wikipedia.org/wiki/Mulberry_%28Software%29">Mulberry</a></li>
+</ul>
+
+
+<h2>Studiosetup</h2>
+
+<ul>
+<li><a href="http://www.thomann.de/de/rme_digi_9632_hdsp_pcikarte.htm">RME HDSP 9632</a></li>
+<li><a href="http://www.amazon.de/gp/product/B005OKCN0G/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B005OKCN0G&amp;linkCode=as2&amp;tag=trektrip">PicoPSU</a></li>
+<li><a href="https://de.wikipedia.org/wiki/Alesis_Digital_Audio_Tape">ADAT</a>
+
+<ul>
+<li><a href="i0.kym-cdn.com/entries/icons/original/000/000/727/DenshaDeD_ch01p16-17.png">Multi-Track Drifting</a></li>
+</ul>
+</li>
+<li><a href="http://ardour.org/">Ardour</a></li>
+<li><a href="http://jackaudio.org/">Jack</a></li>
+<li><a href="http://ladish.org/">Ladish</a></li>
+<li><a href="http://opensoundcontrol.org/">OpenSoundControl</a></li>
+<li><a href="http://puredata.info/">PureData</a></li>
+<li><a href="https://github.com/Binaergewitter/serious-bg">Blerg</a></li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://www.aosabook.org/en/nginx.html">NginX Architecture overview</a>  (Marc)</li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li><a href="wtf://lol">C++</a> (Marc)
+
+<h2>Picks</h2></li>
+<li><a href="https://lh5.googleusercontent.com/-zkz8G_CUnvE/T_7tBMbrhEI/AAAAAAAAIn4/g0_c6hlBoCA/s735/Pancake.jpeg">Pancake Kissen</a></li>
+<li><a href="http://knowyourmeme.com/memes/flipping-tables-%E2%95%AF%E2%96%A1%EF%BC%89%E2%95%AF%EF%B8%B5-%E2%94%BB%E2%94%81%E2%94%BB">Table Flipping</a>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=REYwafK2uKE">Table Flipping Game</a></li>
+<li><a href="http://www.youtube.com/watch?v=Jx9A5fNQ8SQ">2010 World Flipping a table over in anger Tournament</a></li>
+</ul>
+</li>
+<li><a href="https://www.moovel.com">moovel</a>  (Marc)</li>
+<li><a href="https://bbs.archlinux.org/viewtopic.php?id=77388">stapler</a>(ingo)</li>
+<li><a href="http://bootswatch.com/">Bootswatch</a></li>
+<li><a href="http://www.fsarchiver.org">fsarchiver</a></li>
+<li><a href="https://tahoe-lafs.org/trac/tahoe-lafs">tahoe-lafs</a></li>
+<li><a href="http://docs.python.org/library/mailbox.html">Mailbox for Python</a></li>
+</ul>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Binärgewitter Talk #20 - die Anti-Spaß-Cloud]]></title>
@@ -3185,236 +3319,6 @@ beginners.</a> (marc)</li>
 <li><a href="http://hackershelf.com/">Hackershelf</a></li>
 <li><a href="https://www.amazon.de/dp/B000KGKQLW/ref=as_li_ss_til?tag=retinacast-21">Theraband Sitzball</a></li>
 <li><a href="http://www.cloudflare.com">cloudflare</a></li>
-</ul>
-
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Binärgewitter Talk #2 - Syncender Podwal]]></title>
-    <link href="http://blog.binaergewitter.de/blog/2012/02/09/binaergewitter-talk-number-2-syncender-podwal/"/>
-    <updated>2012-02-09T11:07:00+01:00</updated>
-    <id>http://blog.binaergewitter.de/blog/2012/02/09/binaergewitter-talk-number-2-syncender-podwal</id>
-    <content type="html"><![CDATA[<h2>Octopod</h2>
-
-<ul>
-<li>&#8220;<a href="http://www.youtube.com/watch?v=2tJjNVVwRCY">Fuck it, we&#8217;ll do it live!</a>&#8221;</li>
-<li>Nativer HTML5 Player mit mp3 UND ogg vorbis</li>
-<li>Downloadlinks in mehreren Formaten</li>
-<li>Verbesserungen am Feed</li>
-<li><a href="http://travis-ci.org/#!/Binaergewitter/binaergewitter.github.com/builds">TravisCI</a> Test Integration</li>
-</ul>
-
-
-<h2>Toter der Woche</h2>
-
-<ul>
-<li><a href="http://www.kleinezeitung.at/nachrichten/chronik/2942716/gestrandeter-pottwal-belgiens-kueste-gestorben.story">Gestrandeter Podwal an Belgiens Kueste</a></li>
-</ul>
-
-
-<h2>News</h2>
-
-<ul>
-<li><a href="http://corte.si/posts/security/openfeint-udid-deanonymization/index.html">De-anonymize Apple UDIDs with OpenFeint</a></li>
-<li><a href="http://blog.flattr.net/2012/02/winter-update-github-tweets-extensions/">Flattr bringt neue Erweiterungen</a>
-
-<ul>
-<li><a href="https://chrome.google.com/webstore/detail/opjnhfkbdoopgfbefgbdkpjnbghffmln">Chrome Plugin</a></li>
-<li><a href="http://news.techeye.net/security/german-endorses-chrome-as-most-secure-browser">Chrome der sicherste Browser laut deutscher Regierung</a></li>
-<li>Github und Twitter Support</li>
-<li><a href="http://developers.flattr.net/feed/">API für Feeds, so dass Clients direkt über die API flattrn können</a></li>
-</ul>
-</li>
-<li><a href="http://blog.mozilla.com/blog/2012/01/31/firefox-adds-powerful-new-developer-tools/">Firefox 10 bringt neue Entwicklertools</a></li>
-<li><a href="http://www.golem.de/news/mozilla-push-nachrichten-fuers-web-1202-89555.html">Mozilla Pushnachrichten fürs Web</a></li>
-<li><a href="http://tools.ietf.org/html/draft-ietf-appsawg-xdash-02">&#8220;X-&#8221; Protocol Prefix deprecated - Good luck with that</a></li>
-<li><a href="http://scoopertino.com/apple-blasts-into-supermarkets-with-revolutionary-apple-water/">Apple Water</a></li>
-<li><a href="http://www.golem.de/news/solve-for-x-google-sucht-ideen-die-wie-science-fiction-klingen-1202-89582.html">Google sucht nach radikalen Lösungen für globale Probleme</a></li>
-<li><a href="http://googleblog.blogspot.com/2012/02/introducing-chrome-for-android.html">Google bringt Chrome für Android</a>
-
-<ul>
-<li><a href="http://www.golem.de/news/browser-google-veroeffentlicht-chrome-fuer-android-1202-89619.html">Golem Artikel</a></li>
-<li><a href="http://www.golem.de/news/adobe-chrome-fuer-android-bekommt-kein-flash-1202-89623.html">Chrome für Android bekommt kein Flash</a></li>
-</ul>
-</li>
-<li><a href="http://www.golem.de/news/touchpad-hps-sourcecode-vom-unveroeffentlichten-android-kernel-1202-89642.html">HP veröffentlicht angepassten Android Kernel fürs Touchpad</a></li>
-<li><a href="http://groups.google.com/group/nodejs/browse_thread/thread/85f6a3829bc64cb6?pli=1">Ryan Dahl tritt als Projektleiter von Node.js zurück</a></li>
-<li><a href="http://www.itworld.com/it-managementstrategy/247344/facebooks-man-middle-attack-our-data">Facebook is a Man-in-the-Middle Attack</a>
-
-<ul>
-<li><a href="https://secure.mysociety.org/admin/lists/pipermail/developers-public/2011-October/007647.html">Richard Stallman Rider</a></li>
-</ul>
-</li>
-<li><a href="http://www.heise.de/newsticker/meldung/Trustwave-verkaufte-Man-in-the-Middle-Zertifikat-1429722.html">Trustwave</a></li>
-<li><a href="http://news.hitb.org/content/php-security-patch-creates-critical-vulnerability">Tausche Hash Collision gegen Buffer Overflow</a></li>
-</ul>
-
-
-<h2>Themen</h2>
-
-<h4>Aktuelles</h4>
-
-<ul>
-<li><a href="http://forums.dropbox.com/topic.php?id=52900">Dropbox Foto Import</a>
-
-<ul>
-<li><a href="http://www.golem.de/news/cloudspeicher-dropbox-verschenkt-4-5-gbyte-zusatzspeicher-1202-89566.html">Golem Artikel</a></li>
-<li>Auch: Wie bekomme ich bis zu 5GB Speicher indem ich Mediengewitter importiere</li>
-</ul>
-</li>
-</ul>
-
-
-<h4>Was können wir syncen?</h4>
-
-<ul>
-<li>Dateien
-
-<ul>
-<li><a href="https://www.dropbox.com/referrals/NTM2OTk0Mjk?src=global9">Dropbox</a></li>
-<li><a href="http://www.wuala.com/de/">Wuala</a></li>
-<li><a href="https://www.insynchq.com">Insync</a></li>
-<li><a href="http://www.aerofs.com/">AeroFS</a></li>
-<li><a href="https://github.com/bazaarlabs/gitdocs">Gitdocs</a></li>
-<li><a href="http://rsync.samba.org/">Rsync</a>/<a href="https://www.cis.upenn.edu/~bcpierce/unison/">Unison</a>/<a href="http://ifolder.com/ifolder">iFolder</a></li>
-<li>Git + chrontab
-
-<ul>
-<li>git repository mit &#8220;sync&#8221; user + public key auth
-32 * * * * (cd /home/user/autosync/ ; git add -A . ; git commit -m autocommit ; git pull ;git push)</li>
-</ul>
-</li>
-<li><a href="http://sparkleshare.org/">sparkleshare</a></li>
-<li><a href="http://gitlabhq.com/">gitlabhq</a></li>
-<li>Siehe auch <a href="http://blog.radiotux.de/2011/04/21/radiotux-talk-127-mersenne-primzahl/">RadioTux Talk 127</a></li>
-</ul>
-</li>
-<li>Notizen
-
-<ul>
-<li><a href="http://evernote.com/">Evernote</a></li>
-</ul>
-</li>
-<li>Todo-Listen
-
-<ul>
-<li><a href="http://blog.binaergewitter.de/blog/2012/02/02/binaergewitter-talk-number-1-klettphone/">Siehe letzte Sendung</a></li>
-</ul>
-</li>
-<li>Musik
-
-<ul>
-<li><a href="https://www.apple.com/itunes/itunes-match/">iTunes Match</a></li>
-<li><a href="http://music.google.com">Google Music</a></li>
-<li><a href="http://www.subsonic.org/pages/index.jsp">Subsonic</a></li>
-</ul>
-</li>
-<li>Kontakte / Kalender
-
-<ul>
-<li>Google</li>
-<li><a href="https://www.apple.com/icloud/">iCloud</a></li>
-<li><a href="http://fruux.com/">Fruux</a></li>
-<li>Groupware</li>
-<li><a href="http://blog.roothausen.de/2010/10/25/distributed-contact-management-using-http/">Distributed contact management using HTTP</a></li>
-<li>MS Exchange
-
-<ul>
-<li><a href="http://www.zarafa.com/">Zarafa</a></li>
-<li><a href="https://www.open-xchange.com">open xchange</a></li>
-<li><a href="http://www.horde.org/">horde</a> / <a href="http://www.kolab.org/">kolab</a></li>
-<li><a href="http://www.tine20.org/">tine</a></li>
-<li><a href="http://www.roundcube.net/">roundcube</a></li>
-</ul>
-</li>
-</ul>
-</li>
-<li>Nachrichten/Chats/Email/&#8230;</li>
-<li>Passwörter
-
-<ul>
-<li><a href="https://www.keepassx.org/">KeepassX</a> mit <a href="http://www.dropbox.com/">Dropbox</a></li>
-<li><a href="https://agilebits.com/products/1password">1Password</a></li>
-<li>Browser Sync</li>
-</ul>
-</li>
-<li>Browserdaten
-
-<ul>
-<li><a href="https://www.mozilla.org/en-US/mobile/sync/">Firefox sync</a></li>
-<li><a href="http://www.opera.com/link/">Opera sync</a></li>
-<li><a href="http://www.google.com/mobile/sync/">Google sync</a></li>
-</ul>
-</li>
-<li>Sachen die wir in naher Zukunft sehen/lesen wollen
-
-<ul>
-<li><a href="https://getspool.com/">spool</a></li>
-<li><a href="http://radbox.me/">radbox</a></li>
-<li><a href="http://www.boxee.tv/">Boxee</a>&#8217;s &#8216;watch later&#8217;</li>
-<li><a href="http://www.instapaper.com/">Instapaper</a></li>
-<li><a href="https://nzb.su/">nzb</a> &#8220;in den Warenkorb&#8221;</li>
-<li><a href="http://airvideoapp.com/">airvideo</a></li>
-</ul>
-</li>
-</ul>
-
-
-<h4>Wo fehlen gute Lösungen?</h4>
-
-<ul>
-<li>Sync von IM-History (pfleidi)</li>
-<li>Twitter (PMs / Mentions / gelesene Tweets)</li>
-<li>Sync von Application State (Ich will einen Rechner verlassen, den nächsten aufklappen und weiter arbeiten)</li>
-</ul>
-
-
-<h2>Lesefoo</h2>
-
-<ul>
-<li><a href="http://open-advice.org/">Open Advice</a> (Ingo)</li>
-<li><a href="http://jonikorpi.com/leaving-old-IE-behind/">Leaving old IE behind</a> (pfleidi)</li>
-<li><a href="http://parislemon.com/post/15604811641/why-i-hate-android">Why I hate Android</a> (pfleidi)</li>
-<li><a href="http://umumble.com/blogs/company_intel/385/">From Sand to Processor</a></li>
-<li><a href="http://www.net-security.org/insecuremag.php">(In)Secure Magazine 33</a></li>
-<li><a href="http://www.igvita.com/2012/02/06/sstable-and-log-structured-storage-leveldb/">SSTable and log structured storage with LevelDB</a></li>
-<li><a href="http://patshaughnessy.net/2012/1/25/my-first-impression-of-rubinius-internals">My first impression of Rubinius Internals</a></li>
-<li><a href="http://blog.bjrn.se/2008/10/lets-build-mp3-decoder.html">Let&#8217;s build an MP3 decoder!</a></li>
-</ul>
-
-
-<h2>Mimimi der Woche</h2>
-
-<ul>
-<li>pacman4 Update (pfleidi)</li>
-<li>Adblock Plus für Chrome lässt immer mehr Werbung durch</li>
-<li><a href="http://euer.krebsco.de/blog/2012/02/06/awstats-and-lighttpd/">awstats und lighttpd</a> (Felix, pfleidi)</li>
-</ul>
-
-
-<h2>Picks</h2>
-
-<ul>
-<li><a href="http://www.cyberciti.biz/faq/linux-unix-bsd-xargs-construct-argument-lists-utility/">xargs</a> (pfleidi)
-
-<ul>
-<li>find /Volumes/Untitled/DCIM -type f | xargs basename | xargs -I name rm -v ~/magnets/images/name</li>
-</ul>
-</li>
-<li><a href="https://www.amazon.de/dp/B000NCY0GU/ref=as_li_ss_til?tag=retinacast-21">Griffin Elevator Laptop Stand</a></li>
-<li><a href="http://tapbots.com/software/tweetbot/">Tweetbot</a> (pfleidi)</li>
-<li><a href="https://github.com/albertz/shairport">Shairport</a> (Marc)</li>
-<li><a href="http://amzn.to/zXXLaH">Bose Companion 20</a> (Marc)</li>
-<li><a href="http://www.patrick-wied.at/projects/heatmap-keyboard/">Keyboard Heatmap</a>
-
-<ul>
-<li><a href="http://www.mahdiyusuf.com/post/9947002105/most-pressed-keys-and-programming-syntaxes-1">Programming Languages Heatmaps</a></li>
-</ul>
-</li>
-<li><a href="https://aur.archlinux.org/packages.php?ID=48935">powertop2 + wilde Kernel Parameter = mehr energie</a></li>
-<li><a href="http://offlineimap.org/">offlineimap + IDLE</a></li>
-<li><a href="http://www.youtube.com/watch?v=Dy9MtG8jbE4">Steve Jobs stellt android tablet vor</a></li>
 </ul>
 
 ]]></content>

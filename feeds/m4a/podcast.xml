@@ -22,8 +22,8 @@
     <description>Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</description>
     <language>de</language>
 
-    <lastBuildDate>Fri, 06 Jul 2012 12:14:43 +0200</lastBuildDate>
-    <atom:updated>2012-07-06T12:14:43+02:00</atom:updated>
+    <lastBuildDate>Fri, 13 Jul 2012 13:17:38 +0200</lastBuildDate>
+    <atom:updated>2012-07-13T13:17:38+02:00</atom:updated>
     <atom:generator uri="http://octopress.org/">Octopress</atom:generator>
 
     <itunes:summary></itunes:summary>
@@ -53,6 +53,306 @@
     <media:rating>nonadult</media:rating>
     <media:description type="plain">Ein Podcast, der sich mit dem Web, Technologie und Open Source Software auseinander setzt</media:description>
 
+    
+    
+    <item>
+      <title>Binärgewitter Talk #21 - (╯°□°）╯︵ ┻━┻</title>
+      <link>http://blog.binaergewitter.de/blog/2012/07/13/binaergewitter-talk-number-21-zum-tisch-umwerfen/</link>
+      <comments>http://blog.binaergewitter.de/blog/2012/07/13/binaergewitter-talk-number-21-zum-tisch-umwerfen/#comments</comments>
+      <pubDate>Fri, 13 Jul 2012 13:30:00 +0200</pubDate>
+      <atom:updated>2012-07-13T13:30:00+02:00</atom:updated>
+
+      
+      
+      <atom:link rel="payment"
+        href="https://flattr.com/submit/auto?url=http%3A%2F%2Fblog.binaergewitter.de%2Fblog%2F2012%2F07%2F13%2Fbinaergewitter-talk-number-21-zum-tisch-umwerfen%2F&amp;user_id=binaergewitter&amp;title=Bin%C3%A4rgewitter%20Talk%20%2321%20-%20(%E2%95%AF%C2%B0%E2%96%A1%C2%B0%EF%BC%89%E2%95%AF%EF%B8%B5%20%E2%94%BB%E2%94%81%E2%94%BB&amp;category=audio&amp;tags=podcast,tech,software"
+        type="text/html"
+      />
+
+      
+
+      
+      <category><![CDATA[talk]]></category>
+      
+
+      <media:credit role="author">Binärgewitter Crew</media:credit>
+      <media:rating>nonadult</media:rating>
+      
+      <guid isPermaLink="false">http://blog.binaergewitter.de/blog/2012/07/13/binaergewitter-talk-number-21-zum-tisch-umwerfen</guid>
+      
+      <description>
+        <![CDATA[<p>Das neue Studiosetup ist so gut wie fertig, dafür haben wir pfleidi diesmal verloren. Macht nix wir quatschen über Indoornavigation, Security Fuckups und vieles mehr.</p>
+
+<h2>Rubrik der Woche</h2>
+
+<h3>Security Fuckups der Woche</h3>
+
+<ul>
+<li><a href="http://www.androidincanada.ca/news/vulnerability-for-asus-app-app-locker-found/">App Locker App stirbt an Smileys</a></li>
+<li><a href="HN%20Artikel">Yahoo Username/Passwoerter frei zum Download</a></li>
+<li><a href="http://packetstormsecurity.org/files/114639/instagram-auth.txt">Instagram Friendship Authorization</a></li>
+<li><a href="https://twitter.com/NeedADebitCard">Need a debit card</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/EC-Karten-PIN-Klau-am-Kartenterminal-moeglich-1636550.html">Heise Bericht über manipulierbare Kartenterminals</a></li>
+<li><a href="http://blog.formspring.me/2012/07/urgent-change-your-formspring-password/">Formspring leaked, aber nicht so schlimm</a></li>
+</ul>
+
+
+<h2>Toter der Woche</h2>
+
+<ul>
+<li><a href="http://www.pro-linux.de/news/1/18586/eugeni-dodonov-toedlich-verunglueckt.html">Eigeni Dodonov</a></li>
+</ul>
+
+
+<h2>Media Player Foo der Woche</h2>
+
+<ul>
+<li><a href="http://xbmc.org/">XBMC</a></li>
+<li><a href="http://openelec.tv/">openELEC</a></li>
+<li>[LG 3D Bluray Player - Nacholge Modell]http://www.amazon.de/gp/product/B007KJ57O8/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B007KJ57O8&amp;linkCode=as2&amp;tag=trektrip )</li>
+<li><a href="http://www.amazon.de/gp/product/B0043EV3MS/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B0043EV3MS&amp;linkCode=as2&amp;tag=trektrip">Boxee Box</a></li>
+</ul>
+
+
+<h2>Untoter der Woche</h2>
+
+<ul>
+<li><a href="http://www.heise.de/newsticker/meldung/Kanadisch-europaeisches-Handelsabkommen-ACTA-reloaded-1636041.html">ACTA wiederbelebt</a></li>
+<li><a href="http://logbuch-netzpolitik.de/lnp031-handwerkliche-fehler/">Logbuch Netzpolitik</a></li>
+<li><a href="http://www.heise.de/newsticker/meldung/MeeGo-ist-tot-es-lebe-Jolla-1634265.html">Jolla statt Meego?</a></li>
+</ul>
+
+
+<h2>News</h2>
+
+<ul>
+<li><a href="http://tech.slashdot.org/story/12/07/09/196234/indoor-navigation-on-your-smartphone-using-the-earths-magnetic-field">Indoor Navigation mit dem Erdmagnetfeld</a></li>
+<li><a href="http://www.newsbiscuit.com/2012/06/08/children-warned-name-of-first-pet-should-contain-8-characters-and-a-digit/">Kinder sollen Haustiernamen mit mindestens 8 Zeichen und einer Zahl waehlen</a></li>
+<li><a href="http://m.maps.nokia.com/#action=search&amp;params=%7B%7D&amp;bmk=1">Nokia mobile maps webapp</a></li>
+<li><a href="http://de.wikipedia.org/wiki/Navteq">Nokia hat Navteq gekauft</a></li>
+<li><a href="https://gridspot.com/compute/">Gridspot</a></li>
+<li><a href="internet://InstallESD.dmg">Mac OS Mountain Lion GM</a></li>
+<li><a href="http://apple.slashdot.org/story/12/07/07/2140231/apple-exits-green-hardware-certification-program">Apple verliert "Green Hardware" Certification</a></li>
+<li><a href="http://chronicle.com/article/From-Bench-to-Bunker-/132743/">Von Neuroscience zum Militaerprojekt</a>
+
+<ul>
+<li><a href="http://blog.binaergewitter.de/blog/2012/05/17/binaergewitter-spezial-number-4-distributed-computing/">Binärgewitter Spezial 4</a></li>
+</ul>
+</li>
+<li><a href="http://www.pro-linux.de/news/1/18596/crowdfunding-kickstarter-kommt-nach-europa.html">Kickstarter kommt nach Europa</a></li>
+<li><a href="http://startnext.de">Startnext</a>
+
+<ul>
+<li><a href="http://www.kickstarter.com/projects/ouya/ouya-a-new-kind-of-video-game-console">Ouya - Kickstarter Projekt Spielkonsole mit Android</a></li>
+<li><a href="http://penny-arcade.com/report/editorial-article/the-reality-of-the-ouya-console-doesnt-match-the-hype-why-you-should-be-ske">Penny arcade is gonna hate</a></li>
+</ul>
+</li>
+<li><a href="http://openpandora.org/">openPandora</a></li>
+<li><a href="https://github.com/triAGENS/ArangoDB/wiki">ArangoDB</a></li>
+<li><a href="http://theoatmeal.com/blog/charity_money">Der Typ von The Oatmeal haelt versprechen und macht Foto von 211k Dollars</a></li>
+<li><a href="http://tunlr.net/forums/topic/noob-guide-to-setting-up-tunlr-and-dnsmasq-permanently-on-mac-os-x/">Tunlr + DNSmasq howto</a></li>
+<li><a href="http://www.pro-linux.de/news/1/18582/mozilla-faehrt-thunderbird-engagement-zurueck.html">Mozilla Thunderbird</a></li>
+<li>Kmail</li>
+<li>Claws-Mail</li>
+<li><a href="http://de.wikipedia.org/wiki/Mulberry_%28Software%29">Mulberry</a></li>
+</ul>
+
+
+<h2>Studiosetup</h2>
+
+<ul>
+<li><a href="http://www.thomann.de/de/rme_digi_9632_hdsp_pcikarte.htm">RME HDSP 9632</a></li>
+<li><a href="http://www.amazon.de/gp/product/B005OKCN0G/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B005OKCN0G&amp;linkCode=as2&amp;tag=trektrip">PicoPSU</a></li>
+<li><a href="https://de.wikipedia.org/wiki/Alesis_Digital_Audio_Tape">ADAT</a>
+
+<ul>
+<li><a href="i0.kym-cdn.com/entries/icons/original/000/000/727/DenshaDeD_ch01p16-17.png">Multi-Track Drifting</a></li>
+</ul>
+</li>
+<li><a href="http://ardour.org/">Ardour</a></li>
+<li><a href="http://jackaudio.org/">Jack</a></li>
+<li><a href="http://ladish.org/">Ladish</a></li>
+<li><a href="http://opensoundcontrol.org/">OpenSoundControl</a></li>
+<li><a href="http://puredata.info/">PureData</a></li>
+<li><a href="https://github.com/Binaergewitter/serious-bg">Blerg</a></li>
+</ul>
+
+
+<h2>Lesefoo</h2>
+
+<ul>
+<li><a href="http://www.aosabook.org/en/nginx.html">NginX Architecture overview</a>  (Marc)</li>
+</ul>
+
+
+<h2>Mimimi der Woche</h2>
+
+<ul>
+<li><a href="wtf://lol">C++</a> (Marc)
+
+<h2>Picks</h2></li>
+<li><a href="https://lh5.googleusercontent.com/-zkz8G_CUnvE/T_7tBMbrhEI/AAAAAAAAIn4/g0_c6hlBoCA/s735/Pancake.jpeg">Pancake Kissen</a></li>
+<li><a href="http://knowyourmeme.com/memes/flipping-tables-%E2%95%AF%E2%96%A1%EF%BC%89%E2%95%AF%EF%B8%B5-%E2%94%BB%E2%94%81%E2%94%BB">Table Flipping</a>
+
+<ul>
+<li><a href="http://www.youtube.com/watch?v=REYwafK2uKE">Table Flipping Game</a></li>
+<li><a href="http://www.youtube.com/watch?v=Jx9A5fNQ8SQ">2010 World Flipping a table over in anger Tournament</a></li>
+</ul>
+</li>
+<li><a href="https://www.moovel.com">moovel</a>  (Marc)</li>
+<li><a href="https://bbs.archlinux.org/viewtopic.php?id=77388">stapler</a>(ingo)</li>
+<li><a href="http://bootswatch.com/">Bootswatch</a></li>
+<li><a href="http://www.fsarchiver.org">fsarchiver</a></li>
+<li><a href="https://tahoe-lafs.org/trac/tahoe-lafs">tahoe-lafs</a></li>
+<li><a href="http://docs.python.org/library/mailbox.html">Mailbox for Python</a></li>
+</ul>
+
+]]>
+      </description>
+      
+      
+      
+      <enclosure url="http://download.binaergewitter.de/2012-07-12.Binaergewitter.Talk.21.m4a"
+        length="62825166"
+        type="audio/mpeg" />
+      <media:content url="http://download.binaergewitter.de/2012-07-12.Binaergewitter.Talk.21.m4a"
+        fileSize="62825166"
+        type="audio/mpeg" />
+      <itunes:keywords></itunes:keywords>
+      <itunes:subtitle>Binärgewitter Talk #21 - (╯°□°）╯︵ ┻━┻</itunes:subtitle>
+      <itunes:summary>
+        <![CDATA[Das neue Studiosetup ist so gut wie fertig, dafür haben wir pfleidi diesmal verloren. Macht nix wir quatschen über Indoornavigation, Security Fuckups und vieles mehr.
+
+Rubrik der Woche
+
+Security Fuckups der Woche
+
+
+App Locker App stirbt an Smileys
+Yahoo Username/Passwoerter frei zum Download
+Instagram Friendship Authorization
+Need a debit card
+Heise Bericht über manipulierbare Kartenterminals
+Formspring leaked, aber nicht so schlimm
+
+
+
+Toter der Woche
+
+
+Eigeni Dodonov
+
+
+
+Media Player Foo der Woche
+
+
+XBMC
+openELEC
+[LG 3D Bluray Player - Nacholge Modell]http://www.amazon.de/gp/product/B007KJ57O8/ref=as_li_ss_tl?ie=UTF8&amp;camp=1638&amp;creative=19454&amp;creativeASIN=B007KJ57O8&amp;linkCode=as2&amp;tag=trektrip )
+Boxee Box
+
+
+
+Untoter der Woche
+
+
+ACTA wiederbelebt
+Logbuch Netzpolitik
+Jolla statt Meego?
+
+
+
+News
+
+
+Indoor Navigation mit dem Erdmagnetfeld
+Kinder sollen Haustiernamen mit mindestens 8 Zeichen und einer Zahl waehlen
+Nokia mobile maps webapp
+Nokia hat Navteq gekauft
+Gridspot
+Mac OS Mountain Lion GM
+Apple verliert "Green Hardware" Certification
+Von Neuroscience zum Militaerprojekt
+
+
+Binärgewitter Spezial 4
+
+
+Kickstarter kommt nach Europa
+Startnext
+
+
+Ouya - Kickstarter Projekt Spielkonsole mit Android
+Penny arcade is gonna hate
+
+
+openPandora
+ArangoDB
+Der Typ von The Oatmeal haelt versprechen und macht Foto von 211k Dollars
+Tunlr + DNSmasq howto
+Mozilla Thunderbird
+Kmail
+Claws-Mail
+Mulberry
+
+
+
+Studiosetup
+
+
+RME HDSP 9632
+PicoPSU
+ADAT
+
+
+Multi-Track Drifting
+
+
+Ardour
+Jack
+Ladish
+OpenSoundControl
+PureData
+Blerg
+
+
+
+Lesefoo
+
+
+NginX Architecture overview  (Marc)
+
+
+
+Mimimi der Woche
+
+
+C++ (Marc)
+
+Picks
+Pancake Kissen
+Table Flipping
+
+
+Table Flipping Game
+2010 World Flipping a table over in anger Tournament
+
+
+moovel  (Marc)
+stapler(ingo)
+Bootswatch
+fsarchiver
+tahoe-lafs
+Mailbox for Python
+
+
+]]>
+      </itunes:summary>
+      <itunes:author>Binärgewitter Crew</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+      
+    </item>
     
     
     <item>
